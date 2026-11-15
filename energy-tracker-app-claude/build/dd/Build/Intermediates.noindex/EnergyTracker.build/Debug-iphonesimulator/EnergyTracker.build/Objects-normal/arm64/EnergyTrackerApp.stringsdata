@@ -1,0 +1,56 @@
+{
+  "source": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/EnergyTrackerApp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Log Reading",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "Log Event",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "System",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 79
+        }
+      },
+      {
+        "comment": "",
+        "key": "Light",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 80
+        }
+      },
+      {
+        "comment": "",
+        "key": "Dark",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 81
+        }
+      }
+    ]
+  },
+  "version": 1
+}

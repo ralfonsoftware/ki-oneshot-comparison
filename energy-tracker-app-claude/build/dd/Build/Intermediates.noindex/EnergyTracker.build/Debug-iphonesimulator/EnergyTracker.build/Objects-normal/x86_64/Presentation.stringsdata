@@ -1,0 +1,152 @@
+{
+  "source": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/Shared/Presentation.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Within range",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "Below baseline",
+        "location": {
+          "startingColumn": 48,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "Trending",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 38
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ kWh",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ kWh under baseline pace so far",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 167
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ kWh above baseline pace so far",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 169
+        }
+      },
+      {
+        "comment": "",
+        "key": "Right on baseline pace so far",
+        "location": {
+          "startingColumn": 73,
+          "startingLine": 171
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ kWh above baseline pace so far, inside your margin",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 172
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ — %@ kWh under baseline pace.",
+        "location": {
+          "startingColumn": 59,
+          "startingLine": 181
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ — right on baseline pace.",
+        "location": {
+          "startingColumn": 69,
+          "startingLine": 182
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ — %@ kWh above baseline pace.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 183
+        }
+      },
+      {
+        "comment": "",
+        "key": "Last reading %lld days ago — status is less certain",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 188
+        }
+      },
+      {
+        "comment": "",
+        "key": "Log your first reading to get started",
+        "location": {
+          "startingColumn": 52,
+          "startingLine": 193
+        }
+      },
+      {
+        "comment": "",
+        "key": "Decide about the lower reading to see your status",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 194
+        }
+      },
+      {
+        "comment": "",
+        "key": "Set your yearly target to see your status",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 195
+        }
+      },
+      {
+        "comment": "",
+        "key": "Last reading today",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 201
+        }
+      },
+      {
+        "comment": "",
+        "key": "Last reading yesterday",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 202
+        }
+      },
+      {
+        "comment": "",
+        "key": "Last reading %lld days ago",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 203
+        }
+      }
+    ]
+  },
+  "version": 1
+}

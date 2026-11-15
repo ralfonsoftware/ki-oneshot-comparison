@@ -1,0 +1,123 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "${applicationName} status" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "${applicationName}-Status"
+          }
+        }
+      }
+    },
+    "Add a note to ${applicationName}" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notiz zu ${applicationName} hinzufügen"
+          }
+        }
+      }
+    },
+    "Get my ${applicationName} status" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Meinen ${applicationName}-Status abfragen"
+          }
+        },
+        "en" : {
+          "stringSet" : {
+            "state" : "new",
+            "values" : [
+              "Get my ${applicationName} status",
+              "Is my electricity on track in ${applicationName}",
+              "${applicationName} status"
+            ]
+          }
+        }
+      }
+    },
+    "Is my electricity on track in ${applicationName}" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Liegt mein Strom in ${applicationName} im Plan"
+          }
+        }
+      }
+    },
+    "Log a meter reading in ${applicationName}" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Zählerstand in ${applicationName} erfassen"
+          }
+        },
+        "en" : {
+          "stringSet" : {
+            "state" : "new",
+            "values" : [
+              "Log a meter reading in ${applicationName}",
+              "Log meter reading with ${applicationName}",
+              "New ${applicationName} reading"
+            ]
+          }
+        }
+      }
+    },
+    "Log an event in ${applicationName}" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Ereignis in ${applicationName} erfassen"
+          }
+        },
+        "en" : {
+          "stringSet" : {
+            "state" : "new",
+            "values" : [
+              "Log an event in ${applicationName}",
+              "Add a note to ${applicationName}"
+            ]
+          }
+        }
+      }
+    },
+    "Log meter reading with ${applicationName}" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zählerstand mit ${applicationName} erfassen"
+          }
+        }
+      }
+    },
+    "New ${applicationName} reading" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neuer ${applicationName}-Zählerstand"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

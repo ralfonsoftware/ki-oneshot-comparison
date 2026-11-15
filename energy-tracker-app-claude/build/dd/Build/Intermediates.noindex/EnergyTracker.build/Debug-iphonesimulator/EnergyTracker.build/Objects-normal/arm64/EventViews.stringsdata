@@ -1,0 +1,160 @@
+{
+  "source": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Views/EventViews.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Log event",
+        "location": {
+          "startingColumn": 65,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "Edit event",
+        "location": {
+          "startingColumn": 98,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete this event?",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recent events",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "What happened?",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 26
+        }
+      },
+      {
+        "comment": "",
+        "key": "When",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 46
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tag",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "None",
+        "location": {
+          "startingColumn": 104,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete event",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 55
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 70,
+          "startingLine": 62
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 64
+        }
+      },
+      {
+        "comment": "",
+        "key": "Event saved",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 104
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 70
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tag",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 140
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add rooms, power points and devices in Settings → Rooms & Devices.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 136
+        }
+      },
+      {
+        "comment": "",
+        "key": "None",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 122
+        }
+      },
+      {
+        "comment": "",
+        "key": "Usage was above baseline pace in the two weeks around this event.",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 168
+        }
+      },
+      {
+        "comment": "",
+        "key": "Usage was below baseline pace in the two weeks around this event.",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 169
+        }
+      },
+      {
+        "comment": "",
+        "key": "·",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 202
+        }
+      }
+    ]
+  },
+  "version": 1
+}

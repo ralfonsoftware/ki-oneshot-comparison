@@ -1,0 +1,3446 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "%@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@"
+          }
+        }
+      }
+    },
+    "%@ / kWh": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ / kWh"
+          }
+        }
+      }
+    },
+    "%@ / month": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ / Monat"
+          }
+        }
+      }
+    },
+    "%@ from before the restore arrived from another device.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ von vor der Wiederherstellung kamen von einem anderen Gerät."
+          }
+        }
+      }
+    },
+    "%@ kWh": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ kWh"
+          }
+        }
+      }
+    },
+    "%@ kWh above baseline pace so far": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bisher %@ kWh über dem Basistempo"
+          }
+        }
+      }
+    },
+    "%@ kWh above baseline pace so far, inside your margin": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bisher %@ kWh über dem Basistempo, innerhalb deines Spielraums"
+          }
+        }
+      }
+    },
+    "%@ kWh under baseline pace so far": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bisher %@ kWh unter dem Basistempo"
+          }
+        }
+      }
+    },
+    "%@ – %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ – %@"
+          }
+        }
+      }
+    },
+    "%@ – %@ · %@ days": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ – %@ · %@ Tage"
+          }
+        }
+      }
+    },
+    "%@ — %@ kWh above baseline pace.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ – %@ kWh über dem Basistempo."
+          }
+        }
+      }
+    },
+    "%@ — %@ kWh under baseline pace.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ – %@ kWh unter dem Basistempo."
+          }
+        }
+      }
+    },
+    "%@ — right on baseline pace.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ – genau im Basistempo."
+          }
+        }
+      }
+    },
+    "%@ → %@ kWh": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ → %@ kWh"
+          }
+        }
+      }
+    },
+    "%@, %@ kWh": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@, %@ kWh"
+          }
+        }
+      }
+    },
+    "%lld days": {
+      "localizations": {
+        "de": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld Tag"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld Tage"
+                }
+              }
+            }
+          }
+        },
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld day"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld days"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld events": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld Ereignisse"
+          }
+        }
+      }
+    },
+    "%lld exact duplicate readings were merged.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld exakt doppelte Zählerstände wurden zusammengeführt."
+          }
+        }
+      }
+    },
+    "%lld months": {
+      "localizations": {
+        "de": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld Monat"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld Monate"
+                }
+              }
+            }
+          }
+        },
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld month"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld months"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld people": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld Personen"
+          }
+        }
+      }
+    },
+    "%lld readings": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld Zählerstände"
+          }
+        }
+      }
+    },
+    "%lld readings need a decision": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld Zählerstände brauchen eine Entscheidung"
+          }
+        }
+      }
+    },
+    "%lld records": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld Einträge"
+          }
+        }
+      }
+    },
+    "1 event": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 Ereignis"
+          }
+        }
+      }
+    },
+    "1 exact duplicate reading was merged.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 exakt doppelter Zählerstand wurde zusammengeführt."
+          }
+        }
+      }
+    },
+    "1 month": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 Monat"
+          }
+        }
+      }
+    },
+    "1 person": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 Person"
+          }
+        }
+      }
+    },
+    "1 reading": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 Zählerstand"
+          }
+        }
+      }
+    },
+    "1 reading needs a decision": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 Zählerstand braucht eine Entscheidung"
+          }
+        }
+      }
+    },
+    "1 record": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 Eintrag"
+          }
+        }
+      }
+    },
+    "1 year": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 Jahr"
+          }
+        }
+      }
+    },
+    "3 months": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3 Monate"
+          }
+        }
+      }
+    },
+    "About": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Info"
+          }
+        }
+      }
+    },
+    "Actions for %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aktionen für %@"
+          }
+        }
+      }
+    },
+    "Add device": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gerät hinzufügen"
+          }
+        }
+      }
+    },
+    "Add power point": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Steckdose hinzufügen"
+          }
+        }
+      }
+    },
+    "Add room": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Raum hinzufügen"
+          }
+        }
+      }
+    },
+    "Add rooms, power points and devices in Settings → Rooms & Devices.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Räume, Steckdosen und Geräte legst du unter Einstellungen → Räume & Geräte an."
+          }
+        }
+      }
+    },
+    "Add tariff": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tarif hinzufügen"
+          }
+        }
+      }
+    },
+    "Add your current tariff to compare.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Füge deinen aktuellen Tarif hinzu, um zu vergleichen."
+          }
+        }
+      }
+    },
+    "All": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alles"
+          }
+        }
+      }
+    },
+    "Already saved": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bereits gespeichert"
+          }
+        }
+      }
+    },
+    "Already saved.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bereits gespeichert."
+          }
+        }
+      }
+    },
+    "An archived item cannot get new items.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ein archiviertes Element kann keine neuen Elemente bekommen."
+          }
+        }
+      }
+    },
+    "Another tariff already starts on %@.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ein anderer Tarif beginnt bereits am %@."
+          }
+        }
+      }
+    },
+    "Appearance": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Darstellung"
+          }
+        }
+      }
+    },
+    "Archive": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Archivieren"
+          }
+        }
+      }
+    },
+    "Archived": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Archiviert"
+          }
+        }
+      }
+    },
+    "At what value do the digits wrap?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bei welchem Wert springen die Ziffern um?"
+          }
+        }
+      }
+    },
+    "At your pace of %@ kWh a year, your current tariff costs %@.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bei deinem Tempo von %1$@ kWh im Jahr kostet dein aktueller Tarif %2$@."
+          }
+        }
+      }
+    },
+    "Base fee": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grundgebühr"
+          }
+        }
+      }
+    },
+    "Base fee changed from %@ to %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grundgebühr geändert von %1$@ auf %2$@"
+          }
+        }
+      }
+    },
+    "Base fee per month": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grundgebühr pro Monat"
+          }
+        }
+      }
+    },
+    "Based on an older reading — the result is less certain.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Beruht auf einem älteren Zählerstand – das Ergebnis ist weniger sicher."
+          }
+        }
+      }
+    },
+    "Baseline for the same period": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Basis für denselben Zeitraum"
+          }
+        }
+      }
+    },
+    "Baseline pace": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Basistempo"
+          }
+        }
+      }
+    },
+    "Below baseline": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unter der Basis"
+          }
+        }
+      }
+    },
+    "Build": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Build"
+          }
+        }
+      }
+    },
+    "Cancel": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abbrechen"
+          }
+        }
+      }
+    },
+    "Change": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ändern"
+          }
+        }
+      }
+    },
+    "Change classification": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Einordnung ändern"
+          }
+        }
+      }
+    },
+    "Changes": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Änderungen"
+          }
+        }
+      }
+    },
+    "Changes apply from now on. Stored history is never recalculated. Leave the yearly target empty to hide the status.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Änderungen gelten ab jetzt. Gespeicherter Verlauf wird nie neu berechnet. Lass das Jahresziel leer, um den Status auszublenden."
+          }
+        }
+      }
+    },
+    "Checking iCloud…": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iCloud wird geprüft …"
+          }
+        }
+      }
+    },
+    "Checking the file…": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Datei wird geprüft …"
+          }
+        }
+      }
+    },
+    "Choose": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Auswählen"
+          }
+        }
+      }
+    },
+    "Choose a JSON export file from Energy Tracker or from the old web app. Nothing changes until you confirm.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wähle eine JSON-Exportdatei aus Energy Tracker oder aus der alten Web-App. Nichts ändert sich, bevor du bestätigst."
+          }
+        }
+      }
+    },
+    "Choose another file": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Andere Datei wählen"
+          }
+        }
+      }
+    },
+    "Choose export file": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exportdatei wählen"
+          }
+        }
+      }
+    },
+    "Classified as": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eingeordnet als"
+          }
+        }
+      }
+    },
+    "Compare": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vergleichen"
+          }
+        }
+      }
+    },
+    "Compare a candidate tariff": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Einen anderen Tarif vergleichen"
+          }
+        }
+      }
+    },
+    "Confidence": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sicherheit"
+          }
+        }
+      }
+    },
+    "Contract start": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vertragsbeginn"
+          }
+        }
+      }
+    },
+    "Correct reading": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zählerstand korrigieren"
+          }
+        }
+      }
+    },
+    "Correct value": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wert korrigieren"
+          }
+        }
+      }
+    },
+    "Corrected from %@ on %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Korrigiert von %1$@ am %2$@"
+          }
+        }
+      }
+    },
+    "Corrected · %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Korrigiert · %@"
+          }
+        }
+      }
+    },
+    "Corrections": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Korrekturen"
+          }
+        }
+      }
+    },
+    "Could not save: %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Speichern nicht möglich: %@"
+          }
+        }
+      }
+    },
+    "Currency": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Währung"
+          }
+        }
+      }
+    },
+    "Currency changed from %@ to %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Währung geändert von %1$@ auf %2$@"
+          }
+        }
+      }
+    },
+    "Current tariff": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aktueller Tarif"
+          }
+        }
+      }
+    },
+    "Current value": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aktueller Wert"
+          }
+        }
+      }
+    },
+    "Currently classified as: %@.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Derzeit eingeordnet als: %@."
+          }
+        }
+      }
+    },
+    "Dark": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dunkel"
+          }
+        }
+      }
+    },
+    "Data": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Daten"
+          }
+        }
+      }
+    },
+    "Date": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Datum"
+          }
+        }
+      }
+    },
+    "Decide": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entscheiden"
+          }
+        }
+      }
+    },
+    "Decide about the lower reading to see your status": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entscheide über den niedrigeren Zählerstand, um deinen Status zu sehen"
+          }
+        }
+      }
+    },
+    "Decide now": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jetzt entscheiden"
+          }
+        }
+      }
+    },
+    "Delete": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Löschen"
+          }
+        }
+      }
+    },
+    "Delete event": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ereignis löschen"
+          }
+        }
+      }
+    },
+    "Delete tariff": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tarif löschen"
+          }
+        }
+      }
+    },
+    "Delete the other tariff?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Den anderen Tarif löschen?"
+          }
+        }
+      }
+    },
+    "Delete this event?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dieses Ereignis löschen?"
+          }
+        }
+      }
+    },
+    "Delete this tariff?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diesen Tarif löschen?"
+          }
+        }
+      }
+    },
+    "Describe the event in 1 to 500 characters.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Beschreibe das Ereignis mit 1 bis 500 Zeichen."
+          }
+        }
+      }
+    },
+    "Devices": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geräte"
+          }
+        }
+      }
+    },
+    "Difference": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Differenz"
+          }
+        }
+      }
+    },
+    "Difference between your consumption and the baseline pace over time. Points above zero use more than the baseline.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Differenz zwischen deinem Verbrauch und dem Basistempo im Zeitverlauf. Punkte über null liegen über der Basis."
+          }
+        }
+      }
+    },
+    "Difference to baseline pace": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Differenz zum Basistempo"
+          }
+        }
+      }
+    },
+    "Difference to baseline pace in kWh": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Differenz zum Basistempo in kWh"
+          }
+        }
+      }
+    },
+    "Difference to baseline pace, in kWh": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Differenz zum Basistempo, in kWh"
+          }
+        }
+      }
+    },
+    "Digit capacity": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zählerkapazität"
+          }
+        }
+      }
+    },
+    "Discard": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verwerfen"
+          }
+        }
+      }
+    },
+    "Discard these records?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diese Einträge verwerfen?"
+          }
+        }
+      }
+    },
+    "Done": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erledigt"
+          }
+        }
+      }
+    },
+    "Each reading you log adds a point here.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jeder erfasste Zählerstand fügt hier einen Punkt hinzu."
+          }
+        }
+      }
+    },
+    "Edit": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bearbeiten"
+          }
+        }
+      }
+    },
+    "Edit event": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ereignis bearbeiten"
+          }
+        }
+      }
+    },
+    "Edit tariff": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tarif bearbeiten"
+          }
+        }
+      }
+    },
+    "Energy Status": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Energiestatus"
+          }
+        }
+      }
+    },
+    "Energy Tracker": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Energy Tracker"
+          }
+        }
+      }
+    },
+    "Enter a number, for example 12345.6.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gib eine Zahl ein, zum Beispiel 12345,6."
+          }
+        }
+      }
+    },
+    "Enter a value greater than 0 kWh.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gib einen Wert über 0 kWh ein."
+          }
+        }
+      }
+    },
+    "Enter the candidate's price per kWh and base fee.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gib Arbeitspreis und Grundgebühr des anderen Tarifs ein."
+          }
+        }
+      }
+    },
+    "Enter the capacity in kWh, for example 100000.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gib die Kapazität in kWh ein, zum Beispiel 100000."
+          }
+        }
+      }
+    },
+    "Enter the price per kWh and the base fee as numbers.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gib Arbeitspreis und Grundgebühr als Zahlen ein."
+          }
+        }
+      }
+    },
+    "Enter the threshold as a number of 0 or more.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gib die Schwelle als Zahl ab 0 ein."
+          }
+        }
+      }
+    },
+    "Enter the yearly target as a number greater than 0.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gib das Jahresziel als Zahl über 0 ein."
+          }
+        }
+      }
+    },
+    "Event": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ereignis"
+          }
+        }
+      }
+    },
+    "Event saved": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ereignis gespeichert"
+          }
+        }
+      }
+    },
+    "Event saved.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ereignis gespeichert."
+          }
+        }
+      }
+    },
+    "Events": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ereignisse"
+          }
+        }
+      }
+    },
+    "Export all data": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alle Daten exportieren"
+          }
+        }
+      }
+    },
+    "Export current data first": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zuerst aktuelle Daten exportieren"
+          }
+        }
+      }
+    },
+    "For example 100000 kWh for a meter with five digits before the decimal point.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zum Beispiel 100000 kWh bei einem Zähler mit fünf Stellen vor dem Komma."
+          }
+        }
+      }
+    },
+    "For example: away 2 weeks, sauna 3h.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zum Beispiel: 2 Wochen verreist, Sauna 3 Std."
+          }
+        }
+      }
+    },
+    "From %@ · minimum term %lld months": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ab %1$@ · Mindestlaufzeit %2$lld Monate"
+          }
+        }
+      }
+    },
+    "Gap": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lücke"
+          }
+        }
+      }
+    },
+    "Gap end": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lückenende"
+          }
+        }
+      }
+    },
+    "Gap start": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lückenbeginn"
+          }
+        }
+      }
+    },
+    "Get Energy Status": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Energiestatus abfragen"
+          }
+        }
+      }
+    },
+    "History": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verlauf"
+          }
+        }
+      }
+    },
+    "How much electricity do you expect to use in a year?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wie viel Strom erwartest du im Jahr zu verbrauchen?"
+          }
+        }
+      }
+    },
+    "How this is calculated": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "So wird gerechnet"
+          }
+        }
+      }
+    },
+    "Import": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Importieren"
+          }
+        }
+      }
+    },
+    "Import finished.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Import abgeschlossen."
+          }
+        }
+      }
+    },
+    "Import from export file": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aus Exportdatei importieren"
+          }
+        }
+      }
+    },
+    "Importing…": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wird importiert …"
+          }
+        }
+      }
+    },
+    "Its change history is kept.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sein Änderungsverlauf bleibt erhalten."
+          }
+        }
+      }
+    },
+    "Keep": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Behalten"
+          }
+        }
+      }
+    },
+    "Keep one tariff": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Einen Tarif behalten"
+          }
+        }
+      }
+    },
+    "Keep selected, delete the other": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ausgewählten behalten, anderen löschen"
+          }
+        }
+      }
+    },
+    "Last reading %lld days ago": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Letzter Zählerstand vor %lld Tagen"
+          }
+        }
+      }
+    },
+    "Last reading %lld days ago — status is less certain": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Letzter Zählerstand vor %lld Tagen – der Status ist weniger sicher"
+          }
+        }
+      }
+    },
+    "Last reading %lld days ago; you count a status as less certain after %lld days.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Letzter Zählerstand vor %1$lld Tagen; du wertest einen Status nach %2$lld Tagen als weniger sicher."
+          }
+        }
+      }
+    },
+    "Last reading today": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Letzter Zählerstand heute"
+          }
+        }
+      }
+    },
+    "Last reading yesterday": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Letzter Zählerstand gestern"
+          }
+        }
+      }
+    },
+    "Last: %@ · %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zuletzt: %1$@ · %2$@"
+          }
+        }
+      }
+    },
+    "Later": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Später"
+          }
+        }
+      }
+    },
+    "Less certain": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weniger sicher"
+          }
+        }
+      }
+    },
+    "Less certain after": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weniger sicher nach"
+          }
+        }
+      }
+    },
+    "Light": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hell"
+          }
+        }
+      }
+    },
+    "Log ${kwh} kWh": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${kwh} kWh erfassen"
+          }
+        }
+      }
+    },
+    "Log Event": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ereignis erfassen"
+          }
+        }
+      }
+    },
+    "Log Meter Reading": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zählerstand erfassen"
+          }
+        }
+      }
+    },
+    "Log Reading": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zählerstand erfassen"
+          }
+        }
+      }
+    },
+    "Log a reading": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zählerstand erfassen"
+          }
+        }
+      }
+    },
+    "Log at least two readings to compare tariffs.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erfasse mindestens zwei Zählerstände, um Tarife zu vergleichen."
+          }
+        }
+      }
+    },
+    "Log event": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ereignis erfassen"
+          }
+        }
+      }
+    },
+    "Log event ${text}": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ereignis ${text} erfassen"
+          }
+        }
+      }
+    },
+    "Log reading": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zählerstand erfassen"
+          }
+        }
+      }
+    },
+    "Log your first reading to get started": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erfasse deinen ersten Zählerstand, um loszulegen"
+          }
+        }
+      }
+    },
+    "Looking for your data in iCloud…": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deine Daten werden in iCloud gesucht …"
+          }
+        }
+      }
+    },
+    "Lower reading": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Niedrigerer Zählerstand"
+          }
+        }
+      }
+    },
+    "Lower than the reading before": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Niedriger als der Zählerstand davor"
+          }
+        }
+      }
+    },
+    "Meter capacity": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zählerkapazität"
+          }
+        }
+      }
+    },
+    "Meter reading": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zählerstand"
+          }
+        }
+      }
+    },
+    "Meter replaced or reset": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zähler getauscht oder zurückgesetzt"
+          }
+        }
+      }
+    },
+    "Meter rolled over": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zähler übergelaufen"
+          }
+        }
+      }
+    },
+    "Meter rolled over (digits wrapped)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zähler übergelaufen (Ziffern umgesprungen)"
+          }
+        }
+      }
+    },
+    "Meter was replaced or reset": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zähler wurde getauscht oder zurückgesetzt"
+          }
+        }
+      }
+    },
+    "Minimum term": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mindestlaufzeit"
+          }
+        }
+      }
+    },
+    "Minimum term changed from %@ to %@ months": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mindestlaufzeit geändert von %1$@ auf %2$@ Monate"
+          }
+        }
+      }
+    },
+    "Minimum term ends": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mindestlaufzeit endet"
+          }
+        }
+      }
+    },
+    "Money": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geld"
+          }
+        }
+      }
+    },
+    "Move to": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verschieben nach"
+          }
+        }
+      }
+    },
+    "Name": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Name"
+          }
+        }
+      }
+    },
+    "Names need 1 to 200 characters.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Namen brauchen 1 bis 200 Zeichen."
+          }
+        }
+      }
+    },
+    "Needs a decision": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Braucht eine Entscheidung"
+          }
+        }
+      }
+    },
+    "New device": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Neues Gerät"
+          }
+        }
+      }
+    },
+    "New power point": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Neue Steckdose"
+          }
+        }
+      }
+    },
+    "New room": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Neuer Raum"
+          }
+        }
+      }
+    },
+    "Next": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weiter"
+          }
+        }
+      }
+    },
+    "No events yet. Log one when something unusual happens, like being away or a guest staying over.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Noch keine Ereignisse. Erfasse eines, wenn etwas Ungewöhnliches passiert, etwa eine Reise oder Besuch über Nacht."
+          }
+        }
+      }
+    },
+    "No history yet": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Noch kein Verlauf"
+          }
+        }
+      }
+    },
+    "No matching events.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keine passenden Ereignisse."
+          }
+        }
+      }
+    },
+    "No matching readings.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keine passenden Zählerstände."
+          }
+        }
+      }
+    },
+    "No reading between %@ and %@, so this stretch is shown as a gap.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kein Zählerstand zwischen %1$@ und %2$@, darum wird dieser Abschnitt als Lücke gezeigt."
+          }
+        }
+      }
+    },
+    "No readings yet.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Noch keine Zählerstände."
+          }
+        }
+      }
+    },
+    "No rooms yet. Rooms, power points and devices are labels for events.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Noch keine Räume. Räume, Steckdosen und Geräte sind Etiketten für Ereignisse."
+          }
+        }
+      }
+    },
+    "None": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keins"
+          }
+        }
+      }
+    },
+    "Not worth switching": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wechsel lohnt sich nicht"
+          }
+        }
+      }
+    },
+    "Nothing to decide": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nichts zu entscheiden"
+          }
+        }
+      }
+    },
+    "Notifications are turned off for Energy Tracker in the Settings app.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mitteilungen für Energy Tracker sind in der Einstellungen-App ausgeschaltet."
+          }
+        }
+      }
+    },
+    "OK": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OK"
+          }
+        }
+      }
+    },
+    "Open Log Reading": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zählerstand-Erfassung öffnen"
+          }
+        }
+      }
+    },
+    "Opens Energy Tracker ready to log a meter reading.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Öffnet Energy Tracker direkt zum Erfassen eines Zählerstands."
+          }
+        }
+      }
+    },
+    "Opens Energy Tracker ready to log a reading.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Öffnet Energy Tracker direkt zum Erfassen eines Zählerstands."
+          }
+        }
+      }
+    },
+    "Original value": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ursprünglicher Wert"
+          }
+        }
+      }
+    },
+    "Pace": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tempo"
+          }
+        }
+      }
+    },
+    "Per year": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pro Jahr"
+          }
+        }
+      }
+    },
+    "Period": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zeitraum"
+          }
+        }
+      }
+    },
+    "Power points": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Steckdosen"
+          }
+        }
+      }
+    },
+    "Price per kWh": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Arbeitspreis"
+          }
+        }
+      }
+    },
+    "Price per kWh changed from %@ to %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Arbeitspreis geändert von %1$@ auf %2$@"
+          }
+        }
+      }
+    },
+    "Privacy policy": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Datenschutzerklärung"
+          }
+        }
+      }
+    },
+    "Privacy: your data stays on your Apple devices and in your private iCloud database. Energy Tracker has no server, no account, no analytics and no tracking.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Datenschutz: Deine Daten bleiben auf deinen Apple-Geräten und in deiner privaten iCloud-Datenbank. Energy Tracker hat keinen Server, kein Konto, keine Analyse und kein Tracking."
+          }
+        }
+      }
+    },
+    "Problems": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Probleme"
+          }
+        }
+      }
+    },
+    "Range": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zeitraum"
+          }
+        }
+      }
+    },
+    "Read at": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abgelesen am"
+          }
+        }
+      }
+    },
+    "Read your meter every day or two. Energy Tracker tells you whether this year's use is on track.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lies deinen Zähler alle ein bis zwei Tage ab. Energy Tracker sagt dir, ob dein Verbrauch in diesem Jahr im Plan liegt."
+          }
+        }
+      }
+    },
+    "Reading": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zählerstand"
+          }
+        }
+      }
+    },
+    "Reading not found": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zählerstand nicht gefunden"
+          }
+        }
+      }
+    },
+    "Readings": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zählerstände"
+          }
+        }
+      }
+    },
+    "Readings cannot be deleted. Correct the value instead.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zählerstände lassen sich nicht löschen. Korrigiere stattdessen den Wert."
+          }
+        }
+      }
+    },
+    "Recent events": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Letzte Ereignisse"
+          }
+        }
+      }
+    },
+    "Regression decisions": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entscheidungen zu niedrigeren Ständen"
+          }
+        }
+      }
+    },
+    "Reminders": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erinnerungen"
+          }
+        }
+      }
+    },
+    "Rename": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Umbenennen"
+          }
+        }
+      }
+    },
+    "Replace all data": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alle Daten ersetzen"
+          }
+        }
+      }
+    },
+    "Replace all data?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alle Daten ersetzen?"
+          }
+        }
+      }
+    },
+    "Restore": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wiederherstellen"
+          }
+        }
+      }
+    },
+    "Right on baseline pace so far": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bisher genau im Basistempo"
+          }
+        }
+      }
+    },
+    "Rooms": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Räume"
+          }
+        }
+      }
+    },
+    "Rooms & Devices": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Räume & Geräte"
+          }
+        }
+      }
+    },
+    "Save": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sichern"
+          }
+        }
+      }
+    },
+    "Save rollover": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Überlauf sichern"
+          }
+        }
+      }
+    },
+    "Saved": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gesichert"
+          }
+        }
+      }
+    },
+    "Saved %@.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ gesichert."
+          }
+        }
+      }
+    },
+    "Saved %@. %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ gesichert. %2$@"
+          }
+        }
+      }
+    },
+    "Saved · %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gesichert · %@"
+          }
+        }
+      }
+    },
+    "Saved. This reading is lower than the previous one — open Energy Tracker to classify it.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gesichert. Dieser Zählerstand ist niedriger als der vorherige – öffne Energy Tracker, um ihn einzuordnen."
+          }
+        }
+      }
+    },
+    "Saves a Main Meter reading with the current time and tells you the new status.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sichert einen Zählerstand mit der aktuellen Uhrzeit und nennt dir den neuen Status."
+          }
+        }
+      }
+    },
+    "Saves a short note about something that affects consumption, such as being away.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sichert eine kurze Notiz zu etwas, das den Verbrauch beeinflusst, etwa eine Abwesenheit."
+          }
+        }
+      }
+    },
+    "Scaled to the period": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Auf den Zeitraum umgerechnet"
+          }
+        }
+      }
+    },
+    "Segment": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abschnitt"
+          }
+        }
+      }
+    },
+    "Set your yearly target to see your status": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lege dein Jahresziel fest, um deinen Status zu sehen"
+          }
+        }
+      }
+    },
+    "Settings": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Einstellungen"
+          }
+        }
+      }
+    },
+    "Show archived": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Archivierte zeigen"
+          }
+        }
+      }
+    },
+    "Shows how the status is calculated": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zeigt, wie der Status berechnet wird"
+          }
+        }
+      }
+    },
+    "Skip": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Überspringen"
+          }
+        }
+      }
+    },
+    "Smart plug readings (kept, not shown)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Messwerte smarter Steckdosen (gespeichert, nicht angezeigt)"
+          }
+        }
+      }
+    },
+    "Start date changed from %@ to %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Beginn geändert von %1$@ auf %2$@"
+          }
+        }
+      }
+    },
+    "Start fresh": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Neu beginnen"
+          }
+        }
+      }
+    },
+    "Status snapshots": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Status-Momentaufnahmen"
+          }
+        }
+      }
+    },
+    "Support": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Support"
+          }
+        }
+      }
+    },
+    "Switching bonus (optional)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wechselbonus (optional)"
+          }
+        }
+      }
+    },
+    "Synced with iCloud": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mit iCloud synchronisiert"
+          }
+        }
+      }
+    },
+    "System": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "System"
+          }
+        }
+      }
+    },
+    "Tag": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Etikett"
+          }
+        }
+      }
+    },
+    "Tariff": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tarif"
+          }
+        }
+      }
+    },
+    "Tariff check every": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tarifcheck alle"
+          }
+        }
+      }
+    },
+    "Tariff check — add your current tariff first.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tarifcheck – füge zuerst deinen aktuellen Tarif hinzu."
+          }
+        }
+      }
+    },
+    "Tariff check — nothing due until %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tarifcheck – nichts fällig bis %@"
+          }
+        }
+      }
+    },
+    "Tariff not found": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tarif nicht gefunden"
+          }
+        }
+      }
+    },
+    "Tariff reminders on this iPad": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tariferinnerungen auf diesem iPad"
+          }
+        }
+      }
+    },
+    "Tariff reminders on this iPhone": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tariferinnerungen auf diesem iPhone"
+          }
+        }
+      }
+    },
+    "Tariff saved": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tarif gesichert"
+          }
+        }
+      }
+    },
+    "Tariffs": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tarife"
+          }
+        }
+      }
+    },
+    "Tells you in one sentence whether your electricity use is on track.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sagt dir in einem Satz, ob dein Stromverbrauch im Plan liegt."
+          }
+        }
+      }
+    },
+    "That value is too large for a meter reading.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dieser Wert ist zu groß für einen Zählerstand."
+          }
+        }
+      }
+    },
+    "The base fee must be 0 or more.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Grundgebühr muss 0 oder mehr betragen."
+          }
+        }
+      }
+    },
+    "The capacity must be larger than the previous reading.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Kapazität muss größer sein als der vorherige Zählerstand."
+          }
+        }
+      }
+    },
+    "The contract period must be between 1 and 1,200 months.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Mindestlaufzeit muss zwischen 1 und 1.200 Monaten liegen."
+          }
+        }
+      }
+    },
+    "The difference is larger than the threshold for this period, so the status is trending.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Differenz ist größer als die Schwelle für diesen Zeitraum, darum ist der Status „Steigend“."
+          }
+        }
+      }
+    },
+    "The difference is not larger than the threshold for this period, so the status is within range.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Differenz ist nicht größer als die Schwelle für diesen Zeitraum, darum ist der Status „Im Rahmen“."
+          }
+        }
+      }
+    },
+    "The file contains": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Datei enthält"
+          }
+        }
+      }
+    },
+    "The file could not be read.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Datei konnte nicht gelesen werden."
+          }
+        }
+      }
+    },
+    "The file is larger than 250 MB.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Datei ist größer als 250 MB."
+          }
+        }
+      }
+    },
+    "The minimum term is not an end date. The tariff applies until the next tariff starts.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Mindestlaufzeit ist kein Enddatum. Der Tarif gilt, bis der nächste Tarif beginnt."
+          }
+        }
+      }
+    },
+    "The original value stays visible in the reading's history.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der ursprüngliche Wert bleibt im Verlauf des Zählerstands sichtbar."
+          }
+        }
+      }
+    },
+    "The price per kWh must be greater than 0.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der Arbeitspreis muss größer als 0 sein."
+          }
+        }
+      }
+    },
+    "The start date must be between 1900 and 2200.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der Beginn muss zwischen 1900 und 2200 liegen."
+          }
+        }
+      }
+    },
+    "The value shown on the meter.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der Wert, den der Zähler anzeigt."
+          }
+        }
+      }
+    },
+    "This contract already started. Change its prices anyway?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dieser Vertrag hat schon begonnen. Preise trotzdem ändern?"
+          }
+        }
+      }
+    },
+    "This deletes all current data on all your devices signed in to this Apple Account and replaces it with the file.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Damit werden alle aktuellen Daten auf allen deinen Geräten mit diesem Apple Account gelöscht und durch die Datei ersetzt."
+          }
+        }
+      }
+    },
+    "This file can't be imported. Nothing was changed.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diese Datei kann nicht importiert werden. Nichts wurde geändert."
+          }
+        }
+      }
+    },
+    "This item no longer exists.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dieses Element gibt es nicht mehr."
+          }
+        }
+      }
+    },
+    "This reading is lower than the one before (%@ → %@ kWh). What happened?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dieser Zählerstand ist niedriger als der davor (%1$@ → %2$@ kWh). Was ist passiert?"
+          }
+        }
+      }
+    },
+    "This reading was classified differently on another device. It is now: %@.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dieser Zählerstand wurde auf einem anderen Gerät anders eingeordnet. Jetzt gilt: %@."
+          }
+        }
+      }
+    },
+    "This setting is per device, so you can get the reminder on one device only instead of on all of them. You get one reminder at 10:00 on the day the tariff check is due.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diese Einstellung gilt pro Gerät, damit die Erinnerung nur auf einem Gerät erscheint statt auf allen. Du bekommst eine Erinnerung um 10:00 Uhr am Tag, an dem der Tarifcheck fällig ist."
+          }
+        }
+      }
+    },
+    "Threshold": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schwelle"
+          }
+        }
+      }
+    },
+    "Time to check your tariff": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zeit für einen Tarifcheck"
+          }
+        }
+      }
+    },
+    "Time to check your tariff — your minimum term ends on %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zeit für einen Tarifcheck – deine Mindestlaufzeit endet am %@"
+          }
+        }
+      }
+    },
+    "To be deleted": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wird gelöscht"
+          }
+        }
+      }
+    },
+    "Today": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Heute"
+          }
+        }
+      }
+    },
+    "Trend": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trend"
+          }
+        }
+      }
+    },
+    "Trend history": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trendverlauf"
+          }
+        }
+      }
+    },
+    "Trending": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Steigend"
+          }
+        }
+      }
+    },
+    "Trending threshold": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schwelle für „Steigend“"
+          }
+        }
+      }
+    },
+    "Two tariffs start on %@ — keep one": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zwei Tarife beginnen am %@ – behalte einen"
+          }
+        }
+      }
+    },
+    "Typical values": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Typische Werte"
+          }
+        }
+      }
+    },
+    "Usage was above baseline pace in the two weeks around this event.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In den zwei Wochen um dieses Ereignis lag der Verbrauch über dem Basistempo."
+          }
+        }
+      }
+    },
+    "Usage was below baseline pace in the two weeks around this event.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In den zwei Wochen um dieses Ereignis lag der Verbrauch unter dem Basistempo."
+          }
+        }
+      }
+    },
+    "Use a 3-letter currency code such as EUR.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verwende einen Währungscode aus 3 Buchstaben wie EUR."
+          }
+        }
+      }
+    },
+    "Use at most 2 decimal places.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verwende höchstens 2 Nachkommastellen."
+          }
+        }
+      }
+    },
+    "Used only to tag events. Consumption is never split by room or device.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nur zum Etikettieren von Ereignissen. Der Verbrauch wird nie nach Raum oder Gerät aufgeteilt."
+          }
+        }
+      }
+    },
+    "Used so far": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bisher verbraucht"
+          }
+        }
+      }
+    },
+    "Value": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wert"
+          }
+        }
+      }
+    },
+    "Version": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Version"
+          }
+        }
+      }
+    },
+    "View": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ansicht"
+          }
+        }
+      }
+    },
+    "What does the meter show, in kWh?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Was zeigt der Zähler an, in kWh?"
+          }
+        }
+      }
+    },
+    "What happened?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Was ist passiert?"
+          }
+        }
+      }
+    },
+    "When": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wann"
+          }
+        }
+      }
+    },
+    "Whether this year's electricity use is on track.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ob dein Stromverbrauch in diesem Jahr im Plan liegt."
+          }
+        }
+      }
+    },
+    "Which currency do your tariffs use?": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In welcher Währung rechnen deine Tarife?"
+          }
+        }
+      }
+    },
+    "With bonus": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mit Bonus"
+          }
+        }
+      }
+    },
+    "Within range": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Im Rahmen"
+          }
+        }
+      }
+    },
+    "Without bonus effect": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ohne Bonuseffekt"
+          }
+        }
+      }
+    },
+    "Worth switching": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wechsel lohnt sich"
+          }
+        }
+      }
+    },
+    "Yearly target": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jahresziel"
+          }
+        }
+      }
+    },
+    "You used less than the baseline for this period, so the status is below baseline.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Du hast in diesem Zeitraum weniger als die Basis verbraucht, darum ist der Status „Unter der Basis“."
+          }
+        }
+      }
+    },
+    "Your last annual bill is the best guide. You can change this at any time.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deine letzte Jahresabrechnung ist der beste Anhaltspunkt. Du kannst den Wert jederzeit ändern."
+          }
+        }
+      }
+    },
+    "Your minimum term ends on %@.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deine Mindestlaufzeit endet am %@."
+          }
+        }
+      }
+    },
+    "Your pattern": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dein Muster"
+          }
+        }
+      }
+    },
+    "costs %@ more / year": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "kostet %@ mehr / Jahr"
+          }
+        }
+      }
+    },
+    "iCloud": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iCloud"
+          }
+        }
+      }
+    },
+    "iCloud is restricted on this device.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iCloud ist auf diesem Gerät eingeschränkt."
+          }
+        }
+      }
+    },
+    "iCloud is temporarily unavailable.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iCloud ist vorübergehend nicht verfügbar."
+          }
+        }
+      }
+    },
+    "iCloud status could not be determined.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der iCloud-Status ließ sich nicht ermitteln."
+          }
+        }
+      }
+    },
+    "iCloud sync is not set up in this build.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iCloud-Synchronisierung ist in diesem Build nicht eingerichtet."
+          }
+        }
+      }
+    },
+    "iCloud sync off — data stays on %@. Reason: %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iCloud-Synchronisierung aus – Daten bleiben auf %1$@. Grund: %2$@"
+          }
+        }
+      }
+    },
+    "kWh": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "kWh"
+          }
+        }
+      }
+    },
+    "kWh/year": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "kWh/Jahr"
+          }
+        }
+      }
+    },
+    "month": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Monat"
+          }
+        }
+      }
+    },
+    "not signed in to iCloud.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "nicht bei iCloud angemeldet."
+          }
+        }
+      }
+    },
+    "reset": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zurückgesetzt"
+          }
+        }
+      }
+    },
+    "rollover": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Überlauf"
+          }
+        }
+      }
+    },
+    "saved": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "gesichert"
+          }
+        }
+      }
+    },
+    "saves %@ / year": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "spart %@ / Jahr"
+          }
+        }
+      }
+    },
+    "saves nothing": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "spart nichts"
+          }
+        }
+      }
+    },
+    "this iPad": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "diesem iPad"
+          }
+        }
+      }
+    },
+    "this iPhone": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "diesem iPhone"
+          }
+        }
+      }
+    },
+    "·": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "·"
+          }
+        }
+      }
+    },
+    "≈ %@ kWh": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "≈ %@ kWh"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

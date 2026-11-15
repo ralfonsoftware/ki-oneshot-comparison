@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>13</integer>
+	<key>logs</key>
+	<dict>
+		<key>5C5A51EE-1E93-41D9-9BA5-0BC1AC781583</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>729A1BBC-C62E-4FAA-B8FE-DEEF5339A0CC</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Test-EnergyTracker-2026.11.07_18-25-56-+0100.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EnergyTracker project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EnergyTracker</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Test EnergyTracker</string>
+			<key>timeStartedRecording</key>
+			<real>815765156.03904605</real>
+			<key>timeStoppedRecording</key>
+			<real>815765367.92208397</real>
+			<key>title</key>
+			<string>Test EnergyTracker</string>
+			<key>uniqueIdentifier</key>
+			<string>5C5A51EE-1E93-41D9-9BA5-0BC1AC781583</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

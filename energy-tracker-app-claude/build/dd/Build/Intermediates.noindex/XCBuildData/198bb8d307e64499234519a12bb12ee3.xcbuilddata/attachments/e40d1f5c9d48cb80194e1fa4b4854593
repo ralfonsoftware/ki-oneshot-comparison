@@ -1,0 +1,4 @@
+module EnergyCore {
+header "EnergyCore-Swift.h"
+export *
+}

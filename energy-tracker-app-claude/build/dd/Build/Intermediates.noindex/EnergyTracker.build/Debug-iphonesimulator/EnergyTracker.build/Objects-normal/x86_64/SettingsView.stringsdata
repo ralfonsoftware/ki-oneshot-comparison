@@ -1,0 +1,440 @@
+{
+  "source": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Views/SettingsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Money",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 13
+        }
+      },
+      {
+        "comment": "",
+        "key": "iCloud",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "Data",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "Appearance",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 51
+        }
+      },
+      {
+        "comment": "",
+        "key": "About",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 58
+        }
+      },
+      {
+        "comment": "",
+        "key": "Rooms & Devices",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "Used only to tag events. Consumption is never split by room or device.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 24
+        }
+      },
+      {
+        "comment": "",
+        "key": "Checking iCloud…",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 32
+        }
+      },
+      {
+        "comment": "",
+        "key": "Synced with iCloud",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "Import from export file",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 46
+        }
+      },
+      {
+        "comment": "",
+        "key": "Appearance",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "Privacy: your data stays on your Apple devices and in your private iCloud database. Energy Tracker has no server, no account, no analytics and no tracking.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "Version",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "Build",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "Support",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "Privacy policy",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 68
+        }
+      },
+      {
+        "comment": "",
+        "key": "kWh/year",
+        "location": {
+          "startingColumn": 88,
+          "startingLine": 91
+        }
+      },
+      {
+        "comment": "",
+        "key": "kWh/year",
+        "location": {
+          "startingColumn": 94,
+          "startingLine": 94
+        }
+      },
+      {
+        "comment": "",
+        "key": "Yearly target",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 91
+        }
+      },
+      {
+        "comment": "",
+        "key": "Trending threshold",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 94
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter the yearly target as a number greater than 0.",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 137
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter the threshold as a number of 0 or more.",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 145
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld days",
+        "location": {
+          "startingColumn": 79,
+          "startingLine": 98
+        }
+      },
+      {
+        "comment": "",
+        "key": "Less certain after",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 98
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld months",
+        "location": {
+          "startingColumn": 79,
+          "startingLine": 102
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tariff check every",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 102
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your pattern",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 106
+        }
+      },
+      {
+        "comment": "",
+        "key": "Changes apply from now on. Stored history is never recalculated. Leave the yearly target empty to hide the status.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 108
+        }
+      },
+      {
+        "comment": "",
+        "key": "Currency",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 162
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ – %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 166
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tariff reminders on this iPad",
+        "location": {
+          "startingColumn": 86,
+          "startingLine": 194
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tariff reminders on this iPhone",
+        "location": {
+          "startingColumn": 139,
+          "startingLine": 194
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reminders",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 197
+        }
+      },
+      {
+        "comment": "",
+        "key": "Notifications are turned off for Energy Tracker in the Settings app.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 200
+        }
+      },
+      {
+        "comment": "",
+        "key": "This setting is per device, so you can get the reminder on one device only instead of on all of them. You get one reminder at 10:00 on the day the tariff check is due.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 202
+        }
+      },
+      {
+        "comment": "",
+        "key": "Rooms & Devices",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 250
+        }
+      },
+      {
+        "comment": "",
+        "key": "No rooms yet. Rooms, power points and devices are labels for events.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 246
+        }
+      },
+      {
+        "comment": "",
+        "key": "Show archived",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 227
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add room",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 256
+        }
+      },
+      {
+        "comment": "",
+        "key": "Archived",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 275
+        }
+      },
+      {
+        "comment": "",
+        "key": "Actions for %@",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 315
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add power point",
+        "location": {
+          "startingColumn": 65,
+          "startingLine": 283
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add device",
+        "location": {
+          "startingColumn": 104,
+          "startingLine": 283
+        }
+      },
+      {
+        "comment": "",
+        "key": "Rename",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 289
+        }
+      },
+      {
+        "comment": "",
+        "key": "Move to",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 302
+        }
+      },
+      {
+        "comment": "",
+        "key": "Restore",
+        "location": {
+          "startingColumn": 56,
+          "startingLine": 308
+        }
+      },
+      {
+        "comment": "",
+        "key": "Archive",
+        "location": {
+          "startingColumn": 87,
+          "startingLine": 308
+        }
+      },
+      {
+        "comment": "",
+        "key": "Name",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 335
+        }
+      },
+      {
+        "comment": "",
+        "key": "New room",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 356
+        }
+      },
+      {
+        "comment": "",
+        "key": "New power point",
+        "location": {
+          "startingColumn": 48,
+          "startingLine": 357
+        }
+      },
+      {
+        "comment": "",
+        "key": "New device",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 358
+        }
+      },
+      {
+        "comment": "",
+        "key": "Rename",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 359
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 70,
+          "startingLine": 343
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 70,
+          "startingLine": 344
+        }
+      }
+    ]
+  },
+  "version": 1
+}

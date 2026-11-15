@@ -1,0 +1,90 @@
+{
+  "source" : "\/Users\/ralf\/Dev\/Projects\/energy-tracker-app-claude\/App\/Intents\/EnergyIntents.swift",
+  "tables" : {
+    "AppShortcuts" : [
+      {
+        "appShortcutMetadata" : [
+          {
+            "actionIdentifier" : "LogMeterReadingIntent",
+            "index" : 0,
+            "parameterDisplayRepresentations" : {
+
+            },
+            "parameterTypes" : {
+
+            },
+            "title" : "Log Meter Reading"
+          }
+        ],
+        "key" : "Log a meter reading in ${applicationName}",
+        "location" : {
+          "startingColumn" : 0,
+          "startingLine" : 101
+        },
+        "values" : [
+          "Log a meter reading in ${applicationName}",
+          "Log meter reading with ${applicationName}",
+          "New ${applicationName} reading"
+        ]
+      },
+      {
+        "appShortcutMetadata" : [
+          {
+            "actionIdentifier" : "GetEnergyStatusIntent",
+            "index" : 1,
+            "parameterDisplayRepresentations" : {
+
+            },
+            "parameterTypes" : {
+
+            },
+            "title" : "Get Energy Status"
+          }
+        ],
+        "key" : "Get my ${applicationName} status",
+        "location" : {
+          "startingColumn" : 0,
+          "startingLine" : 101
+        },
+        "values" : [
+          "Get my ${applicationName} status",
+          "Is my electricity on track in ${applicationName}",
+          "${applicationName} status"
+        ]
+      },
+      {
+        "appShortcutMetadata" : [
+          {
+            "actionIdentifier" : "LogEventIntent",
+            "index" : 2,
+            "parameterDisplayRepresentations" : {
+
+            },
+            "parameterTypes" : {
+
+            },
+            "title" : "Log Event"
+          }
+        ],
+        "key" : "Log an event in ${applicationName}",
+        "location" : {
+          "startingColumn" : 0,
+          "startingLine" : 101
+        },
+        "values" : [
+          "Log an event in ${applicationName}",
+          "Add a note to ${applicationName}"
+        ]
+      }
+    ],
+    "Localizable" : [
+      {
+        "key" : "Log ${kwh} kWh"
+      },
+      {
+        "key" : "Log event ${text}"
+      }
+    ]
+  },
+  "version" : 2
+}

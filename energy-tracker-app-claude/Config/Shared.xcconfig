@@ -1,0 +1,9 @@
+// Shared build settings. Change the bundle id here; the App Group and the CloudKit container follow it (§10).
+#include? "Signing.xcconfig"
+
+ET_BUNDLE_ID = de.ralfonsoftware.EnergyTracker
+ET_APP_GROUP = group.$(ET_BUNDLE_ID)
+ET_CLOUDKIT_CONTAINER = iCloud.$(ET_BUNDLE_ID)
+// Supplied for App Store submission without code changes (§10).
+ET_SUPPORT_URL =
+ET_PRIVACY_POLICY_URL =

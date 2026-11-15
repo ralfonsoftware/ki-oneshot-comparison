@@ -1,0 +1,456 @@
+{
+  "source": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Views/DataTransferViews.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Export all data",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "Import",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 161
+        }
+      },
+      {
+        "comment": "",
+        "key": "The file contains",
+        "location": {
+          "startingColumn": 66,
+          "startingLine": 111
+        }
+      },
+      {
+        "comment": "",
+        "key": "To be deleted",
+        "location": {
+          "startingColumn": 75,
+          "startingLine": 124
+        }
+      },
+      {
+        "comment": "",
+        "key": "Problems",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 105
+        }
+      },
+      {
+        "comment": "",
+        "key": "Replace all data?",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 139
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose export file",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 91
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose a JSON export file from Energy Tracker or from the old web app. Nothing changes until you confirm.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 95
+        }
+      },
+      {
+        "comment": "",
+        "key": "Checking the file…",
+        "location": {
+          "startingColumn": 57,
+          "startingLine": 98
+        }
+      },
+      {
+        "comment": "",
+        "key": "This file can't be imported. Nothing was changed.",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 101
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose another file",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 103
+        }
+      },
+      {
+        "comment": "",
+        "key": "Import",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 114
+        }
+      },
+      {
+        "comment": "",
+        "key": "This deletes all current data on all your devices signed in to this Apple Account and replaces it with the file.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 119
+        }
+      },
+      {
+        "comment": "",
+        "key": "Replace all data",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 122
+        }
+      },
+      {
+        "comment": "",
+        "key": "Replace all data",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 136
+        }
+      },
+      {
+        "comment": "",
+        "key": "Export current data first",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 133
+        }
+      },
+      {
+        "comment": "",
+        "key": "Replace all data",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 140
+        }
+      },
+      {
+        "comment": "",
+        "key": "This deletes all current data on all your devices signed in to this Apple Account and replaces it with the file.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 142
+        }
+      },
+      {
+        "comment": "",
+        "key": "Importing…",
+        "location": {
+          "startingColumn": 58,
+          "startingLine": 147
+        }
+      },
+      {
+        "comment": "",
+        "key": "1 exact duplicate reading was merged.",
+        "location": {
+          "startingColumn": 62,
+          "startingLine": 153
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld exact duplicate readings were merged.",
+        "location": {
+          "startingColumn": 123,
+          "startingLine": 153
+        }
+      },
+      {
+        "comment": "",
+        "key": "Import finished.",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 151
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 156
+        }
+      },
+      {
+        "comment": "",
+        "key": "Readings",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 188
+        }
+      },
+      {
+        "comment": "",
+        "key": "Corrections",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 189
+        }
+      },
+      {
+        "comment": "",
+        "key": "Regression decisions",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 190
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tariffs",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 191
+        }
+      },
+      {
+        "comment": "",
+        "key": "Events",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 192
+        }
+      },
+      {
+        "comment": "",
+        "key": "Rooms",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 193
+        }
+      },
+      {
+        "comment": "",
+        "key": "Power points",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 194
+        }
+      },
+      {
+        "comment": "",
+        "key": "Devices",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 195
+        }
+      },
+      {
+        "comment": "",
+        "key": "Status snapshots",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 196
+        }
+      },
+      {
+        "comment": "",
+        "key": "Smart plug readings (kept, not shown)",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 197
+        }
+      },
+      {
+        "comment": "",
+        "key": "The file is larger than 250 MB.",
+        "location": {
+          "startingColumn": 88,
+          "startingLine": 213
+        }
+      },
+      {
+        "comment": "",
+        "key": "The file could not be read.",
+        "location": {
+          "startingColumn": 88,
+          "startingLine": 216
+        }
+      },
+      {
+        "comment": "",
+        "key": "Energy Tracker",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 268
+        }
+      },
+      {
+        "comment": "",
+        "key": "Read your meter every day or two. Energy Tracker tells you whether this year's use is on track.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 270
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start fresh",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 279
+        }
+      },
+      {
+        "comment": "",
+        "key": "Import from export file",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 286
+        }
+      },
+      {
+        "comment": "",
+        "key": "Yearly target",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 329
+        }
+      },
+      {
+        "comment": "",
+        "key": "Currency",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 355
+        }
+      },
+      {
+        "comment": "",
+        "key": "Typical values",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 317
+        }
+      },
+      {
+        "comment": "",
+        "key": "kWh/year",
+        "location": {
+          "startingColumn": 92,
+          "startingLine": 311
+        }
+      },
+      {
+        "comment": "",
+        "key": "Yearly target",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 311
+        }
+      },
+      {
+        "comment": "",
+        "key": "How much electricity do you expect to use in a year?",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 313
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your last annual bill is the best guide. You can change this at any time.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 315
+        }
+      },
+      {
+        "comment": "",
+        "key": "1 person",
+        "location": {
+          "startingColumn": 79,
+          "startingLine": 322
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld people",
+        "location": {
+          "startingColumn": 111,
+          "startingLine": 322
+        }
+      },
+      {
+        "comment": "",
+        "key": "≈ %@ kWh",
+        "location": {
+          "startingColumn": 65,
+          "startingLine": 323
+        }
+      },
+      {
+        "comment": "",
+        "key": "Skip",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 332
+        }
+      },
+      {
+        "comment": "",
+        "key": "Next",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 335
+        }
+      },
+      {
+        "comment": "",
+        "key": "Currency",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 344
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ – %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 346
+        }
+      },
+      {
+        "comment": "",
+        "key": "Which currency do your tariffs use?",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 352
+        }
+      },
+      {
+        "comment": "",
+        "key": "Skip",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 358
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 361
+        }
+      }
+    ]
+  },
+  "version": 1
+}

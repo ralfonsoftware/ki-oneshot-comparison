@@ -1,0 +1,74 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "734d08e0ddeac51102d91a6d486ad696cf3d5014cbd21008dc4f193998d12a81"
+    },
+    {
+      "guid" : "734d08e0ddeac51102d91a6d486ad696e021808b7a5254a71ed629126c4fbb39"
+    }
+  ],
+  "containerPath" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/EnergyTracker.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "hostTargetedPlatform" : null,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator27.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Products",
+      "derivedDataPath" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd",
+      "indexDataStoreFolderPath" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "CODE_SIGN_IDENTITY" : "-",
+          "CODE_SIGNING_REQUIRED" : "NO"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone18,3",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "27.0",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone18,3",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "A5005485-E95E-4F86-AF7E-7E8669BDDFF4",
+          "TARGET_DEVICE_MODEL" : "iPhone18,3",
+          "TARGET_DEVICE_OS_VERSION" : "27.0",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

@@ -1,0 +1,2 @@
+// TestFlight and App Store: CloudKit Production environment (§10).
+#include "Shared.xcconfig"

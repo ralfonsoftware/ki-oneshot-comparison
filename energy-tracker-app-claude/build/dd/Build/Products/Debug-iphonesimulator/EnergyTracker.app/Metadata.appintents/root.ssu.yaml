@@ -1,0 +1,86 @@
+apiVersion: ssu/v1
+nlu:
+  shortcuts:
+    bundleIdentifier: de.ralfonsoftware.EnergyTracker
+    intents:
+    - metadata:
+        name: LogMeterReadingIntent_0
+        title: Log Meter Reading
+      corpuses:
+        training:
+        - locale: de
+          utterances:
+          - '{${+prefix} }Zählerstand in ${+applicationName} erfassen'
+          - '{${+prefix} }Zählerstand mit ${+applicationName} erfassen'
+          - '{${+prefix} }Neuer ${+applicationName}-Zählerstand'
+        - locale: en
+          utterances:
+          - '{${+prefix} }Log a meter reading in ${+applicationName}'
+          - '{${+prefix} }Log meter reading with ${+applicationName}'
+          - '{${+prefix} }New ${+applicationName} reading'
+    - metadata:
+        name: GetEnergyStatusIntent_1
+        title: Get Energy Status
+      corpuses:
+        training:
+        - locale: de
+          utterances:
+          - '{${+prefix} }Meinen ${+applicationName}-Status abfragen'
+          - '{${+prefix} }Liegt mein Strom in ${+applicationName} im Plan'
+          - '{${+prefix} }${+applicationName}-Status'
+        - locale: en
+          utterances:
+          - '{${+prefix} }Get my ${+applicationName} status'
+          - '{${+prefix} }Is my electricity on track in ${+applicationName}'
+          - '{${+prefix} }${+applicationName} status'
+    - metadata:
+        name: LogEventIntent_2
+        title: Log Event
+      corpuses:
+        training:
+        - locale: de
+          utterances:
+          - '{${+prefix} }Ereignis in ${+applicationName} erfassen'
+          - '{${+prefix} }Notiz zu ${+applicationName} hinzufügen'
+        - locale: en
+          utterances:
+          - '{${+prefix} }Log an event in ${+applicationName}'
+          - '{${+prefix} }Add a note to ${+applicationName}'
+    - metadata:
+        name: +negative
+      corpuses:
+        training:
+        - locale: de
+          utterances:
+          - '{${+prefix} }${+standardAppShortcutNegatives}'
+        - locale: en
+          utterances:
+          - '{${+prefix} }${+standardAppShortcutNegatives}'
+variables:
+- name: +applicationName
+  type: ssu/expansion
+  definitions:
+  - locale: de
+    synomyms:
+    - Energy Tracker
+  - locale: en
+    synomyms:
+    - Energy Tracker
+- name: +prefix
+  type: ssu/expansion
+  definitions:
+  - locale: de
+    synomyms:
+      $ref: ssu://Resources/prefix/de.yaml
+  - locale: en
+    synomyms:
+      $ref: ssu://Resources/prefix/en.yaml
+- name: +standardAppShortcutNegatives
+  type: ssu/expansion
+  definitions:
+  - locale: de
+    synomyms:
+      $ref: ssu://Resources/standardAppShortcutNegatives/de.yaml
+  - locale: en
+    synomyms:
+      $ref: ssu://Resources/standardAppShortcutNegatives/en.yaml

@@ -1,0 +1,9 @@
+Target dependency graph (4 targets)
+Target 'EnergyTracker' in project 'EnergyTracker'
+➜ Explicit dependency on target 'EnergyTrackerWidgets' in project 'EnergyTracker'
+➜ Explicit dependency on target 'EnergyCore-product' in project 'EnergyCore'
+Target 'EnergyTrackerWidgets' in project 'EnergyTracker'
+➜ Explicit dependency on target 'EnergyCore-product' in project 'EnergyCore'
+Target 'EnergyCore-product' in project 'EnergyCore'
+➜ Explicit dependency on target 'EnergyCore' in project 'EnergyCore'
+Target 'EnergyCore' in project 'EnergyCore' (no dependencies)

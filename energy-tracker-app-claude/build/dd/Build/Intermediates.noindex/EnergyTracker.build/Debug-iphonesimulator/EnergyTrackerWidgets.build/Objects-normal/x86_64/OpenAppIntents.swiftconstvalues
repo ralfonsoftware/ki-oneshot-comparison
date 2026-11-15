@@ -1,0 +1,109 @@
+[
+  {
+    "typeName": "EnergyTrackerWidgets.OpenLogReadingIntent",
+    "mangledTypeName": "20EnergyTrackerWidgets20OpenLogReadingIntentV",
+    "kind": "struct",
+    "file": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/Shared/OpenAppIntents.swift",
+    "line": 6,
+    "conformances": [
+      "AppIntents.AppIntent",
+      "AppIntents.PersistentlyIdentifiable",
+      "AppIntents._SupportsAppDependencies",
+      "Swift.Sendable",
+      "Swift.SendableMetatype",
+      "Swift.BitwiseCopyable"
+    ],
+    "allConformances": [
+      {
+        "protocolName": "AppIntents.AppIntent",
+        "conformanceDefiningModule": "EnergyTrackerWidgets"
+      },
+      {
+        "protocolName": "AppIntents.PersistentlyIdentifiable",
+        "conformanceDefiningModule": "EnergyTrackerWidgets"
+      },
+      {
+        "protocolName": "AppIntents._SupportsAppDependencies",
+        "conformanceDefiningModule": "EnergyTrackerWidgets"
+      },
+      {
+        "protocolName": "Swift.Sendable",
+        "conformanceDefiningModule": "EnergyTrackerWidgets"
+      },
+      {
+        "protocolName": "Swift.SendableMetatype",
+        "conformanceDefiningModule": "EnergyTrackerWidgets"
+      },
+      {
+        "protocolName": "Swift.BitwiseCopyable",
+        "conformanceDefiningModule": "EnergyTrackerWidgets"
+      }
+    ],
+    "associatedTypeAliases": [
+      {
+        "typeAliasName": "PerformResult",
+        "substitutedTypeName": "some AppIntents.IntentResult",
+        "substitutedMangledTypeName": "20EnergyTrackerWidgets20OpenLogReadingIntentV7performQryYaKFQOy_Qo_",
+        "opaqueTypeProtocolRequirements": [
+          "AppIntents.IntentResult"
+        ],
+        "opaqueTypeSameTypeRequirements": []
+      },
+      {
+        "typeAliasName": "SummaryContent",
+        "substitutedTypeName": "some AppIntents.ParameterSummary",
+        "substitutedMangledTypeName": "10AppIntents0A6IntentPAAE16parameterSummaryQrvpZQOy20EnergyTrackerWidgets014OpenLogReadingC0V_Qo_",
+        "opaqueTypeProtocolRequirements": [
+          "AppIntents.ParameterSummary"
+        ],
+        "opaqueTypeSameTypeRequirements": []
+      }
+    ],
+    "properties": [
+      {
+        "label": "title",
+        "type": "Foundation.LocalizedStringResource",
+        "mangledTypeName": "n/a - deprecated",
+        "isStatic": "true",
+        "isComputed": "false",
+        "file": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/Shared/OpenAppIntents.swift",
+        "line": 7,
+        "valueKind": "RawLiteral",
+        "value": "Open Log Reading"
+      },
+      {
+        "label": "description",
+        "type": "AppIntents.IntentDescription",
+        "mangledTypeName": "n/a - deprecated",
+        "isStatic": "true",
+        "isComputed": "false",
+        "file": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/Shared/OpenAppIntents.swift",
+        "line": 8,
+        "valueKind": "RawLiteral",
+        "value": "Opens Energy Tracker ready to log a meter reading."
+      },
+      {
+        "label": "openAppWhenRun",
+        "type": "Swift.Bool",
+        "mangledTypeName": "n/a - deprecated",
+        "isStatic": "true",
+        "isComputed": "false",
+        "file": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/Shared/OpenAppIntents.swift",
+        "line": 9,
+        "valueKind": "RawLiteral",
+        "value": "true"
+      },
+      {
+        "label": "isDiscoverable",
+        "type": "Swift.Bool",
+        "mangledTypeName": "n/a - deprecated",
+        "isStatic": "true",
+        "isComputed": "false",
+        "file": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/Shared/OpenAppIntents.swift",
+        "line": 10,
+        "valueKind": "RawLiteral",
+        "value": "true"
+      }
+    ]
+  }
+]

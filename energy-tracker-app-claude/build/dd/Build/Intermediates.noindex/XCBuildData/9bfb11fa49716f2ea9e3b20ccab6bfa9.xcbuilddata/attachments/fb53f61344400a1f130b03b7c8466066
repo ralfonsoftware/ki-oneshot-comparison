@@ -1,0 +1,79 @@
+{
+  "" : {
+    "diagnostics" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/EnergyTrackerWidgets-primary.dia",
+    "emit-module-dependencies" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/EnergyTrackerWidgets-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/EnergyTrackerWidgets-primary-emit-module.dia",
+    "pch" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/EnergyTrackerWidgets-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/EnergyTrackerWidgets-primary.swiftdeps"
+  },
+  "/Users/ralf/Dev/Projects/energy-tracker-app-claude/Shared/DataSet.swift" : {
+    "const-values" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/DataSet.swiftconstvalues",
+    "dependencies" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/DataSet.d",
+    "diagnostics" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/DataSet.dia",
+    "index-unit-output-path" : "/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/DataSet.o",
+    "llvm-bc" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/DataSet.bc",
+    "object" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/DataSet.o",
+    "swift-dependencies" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/DataSet.swiftdeps",
+    "swiftmodule" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/DataSet~partial.swiftmodule"
+  },
+  "/Users/ralf/Dev/Projects/energy-tracker-app-claude/Shared/Models.swift" : {
+    "const-values" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/Models.swiftconstvalues",
+    "dependencies" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/Models.d",
+    "diagnostics" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/Models.dia",
+    "index-unit-output-path" : "/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/Models.o",
+    "llvm-bc" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/Models.bc",
+    "object" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/Models.o",
+    "swift-dependencies" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/Models.swiftdeps",
+    "swiftmodule" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/Models~partial.swiftmodule"
+  },
+  "/Users/ralf/Dev/Projects/energy-tracker-app-claude/Shared/OpenAppIntents.swift" : {
+    "const-values" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/OpenAppIntents.swiftconstvalues",
+    "dependencies" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/OpenAppIntents.d",
+    "diagnostics" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/OpenAppIntents.dia",
+    "index-unit-output-path" : "/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/OpenAppIntents.o",
+    "llvm-bc" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/OpenAppIntents.bc",
+    "object" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/OpenAppIntents.o",
+    "swift-dependencies" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/OpenAppIntents.swiftdeps",
+    "swiftmodule" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/OpenAppIntents~partial.swiftmodule"
+  },
+  "/Users/ralf/Dev/Projects/energy-tracker-app-claude/Shared/Persistence.swift" : {
+    "const-values" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/Persistence.swiftconstvalues",
+    "dependencies" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/Persistence.d",
+    "diagnostics" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/Persistence.dia",
+    "index-unit-output-path" : "/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/Persistence.o",
+    "llvm-bc" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/Persistence.bc",
+    "object" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/Persistence.o",
+    "swift-dependencies" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/Persistence.swiftdeps",
+    "swiftmodule" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/Persistence~partial.swiftmodule"
+  },
+  "/Users/ralf/Dev/Projects/energy-tracker-app-claude/Shared/Presentation.swift" : {
+    "const-values" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/Presentation.swiftconstvalues",
+    "dependencies" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/Presentation.d",
+    "diagnostics" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/Presentation.dia",
+    "index-unit-output-path" : "/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/Presentation.o",
+    "llvm-bc" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/Presentation.bc",
+    "object" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/Presentation.o",
+    "swift-dependencies" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/Presentation.swiftdeps",
+    "swiftmodule" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/Presentation~partial.swiftmodule"
+  },
+  "/Users/ralf/Dev/Projects/energy-tracker-app-claude/Widgets/EnergyWidgets.swift" : {
+    "const-values" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/EnergyWidgets.swiftconstvalues",
+    "dependencies" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/EnergyWidgets.d",
+    "diagnostics" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/EnergyWidgets.dia",
+    "index-unit-output-path" : "/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/EnergyWidgets.o",
+    "llvm-bc" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/EnergyWidgets.bc",
+    "object" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/EnergyWidgets.o",
+    "swift-dependencies" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/EnergyWidgets.swiftdeps",
+    "swiftmodule" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/EnergyWidgets~partial.swiftmodule"
+  },
+  "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/EnergyTracker.build/Debug-iphonesimulator/EnergyTrackerWidgets.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

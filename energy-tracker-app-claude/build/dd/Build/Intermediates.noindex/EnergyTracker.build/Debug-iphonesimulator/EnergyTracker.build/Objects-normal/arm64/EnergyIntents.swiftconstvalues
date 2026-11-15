@@ -1,0 +1,1004 @@
+[
+  {
+    "typeName": "EnergyTracker.LogMeterReadingIntent",
+    "mangledTypeName": "13EnergyTracker21LogMeterReadingIntentV",
+    "kind": "struct",
+    "file": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Intents/EnergyIntents.swift",
+    "line": 13,
+    "conformances": [
+      "AppIntents.AppIntent",
+      "AppIntents.PersistentlyIdentifiable",
+      "AppIntents._SupportsAppDependencies",
+      "Swift.Sendable",
+      "Swift.SendableMetatype"
+    ],
+    "allConformances": [
+      {
+        "protocolName": "AppIntents.AppIntent",
+        "conformanceDefiningModule": "EnergyTracker"
+      },
+      {
+        "protocolName": "AppIntents.PersistentlyIdentifiable",
+        "conformanceDefiningModule": "EnergyTracker"
+      },
+      {
+        "protocolName": "AppIntents._SupportsAppDependencies",
+        "conformanceDefiningModule": "EnergyTracker"
+      },
+      {
+        "protocolName": "Swift.Sendable",
+        "conformanceDefiningModule": "EnergyTracker"
+      },
+      {
+        "protocolName": "Swift.SendableMetatype",
+        "conformanceDefiningModule": "EnergyTracker"
+      }
+    ],
+    "associatedTypeAliases": [
+      {
+        "typeAliasName": "PerformResult",
+        "substitutedTypeName": "some AppIntents.ProvidesDialog & AppIntents.ReturnsValue<Swift.String>",
+        "substitutedMangledTypeName": "13EnergyTracker21LogMeterReadingIntentV7performQryYaKFQOy_Qo_",
+        "opaqueTypeProtocolRequirements": [
+          "AppIntents.ProvidesDialog",
+          "AppIntents.ReturnsValue"
+        ],
+        "opaqueTypeSameTypeRequirements": [
+          {
+            "typeAliasName": "AppIntents.IntentResult.Value",
+            "substitutedTypeName": "Swift.String",
+            "substitutedMangledTypeName": "SS"
+          }
+        ]
+      },
+      {
+        "typeAliasName": "SummaryContent",
+        "substitutedTypeName": "some AppIntents.ParameterSummary",
+        "substitutedMangledTypeName": "13EnergyTracker21LogMeterReadingIntentV16parameterSummaryQrvpZQOy_Qo_",
+        "opaqueTypeProtocolRequirements": [
+          "AppIntents.ParameterSummary"
+        ],
+        "opaqueTypeSameTypeRequirements": []
+      }
+    ],
+    "properties": [
+      {
+        "label": "_kwh",
+        "type": "AppIntents.IntentParameter<Swift.Double>",
+        "mangledTypeName": "n/a - deprecated",
+        "isStatic": "false",
+        "isComputed": "false",
+        "file": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Intents/EnergyIntents.swift",
+        "line": 19,
+        "valueKind": "InitCall",
+        "value": {
+          "type": "AppIntents.IntentParameter<Swift.Double>",
+          "arguments": [
+            {
+              "label": "title",
+              "type": "Foundation.LocalizedStringResource",
+              "valueKind": "RawLiteral",
+              "value": "kWh"
+            },
+            {
+              "label": "description",
+              "type": "Swift.Optional<Foundation.LocalizedStringResource>",
+              "valueKind": "RawLiteral",
+              "value": "The value shown on the meter."
+            },
+            {
+              "label": "default",
+              "type": "Swift.Optional<Swift.Double>",
+              "valueKind": "NilLiteral"
+            },
+            {
+              "label": "controlStyle",
+              "type": "AppIntents.IntentParameter<Swift.Double>.DoubleControlStyle",
+              "valueKind": "Runtime"
+            },
+            {
+              "label": "inclusiveRange",
+              "type": "Swift.Optional<(lowerBound: Swift.Double, upperBound: Swift.Double)>",
+              "valueKind": "NilLiteral"
+            },
+            {
+              "label": "requestValueDialog",
+              "type": "Swift.Optional<AppIntents.IntentDialog>",
+              "valueKind": "RawLiteral",
+              "value": "What does the meter show, in kWh?"
+            },
+            {
+              "label": "inputConnectionBehavior",
+              "type": "AppIntents.InputConnectionBehavior",
+              "valueKind": "Runtime"
+            }
+          ]
+        }
+      },
+      {
+        "label": "title",
+        "type": "Foundation.LocalizedStringResource",
+        "mangledTypeName": "n/a - deprecated",
+        "isStatic": "true",
+        "isComputed": "false",
+        "file": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Intents/EnergyIntents.swift",
+        "line": 14,
+        "valueKind": "RawLiteral",
+        "value": "Log Meter Reading"
+      },
+      {
+        "label": "description",
+        "type": "AppIntents.IntentDescription",
+        "mangledTypeName": "n/a - deprecated",
+        "isStatic": "true",
+        "isComputed": "false",
+        "file": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Intents/EnergyIntents.swift",
+        "line": 15,
+        "valueKind": "RawLiteral",
+        "value": "Saves a Main Meter reading with the current time and tells you the new status."
+      },
+      {
+        "label": "openAppWhenRun",
+        "type": "Swift.Bool",
+        "mangledTypeName": "n/a - deprecated",
+        "isStatic": "true",
+        "isComputed": "false",
+        "file": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Intents/EnergyIntents.swift",
+        "line": 16,
+        "valueKind": "RawLiteral",
+        "value": "false"
+      },
+      {
+        "label": "kwh",
+        "type": "Swift.Double",
+        "mangledTypeName": "n/a - deprecated",
+        "isStatic": "false",
+        "isComputed": "true",
+        "file": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Intents/EnergyIntents.swift",
+        "line": 19,
+        "valueKind": "InitCall",
+        "value": {
+          "type": "AppIntents.IntentParameter<Swift.Double>",
+          "arguments": [
+            {
+              "label": "title",
+              "type": "Foundation.LocalizedStringResource",
+              "valueKind": "RawLiteral",
+              "value": "kWh"
+            },
+            {
+              "label": "description",
+              "type": "Swift.Optional<Foundation.LocalizedStringResource>",
+              "valueKind": "RawLiteral",
+              "value": "The value shown on the meter."
+            },
+            {
+              "label": "default",
+              "type": "Swift.Optional<Swift.Double>",
+              "valueKind": "NilLiteral"
+            },
+            {
+              "label": "controlStyle",
+              "type": "AppIntents.IntentParameter<Swift.Double>.DoubleControlStyle",
+              "valueKind": "Runtime"
+            },
+            {
+              "label": "inclusiveRange",
+              "type": "Swift.Optional<(lowerBound: Swift.Double, upperBound: Swift.Double)>",
+              "valueKind": "NilLiteral"
+            },
+            {
+              "label": "requestValueDialog",
+              "type": "Swift.Optional<AppIntents.IntentDialog>",
+              "valueKind": "RawLiteral",
+              "value": "What does the meter show, in kWh?"
+            },
+            {
+              "label": "inputConnectionBehavior",
+              "type": "AppIntents.InputConnectionBehavior",
+              "valueKind": "Runtime"
+            }
+          ]
+        },
+        "propertyWrappers": [
+          {
+            "type": "AppIntents.IntentParameter",
+            "file": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Intents/EnergyIntents.swift",
+            "line": 18,
+            "arguments": [
+              {
+                "label": "title",
+                "type": "Foundation.LocalizedStringResource",
+                "valueKind": "RawLiteral",
+                "value": "kWh"
+              },
+              {
+                "label": "description",
+                "type": "Swift.Optional<Foundation.LocalizedStringResource>",
+                "valueKind": "RawLiteral",
+                "value": "The value shown on the meter."
+              },
+              {
+                "label": "requestValueDialog",
+                "type": "Swift.Optional<AppIntents.IntentDialog>",
+                "valueKind": "RawLiteral",
+                "value": "What does the meter show, in kWh?"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "$kwh",
+        "type": "AppIntents.IntentParameter<Swift.Double>",
+        "mangledTypeName": "n/a - deprecated",
+        "isStatic": "false",
+        "isComputed": "true",
+        "file": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Intents/EnergyIntents.swift",
+        "line": 19,
+        "valueKind": "Runtime"
+      },
+      {
+        "label": "parameterSummary",
+        "type": "some AppIntents.ParameterSummary",
+        "mangledTypeName": "n/a - deprecated",
+        "isStatic": "true",
+        "isComputed": "true",
+        "file": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Intents/EnergyIntents.swift",
+        "line": 21,
+        "valueKind": "InitCall",
+        "value": {
+          "type": "AppIntents.IntentParameterSummary<EnergyTracker.LogMeterReadingIntent>",
+          "arguments": [
+            {
+              "label": "",
+              "type": "AppIntents.ParameterSummaryString<EnergyTracker.LogMeterReadingIntent>",
+              "valueKind": "InterpolatedStringLiteral",
+              "value": {
+                "segments": [
+                  {
+                    "valueKind": "RawLiteral",
+                    "value": "Log "
+                  },
+                  {
+                    "valueKind": "KeyPath",
+                    "value": {
+                      "path": "$kwh",
+                      "rootType": "EnergyTracker.LogMeterReadingIntent",
+                      "components": [
+                        {
+                          "label": "$kwh",
+                          "type": "AppIntents.IntentParameter<Swift.Double>"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "valueKind": "RawLiteral",
+                    "value": " kWh"
+                  }
+                ]
+              }
+            },
+            {
+              "label": "table",
+              "type": "Swift.Optional<Swift.String>",
+              "valueKind": "NilLiteral"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "typeName": "EnergyTracker.GetEnergyStatusIntent",
+    "mangledTypeName": "13EnergyTracker03GetA12StatusIntentV",
+    "kind": "struct",
+    "file": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Intents/EnergyIntents.swift",
+    "line": 55,
+    "conformances": [
+      "AppIntents.AppIntent",
+      "AppIntents.PersistentlyIdentifiable",
+      "AppIntents._SupportsAppDependencies",
+      "Swift.Sendable",
+      "Swift.SendableMetatype",
+      "Swift.BitwiseCopyable"
+    ],
+    "allConformances": [
+      {
+        "protocolName": "AppIntents.AppIntent",
+        "conformanceDefiningModule": "EnergyTracker"
+      },
+      {
+        "protocolName": "AppIntents.PersistentlyIdentifiable",
+        "conformanceDefiningModule": "EnergyTracker"
+      },
+      {
+        "protocolName": "AppIntents._SupportsAppDependencies",
+        "conformanceDefiningModule": "EnergyTracker"
+      },
+      {
+        "protocolName": "Swift.Sendable",
+        "conformanceDefiningModule": "EnergyTracker"
+      },
+      {
+        "protocolName": "Swift.SendableMetatype",
+        "conformanceDefiningModule": "EnergyTracker"
+      },
+      {
+        "protocolName": "Swift.BitwiseCopyable",
+        "conformanceDefiningModule": "EnergyTracker"
+      }
+    ],
+    "associatedTypeAliases": [
+      {
+        "typeAliasName": "PerformResult",
+        "substitutedTypeName": "some AppIntents.ProvidesDialog & AppIntents.ReturnsValue<Swift.String>",
+        "substitutedMangledTypeName": "13EnergyTracker03GetA12StatusIntentV7performQryYaKFQOy_Qo_",
+        "opaqueTypeProtocolRequirements": [
+          "AppIntents.ProvidesDialog",
+          "AppIntents.ReturnsValue"
+        ],
+        "opaqueTypeSameTypeRequirements": [
+          {
+            "typeAliasName": "AppIntents.IntentResult.Value",
+            "substitutedTypeName": "Swift.String",
+            "substitutedMangledTypeName": "SS"
+          }
+        ]
+      },
+      {
+        "typeAliasName": "SummaryContent",
+        "substitutedTypeName": "some AppIntents.ParameterSummary",
+        "substitutedMangledTypeName": "10AppIntents0A6IntentPAAE16parameterSummaryQrvpZQOy13EnergyTracker03Getf6StatusC0V_Qo_",
+        "opaqueTypeProtocolRequirements": [
+          "AppIntents.ParameterSummary"
+        ],
+        "opaqueTypeSameTypeRequirements": []
+      }
+    ],
+    "properties": [
+      {
+        "label": "title",
+        "type": "Foundation.LocalizedStringResource",
+        "mangledTypeName": "n/a - deprecated",
+        "isStatic": "true",
+        "isComputed": "false",
+        "file": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Intents/EnergyIntents.swift",
+        "line": 56,
+        "valueKind": "RawLiteral",
+        "value": "Get Energy Status"
+      },
+      {
+        "label": "description",
+        "type": "AppIntents.IntentDescription",
+        "mangledTypeName": "n/a - deprecated",
+        "isStatic": "true",
+        "isComputed": "false",
+        "file": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Intents/EnergyIntents.swift",
+        "line": 57,
+        "valueKind": "RawLiteral",
+        "value": "Tells you in one sentence whether your electricity use is on track."
+      },
+      {
+        "label": "openAppWhenRun",
+        "type": "Swift.Bool",
+        "mangledTypeName": "n/a - deprecated",
+        "isStatic": "true",
+        "isComputed": "false",
+        "file": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Intents/EnergyIntents.swift",
+        "line": 58,
+        "valueKind": "RawLiteral",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "typeName": "EnergyTracker.LogEventIntent",
+    "mangledTypeName": "13EnergyTracker14LogEventIntentV",
+    "kind": "struct",
+    "file": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Intents/EnergyIntents.swift",
+    "line": 75,
+    "conformances": [
+      "AppIntents.AppIntent",
+      "AppIntents.PersistentlyIdentifiable",
+      "AppIntents._SupportsAppDependencies",
+      "Swift.Sendable",
+      "Swift.SendableMetatype"
+    ],
+    "allConformances": [
+      {
+        "protocolName": "AppIntents.AppIntent",
+        "conformanceDefiningModule": "EnergyTracker"
+      },
+      {
+        "protocolName": "AppIntents.PersistentlyIdentifiable",
+        "conformanceDefiningModule": "EnergyTracker"
+      },
+      {
+        "protocolName": "AppIntents._SupportsAppDependencies",
+        "conformanceDefiningModule": "EnergyTracker"
+      },
+      {
+        "protocolName": "Swift.Sendable",
+        "conformanceDefiningModule": "EnergyTracker"
+      },
+      {
+        "protocolName": "Swift.SendableMetatype",
+        "conformanceDefiningModule": "EnergyTracker"
+      }
+    ],
+    "associatedTypeAliases": [
+      {
+        "typeAliasName": "PerformResult",
+        "substitutedTypeName": "some AppIntents.ProvidesDialog",
+        "substitutedMangledTypeName": "13EnergyTracker14LogEventIntentV7performQryYaKFQOy_Qo_",
+        "opaqueTypeProtocolRequirements": [
+          "AppIntents.ProvidesDialog"
+        ],
+        "opaqueTypeSameTypeRequirements": []
+      },
+      {
+        "typeAliasName": "SummaryContent",
+        "substitutedTypeName": "some AppIntents.ParameterSummary",
+        "substitutedMangledTypeName": "13EnergyTracker14LogEventIntentV16parameterSummaryQrvpZQOy_Qo_",
+        "opaqueTypeProtocolRequirements": [
+          "AppIntents.ParameterSummary"
+        ],
+        "opaqueTypeSameTypeRequirements": []
+      }
+    ],
+    "properties": [
+      {
+        "label": "_text",
+        "type": "AppIntents.IntentParameter<Swift.String>",
+        "mangledTypeName": "n/a - deprecated",
+        "isStatic": "false",
+        "isComputed": "false",
+        "file": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Intents/EnergyIntents.swift",
+        "line": 81,
+        "valueKind": "InitCall",
+        "value": {
+          "type": "AppIntents.IntentParameter<Swift.String>",
+          "arguments": [
+            {
+              "label": "title",
+              "type": "Foundation.LocalizedStringResource",
+              "valueKind": "RawLiteral",
+              "value": "Event"
+            },
+            {
+              "label": "description",
+              "type": "Swift.Optional<Foundation.LocalizedStringResource>",
+              "valueKind": "RawLiteral",
+              "value": "For example: away 2 weeks, sauna 3h."
+            },
+            {
+              "label": "default",
+              "type": "Swift.Optional<Swift.String>",
+              "valueKind": "NilLiteral"
+            },
+            {
+              "label": "inputOptions",
+              "type": "Swift.Optional<Swift.String.IntentInputOptions>",
+              "valueKind": "NilLiteral"
+            },
+            {
+              "label": "requestValueDialog",
+              "type": "Swift.Optional<AppIntents.IntentDialog>",
+              "valueKind": "RawLiteral",
+              "value": "What happened?"
+            },
+            {
+              "label": "inputConnectionBehavior",
+              "type": "AppIntents.InputConnectionBehavior",
+              "valueKind": "Runtime"
+            }
+          ]
+        }
+      },
+      {
+        "label": "title",
+        "type": "Foundation.LocalizedStringResource",
+        "mangledTypeName": "n/a - deprecated",
+        "isStatic": "true",
+        "isComputed": "false",
+        "file": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Intents/EnergyIntents.swift",
+        "line": 76,
+        "valueKind": "RawLiteral",
+        "value": "Log Event"
+      },
+      {
+        "label": "description",
+        "type": "AppIntents.IntentDescription",
+        "mangledTypeName": "n/a - deprecated",
+        "isStatic": "true",
+        "isComputed": "false",
+        "file": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Intents/EnergyIntents.swift",
+        "line": 77,
+        "valueKind": "RawLiteral",
+        "value": "Saves a short note about something that affects consumption, such as being away."
+      },
+      {
+        "label": "openAppWhenRun",
+        "type": "Swift.Bool",
+        "mangledTypeName": "n/a - deprecated",
+        "isStatic": "true",
+        "isComputed": "false",
+        "file": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Intents/EnergyIntents.swift",
+        "line": 78,
+        "valueKind": "RawLiteral",
+        "value": "false"
+      },
+      {
+        "label": "text",
+        "type": "Swift.String",
+        "mangledTypeName": "n/a - deprecated",
+        "isStatic": "false",
+        "isComputed": "true",
+        "file": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Intents/EnergyIntents.swift",
+        "line": 81,
+        "valueKind": "InitCall",
+        "value": {
+          "type": "AppIntents.IntentParameter<Swift.String>",
+          "arguments": [
+            {
+              "label": "title",
+              "type": "Foundation.LocalizedStringResource",
+              "valueKind": "RawLiteral",
+              "value": "Event"
+            },
+            {
+              "label": "description",
+              "type": "Swift.Optional<Foundation.LocalizedStringResource>",
+              "valueKind": "RawLiteral",
+              "value": "For example: away 2 weeks, sauna 3h."
+            },
+            {
+              "label": "default",
+              "type": "Swift.Optional<Swift.String>",
+              "valueKind": "NilLiteral"
+            },
+            {
+              "label": "inputOptions",
+              "type": "Swift.Optional<Swift.String.IntentInputOptions>",
+              "valueKind": "NilLiteral"
+            },
+            {
+              "label": "requestValueDialog",
+              "type": "Swift.Optional<AppIntents.IntentDialog>",
+              "valueKind": "RawLiteral",
+              "value": "What happened?"
+            },
+            {
+              "label": "inputConnectionBehavior",
+              "type": "AppIntents.InputConnectionBehavior",
+              "valueKind": "Runtime"
+            }
+          ]
+        },
+        "propertyWrappers": [
+          {
+            "type": "AppIntents.IntentParameter",
+            "file": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Intents/EnergyIntents.swift",
+            "line": 80,
+            "arguments": [
+              {
+                "label": "title",
+                "type": "Foundation.LocalizedStringResource",
+                "valueKind": "RawLiteral",
+                "value": "Event"
+              },
+              {
+                "label": "description",
+                "type": "Swift.Optional<Foundation.LocalizedStringResource>",
+                "valueKind": "RawLiteral",
+                "value": "For example: away 2 weeks, sauna 3h."
+              },
+              {
+                "label": "requestValueDialog",
+                "type": "Swift.Optional<AppIntents.IntentDialog>",
+                "valueKind": "RawLiteral",
+                "value": "What happened?"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "$text",
+        "type": "AppIntents.IntentParameter<Swift.String>",
+        "mangledTypeName": "n/a - deprecated",
+        "isStatic": "false",
+        "isComputed": "true",
+        "file": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Intents/EnergyIntents.swift",
+        "line": 81,
+        "valueKind": "Runtime"
+      },
+      {
+        "label": "parameterSummary",
+        "type": "some AppIntents.ParameterSummary",
+        "mangledTypeName": "n/a - deprecated",
+        "isStatic": "true",
+        "isComputed": "true",
+        "file": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Intents/EnergyIntents.swift",
+        "line": 83,
+        "valueKind": "InitCall",
+        "value": {
+          "type": "AppIntents.IntentParameterSummary<EnergyTracker.LogEventIntent>",
+          "arguments": [
+            {
+              "label": "",
+              "type": "AppIntents.ParameterSummaryString<EnergyTracker.LogEventIntent>",
+              "valueKind": "InterpolatedStringLiteral",
+              "value": {
+                "segments": [
+                  {
+                    "valueKind": "RawLiteral",
+                    "value": "Log event "
+                  },
+                  {
+                    "valueKind": "KeyPath",
+                    "value": {
+                      "path": "$text",
+                      "rootType": "EnergyTracker.LogEventIntent",
+                      "components": [
+                        {
+                          "label": "$text",
+                          "type": "AppIntents.IntentParameter<Swift.String>"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "valueKind": "RawLiteral",
+                    "value": ""
+                  }
+                ]
+              }
+            },
+            {
+              "label": "table",
+              "type": "Swift.Optional<Swift.String>",
+              "valueKind": "NilLiteral"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "typeName": "EnergyTracker.EnergyShortcuts",
+    "mangledTypeName": "13EnergyTracker0A9ShortcutsV",
+    "kind": "struct",
+    "file": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Intents/EnergyIntents.swift",
+    "line": 100,
+    "conformances": [
+      "AppIntents.AppShortcutsProvider",
+      "Swift.Sendable",
+      "Swift.SendableMetatype",
+      "Swift.BitwiseCopyable"
+    ],
+    "allConformances": [
+      {
+        "protocolName": "AppIntents.AppShortcutsProvider",
+        "conformanceDefiningModule": "EnergyTracker"
+      },
+      {
+        "protocolName": "Swift.Sendable",
+        "conformanceDefiningModule": "EnergyTracker"
+      },
+      {
+        "protocolName": "Swift.SendableMetatype",
+        "conformanceDefiningModule": "EnergyTracker"
+      },
+      {
+        "protocolName": "Swift.BitwiseCopyable",
+        "conformanceDefiningModule": "EnergyTracker"
+      }
+    ],
+    "associatedTypeAliases": [],
+    "properties": [
+      {
+        "label": "appShortcuts",
+        "type": "Swift.Array<AppIntents.AppShortcut>",
+        "mangledTypeName": "n/a - deprecated",
+        "isStatic": "true",
+        "isComputed": "true",
+        "file": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Intents/EnergyIntents.swift",
+        "line": 101,
+        "valueKind": "Builder",
+        "value": {
+          "type": "AppIntents.AppShortcutsBuilder",
+          "members": [
+            {
+              "kind": "buildExpression",
+              "element": {
+                "valueKind": "InitCall",
+                "value": {
+                  "type": "AppIntents.AppShortcut",
+                  "arguments": [
+                    {
+                      "label": "intent",
+                      "type": "EnergyTracker.LogMeterReadingIntent",
+                      "valueKind": "InitCall",
+                      "value": {
+                        "type": "EnergyTracker.LogMeterReadingIntent",
+                        "arguments": []
+                      }
+                    },
+                    {
+                      "label": "phrases",
+                      "type": "Swift.Array<AppIntents.AppShortcutPhrase<EnergyTracker.LogMeterReadingIntent>>",
+                      "valueKind": "Array",
+                      "value": [
+                        {
+                          "valueKind": "InterpolatedStringLiteral",
+                          "value": {
+                            "segments": [
+                              {
+                                "valueKind": "RawLiteral",
+                                "value": "Log a meter reading in "
+                              },
+                              {
+                                "valueKind": "Enum",
+                                "value": {
+                                  "name": "applicationName"
+                                }
+                              },
+                              {
+                                "valueKind": "RawLiteral",
+                                "value": ""
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "valueKind": "InterpolatedStringLiteral",
+                          "value": {
+                            "segments": [
+                              {
+                                "valueKind": "RawLiteral",
+                                "value": "Log meter reading with "
+                              },
+                              {
+                                "valueKind": "Enum",
+                                "value": {
+                                  "name": "applicationName"
+                                }
+                              },
+                              {
+                                "valueKind": "RawLiteral",
+                                "value": ""
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "valueKind": "InterpolatedStringLiteral",
+                          "value": {
+                            "segments": [
+                              {
+                                "valueKind": "RawLiteral",
+                                "value": "New "
+                              },
+                              {
+                                "valueKind": "Enum",
+                                "value": {
+                                  "name": "applicationName"
+                                }
+                              },
+                              {
+                                "valueKind": "RawLiteral",
+                                "value": " reading"
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "label": "shortTitle",
+                      "type": "Foundation.LocalizedStringResource",
+                      "valueKind": "RawLiteral",
+                      "value": "Log Reading"
+                    },
+                    {
+                      "label": "systemImageName",
+                      "type": "Swift.String",
+                      "valueKind": "RawLiteral",
+                      "value": "plus.circle"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "kind": "buildExpression",
+              "element": {
+                "valueKind": "InitCall",
+                "value": {
+                  "type": "AppIntents.AppShortcut",
+                  "arguments": [
+                    {
+                      "label": "intent",
+                      "type": "EnergyTracker.GetEnergyStatusIntent",
+                      "valueKind": "InitCall",
+                      "value": {
+                        "type": "EnergyTracker.GetEnergyStatusIntent",
+                        "arguments": []
+                      }
+                    },
+                    {
+                      "label": "phrases",
+                      "type": "Swift.Array<AppIntents.AppShortcutPhrase<EnergyTracker.GetEnergyStatusIntent>>",
+                      "valueKind": "Array",
+                      "value": [
+                        {
+                          "valueKind": "InterpolatedStringLiteral",
+                          "value": {
+                            "segments": [
+                              {
+                                "valueKind": "RawLiteral",
+                                "value": "Get my "
+                              },
+                              {
+                                "valueKind": "Enum",
+                                "value": {
+                                  "name": "applicationName"
+                                }
+                              },
+                              {
+                                "valueKind": "RawLiteral",
+                                "value": " status"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "valueKind": "InterpolatedStringLiteral",
+                          "value": {
+                            "segments": [
+                              {
+                                "valueKind": "RawLiteral",
+                                "value": "Is my electricity on track in "
+                              },
+                              {
+                                "valueKind": "Enum",
+                                "value": {
+                                  "name": "applicationName"
+                                }
+                              },
+                              {
+                                "valueKind": "RawLiteral",
+                                "value": ""
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "valueKind": "InterpolatedStringLiteral",
+                          "value": {
+                            "segments": [
+                              {
+                                "valueKind": "RawLiteral",
+                                "value": ""
+                              },
+                              {
+                                "valueKind": "Enum",
+                                "value": {
+                                  "name": "applicationName"
+                                }
+                              },
+                              {
+                                "valueKind": "RawLiteral",
+                                "value": " status"
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "label": "shortTitle",
+                      "type": "Foundation.LocalizedStringResource",
+                      "valueKind": "RawLiteral",
+                      "value": "Energy Status"
+                    },
+                    {
+                      "label": "systemImageName",
+                      "type": "Swift.String",
+                      "valueKind": "RawLiteral",
+                      "value": "gauge.with.dots.needle.33percent"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "kind": "buildExpression",
+              "element": {
+                "valueKind": "InitCall",
+                "value": {
+                  "type": "AppIntents.AppShortcut",
+                  "arguments": [
+                    {
+                      "label": "intent",
+                      "type": "EnergyTracker.LogEventIntent",
+                      "valueKind": "InitCall",
+                      "value": {
+                        "type": "EnergyTracker.LogEventIntent",
+                        "arguments": []
+                      }
+                    },
+                    {
+                      "label": "phrases",
+                      "type": "Swift.Array<AppIntents.AppShortcutPhrase<EnergyTracker.LogEventIntent>>",
+                      "valueKind": "Array",
+                      "value": [
+                        {
+                          "valueKind": "InterpolatedStringLiteral",
+                          "value": {
+                            "segments": [
+                              {
+                                "valueKind": "RawLiteral",
+                                "value": "Log an event in "
+                              },
+                              {
+                                "valueKind": "Enum",
+                                "value": {
+                                  "name": "applicationName"
+                                }
+                              },
+                              {
+                                "valueKind": "RawLiteral",
+                                "value": ""
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "valueKind": "InterpolatedStringLiteral",
+                          "value": {
+                            "segments": [
+                              {
+                                "valueKind": "RawLiteral",
+                                "value": "Add a note to "
+                              },
+                              {
+                                "valueKind": "Enum",
+                                "value": {
+                                  "name": "applicationName"
+                                }
+                              },
+                              {
+                                "valueKind": "RawLiteral",
+                                "value": ""
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "label": "shortTitle",
+                      "type": "Foundation.LocalizedStringResource",
+                      "valueKind": "RawLiteral",
+                      "value": "Log Event"
+                    },
+                    {
+                      "label": "systemImageName",
+                      "type": "Swift.String",
+                      "valueKind": "RawLiteral",
+                      "value": "note.text.badge.plus"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+]

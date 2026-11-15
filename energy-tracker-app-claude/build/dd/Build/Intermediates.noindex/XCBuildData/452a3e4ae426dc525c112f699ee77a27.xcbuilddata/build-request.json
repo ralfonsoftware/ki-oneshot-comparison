@@ -1,0 +1,66 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "734d08e0ddeac51102d91a6d486ad696cf3d5014cbd21008dc4f193998d12a81"
+    },
+    {
+      "guid" : "734d08e0ddeac51102d91a6d486ad696e021808b7a5254a71ed629126c4fbb39"
+    }
+  ],
+  "containerPath" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/EnergyTracker.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "hostTargetedPlatform" : null,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator27.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "i386",
+        "x86_64"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Products",
+      "derivedDataPath" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd",
+      "indexDataStoreFolderPath" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/ralf/Dev/Projects/energy-tracker-app-claude/build/dd/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "CODE_SIGNING_ALLOWED" : "NO"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

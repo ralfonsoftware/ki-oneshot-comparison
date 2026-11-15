@@ -1,0 +1,344 @@
+{
+  "source": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Views/TodayView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Shows how the status is calculated",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "Log reading",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 44
+        }
+      },
+      {
+        "comment": "",
+        "key": "Log event",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 74
+        }
+      },
+      {
+        "comment": "",
+        "key": "1 reading needs a decision",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 153
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld readings need a decision",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 154
+        }
+      },
+      {
+        "comment": "",
+        "key": "Time to check your tariff — your minimum term ends on %@",
+        "location": {
+          "startingColumn": 87,
+          "startingLine": 191
+        }
+      },
+      {
+        "comment": "",
+        "key": "Discard these records?",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 178
+        }
+      },
+      {
+        "comment": "",
+        "key": "Decide",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 155
+        }
+      },
+      {
+        "comment": "",
+        "key": "This reading was classified differently on another device. It is now: %@.",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 163
+        }
+      },
+      {
+        "comment": "",
+        "key": "reset",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 248
+        }
+      },
+      {
+        "comment": "",
+        "key": "rollover",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 249
+        }
+      },
+      {
+        "comment": "",
+        "key": "OK",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 164
+        }
+      },
+      {
+        "comment": "",
+        "key": "1 reading",
+        "location": {
+          "startingColumn": 71,
+          "startingLine": 207
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld readings",
+        "location": {
+          "startingColumn": 104,
+          "startingLine": 207
+        }
+      },
+      {
+        "comment": "",
+        "key": "1 event",
+        "location": {
+          "startingColumn": 69,
+          "startingLine": 210
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld events",
+        "location": {
+          "startingColumn": 100,
+          "startingLine": 210
+        }
+      },
+      {
+        "comment": "",
+        "key": "1 record",
+        "location": {
+          "startingColumn": 69,
+          "startingLine": 213
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld records",
+        "location": {
+          "startingColumn": 101,
+          "startingLine": 213
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ from before the restore arrived from another device.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 216
+        }
+      },
+      {
+        "comment": "",
+        "key": "Keep",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 172
+        }
+      },
+      {
+        "comment": "",
+        "key": "Discard",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 174
+        }
+      },
+      {
+        "comment": "",
+        "key": "Discard",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 179
+        }
+      },
+      {
+        "comment": "",
+        "key": "Two tariffs start on %@ — keep one",
+        "location": {
+          "startingColumn": 77,
+          "startingLine": 184
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 185
+        }
+      },
+      {
+        "comment": "",
+        "key": "Compare",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 193
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 195
+        }
+      },
+      {
+        "comment": "",
+        "key": "How this is calculated",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 295
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pace",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 267
+        }
+      },
+      {
+        "comment": "",
+        "key": "Threshold",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 276
+        }
+      },
+      {
+        "comment": "",
+        "key": "Confidence",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 286
+        }
+      },
+      {
+        "comment": "",
+        "key": "Used so far",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 268
+        }
+      },
+      {
+        "comment": "",
+        "key": "Baseline for the same period",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 269
+        }
+      },
+      {
+        "comment": "",
+        "key": "Period",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 270
+        }
+      },
+      {
+        "comment": "",
+        "key": "Difference",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 274
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ – %@ · %@ days",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 271
+        }
+      },
+      {
+        "comment": "",
+        "key": "Per year",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 277
+        }
+      },
+      {
+        "comment": "",
+        "key": "Scaled to the period",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 278
+        }
+      },
+      {
+        "comment": "",
+        "key": "The difference is larger than the threshold for this period, so the status is trending.",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 306
+        }
+      },
+      {
+        "comment": "",
+        "key": "You used less than the baseline for this period, so the status is below baseline.",
+        "location": {
+          "startingColumn": 48,
+          "startingLine": 307
+        }
+      },
+      {
+        "comment": "",
+        "key": "The difference is not larger than the threshold for this period, so the status is within range.",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 308
+        }
+      },
+      {
+        "comment": "",
+        "key": "Last reading %lld days ago; you count a status as less certain after %lld days.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 288
+        }
+      }
+    ]
+  },
+  "version": 1
+}

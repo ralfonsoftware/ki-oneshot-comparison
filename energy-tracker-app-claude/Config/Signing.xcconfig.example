@@ -1,0 +1,2 @@
+// Copy to Signing.xcconfig (git-ignored) and set your Apple Developer Program team id.
+DEVELOPMENT_TEAM = ABCDE12345

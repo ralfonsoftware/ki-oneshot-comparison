@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@</key>
+	<string>%@</string>
+	<key>%@ / kWh</key>
+	<string>%@ / kWh</string>
+	<key>%@ / month</key>
+	<string>%@ / Monat</string>
+	<key>%@ from before the restore arrived from another device.</key>
+	<string>%@ von vor der Wiederherstellung kamen von einem anderen Gerät.</string>
+	<key>%@ kWh</key>
+	<string>%@ kWh</string>
+	<key>%@ kWh above baseline pace so far</key>
+	<string>Bisher %@ kWh über dem Basistempo</string>
+	<key>%@ kWh above baseline pace so far, inside your margin</key>
+	<string>Bisher %@ kWh über dem Basistempo, innerhalb deines Spielraums</string>
+	<key>%@ kWh under baseline pace so far</key>
+	<string>Bisher %@ kWh unter dem Basistempo</string>
+	<key>%@ – %@</key>
+	<string>%@ – %@</string>
+	<key>%@ – %@ · %@ days</key>
+	<string>%@ – %@ · %@ Tage</string>
+	<key>%@ — %@ kWh above baseline pace.</key>
+	<string>%@ – %@ kWh über dem Basistempo.</string>
+	<key>%@ — %@ kWh under baseline pace.</key>
+	<string>%@ – %@ kWh unter dem Basistempo.</string>
+	<key>%@ — right on baseline pace.</key>
+	<string>%@ – genau im Basistempo.</string>
+	<key>%@ → %@ kWh</key>
+	<string>%@ → %@ kWh</string>
+	<key>%@, %@ kWh</key>
+	<string>%@, %@ kWh</string>
+	<key>%lld events</key>
+	<string>%lld Ereignisse</string>
+	<key>%lld exact duplicate readings were merged.</key>
+	<string>%lld exakt doppelte Zählerstände wurden zusammengeführt.</string>
+	<key>%lld people</key>
+	<string>%lld Personen</string>
+	<key>%lld readings</key>
+	<string>%lld Zählerstände</string>
+	<key>%lld readings need a decision</key>
+	<string>%lld Zählerstände brauchen eine Entscheidung</string>
+	<key>%lld records</key>
+	<string>%lld Einträge</string>
+	<key>1 event</key>
+	<string>1 Ereignis</string>
+	<key>1 exact duplicate reading was merged.</key>
+	<string>1 exakt doppelter Zählerstand wurde zusammengeführt.</string>
+	<key>1 month</key>
+	<string>1 Monat</string>
+	<key>1 person</key>
+	<string>1 Person</string>
+	<key>1 reading</key>
+	<string>1 Zählerstand</string>
+	<key>1 reading needs a decision</key>
+	<string>1 Zählerstand braucht eine Entscheidung</string>
+	<key>1 record</key>
+	<string>1 Eintrag</string>
+	<key>1 year</key>
+	<string>1 Jahr</string>
+	<key>3 months</key>
+	<string>3 Monate</string>
+	<key>About</key>
+	<string>Info</string>
+	<key>Actions for %@</key>
+	<string>Aktionen für %@</string>
+	<key>Add device</key>
+	<string>Gerät hinzufügen</string>
+	<key>Add power point</key>
+	<string>Steckdose hinzufügen</string>
+	<key>Add room</key>
+	<string>Raum hinzufügen</string>
+	<key>Add rooms, power points and devices in Settings → Rooms &amp; Devices.</key>
+	<string>Räume, Steckdosen und Geräte legst du unter Einstellungen → Räume &amp; Geräte an.</string>
+	<key>Add tariff</key>
+	<string>Tarif hinzufügen</string>
+	<key>Add your current tariff to compare.</key>
+	<string>Füge deinen aktuellen Tarif hinzu, um zu vergleichen.</string>
+	<key>All</key>
+	<string>Alles</string>
+	<key>Already saved</key>
+	<string>Bereits gespeichert</string>
+	<key>Already saved.</key>
+	<string>Bereits gespeichert.</string>
+	<key>An archived item cannot get new items.</key>
+	<string>Ein archiviertes Element kann keine neuen Elemente bekommen.</string>
+	<key>Another tariff already starts on %@.</key>
+	<string>Ein anderer Tarif beginnt bereits am %@.</string>
+	<key>Appearance</key>
+	<string>Darstellung</string>
+	<key>Archive</key>
+	<string>Archivieren</string>
+	<key>Archived</key>
+	<string>Archiviert</string>
+	<key>At what value do the digits wrap?</key>
+	<string>Bei welchem Wert springen die Ziffern um?</string>
+	<key>At your pace of %@ kWh a year, your current tariff costs %@.</key>
+	<string>Bei deinem Tempo von %1$@ kWh im Jahr kostet dein aktueller Tarif %2$@.</string>
+	<key>Base fee</key>
+	<string>Grundgebühr</string>
+	<key>Base fee changed from %@ to %@</key>
+	<string>Grundgebühr geändert von %1$@ auf %2$@</string>
+	<key>Base fee per month</key>
+	<string>Grundgebühr pro Monat</string>
+	<key>Based on an older reading — the result is less certain.</key>
+	<string>Beruht auf einem älteren Zählerstand – das Ergebnis ist weniger sicher.</string>
+	<key>Baseline for the same period</key>
+	<string>Basis für denselben Zeitraum</string>
+	<key>Baseline pace</key>
+	<string>Basistempo</string>
+	<key>Below baseline</key>
+	<string>Unter der Basis</string>
+	<key>Build</key>
+	<string>Build</string>
+	<key>Cancel</key>
+	<string>Abbrechen</string>
+	<key>Change</key>
+	<string>Ändern</string>
+	<key>Change classification</key>
+	<string>Einordnung ändern</string>
+	<key>Changes</key>
+	<string>Änderungen</string>
+	<key>Changes apply from now on. Stored history is never recalculated. Leave the yearly target empty to hide the status.</key>
+	<string>Änderungen gelten ab jetzt. Gespeicherter Verlauf wird nie neu berechnet. Lass das Jahresziel leer, um den Status auszublenden.</string>
+	<key>Checking iCloud…</key>
+	<string>iCloud wird geprüft …</string>
+	<key>Checking the file…</key>
+	<string>Datei wird geprüft …</string>
+	<key>Choose</key>
+	<string>Auswählen</string>
+	<key>Choose a JSON export file from Energy Tracker or from the old web app. Nothing changes until you confirm.</key>
+	<string>Wähle eine JSON-Exportdatei aus Energy Tracker oder aus der alten Web-App. Nichts ändert sich, bevor du bestätigst.</string>
+	<key>Choose another file</key>
+	<string>Andere Datei wählen</string>
+	<key>Choose export file</key>
+	<string>Exportdatei wählen</string>
+	<key>Classified as</key>
+	<string>Eingeordnet als</string>
+	<key>Compare</key>
+	<string>Vergleichen</string>
+	<key>Compare a candidate tariff</key>
+	<string>Einen anderen Tarif vergleichen</string>
+	<key>Confidence</key>
+	<string>Sicherheit</string>
+	<key>Contract start</key>
+	<string>Vertragsbeginn</string>
+	<key>Correct reading</key>
+	<string>Zählerstand korrigieren</string>
+	<key>Correct value</key>
+	<string>Wert korrigieren</string>
+	<key>Corrected from %@ on %@</key>
+	<string>Korrigiert von %1$@ am %2$@</string>
+	<key>Corrected · %@</key>
+	<string>Korrigiert · %@</string>
+	<key>Corrections</key>
+	<string>Korrekturen</string>
+	<key>Could not save: %@</key>
+	<string>Speichern nicht möglich: %@</string>
+	<key>Currency</key>
+	<string>Währung</string>
+	<key>Currency changed from %@ to %@</key>
+	<string>Währung geändert von %1$@ auf %2$@</string>
+	<key>Current tariff</key>
+	<string>Aktueller Tarif</string>
+	<key>Current value</key>
+	<string>Aktueller Wert</string>
+	<key>Currently classified as: %@.</key>
+	<string>Derzeit eingeordnet als: %@.</string>
+	<key>Dark</key>
+	<string>Dunkel</string>
+	<key>Data</key>
+	<string>Daten</string>
+	<key>Date</key>
+	<string>Datum</string>
+	<key>Decide</key>
+	<string>Entscheiden</string>
+	<key>Decide about the lower reading to see your status</key>
+	<string>Entscheide über den niedrigeren Zählerstand, um deinen Status zu sehen</string>
+	<key>Decide now</key>
+	<string>Jetzt entscheiden</string>
+	<key>Delete</key>
+	<string>Löschen</string>
+	<key>Delete event</key>
+	<string>Ereignis löschen</string>
+	<key>Delete tariff</key>
+	<string>Tarif löschen</string>
+	<key>Delete the other tariff?</key>
+	<string>Den anderen Tarif löschen?</string>
+	<key>Delete this event?</key>
+	<string>Dieses Ereignis löschen?</string>
+	<key>Delete this tariff?</key>
+	<string>Diesen Tarif löschen?</string>
+	<key>Describe the event in 1 to 500 characters.</key>
+	<string>Beschreibe das Ereignis mit 1 bis 500 Zeichen.</string>
+	<key>Devices</key>
+	<string>Geräte</string>
+	<key>Difference</key>
+	<string>Differenz</string>
+	<key>Difference between your consumption and the baseline pace over time. Points above zero use more than the baseline.</key>
+	<string>Differenz zwischen deinem Verbrauch und dem Basistempo im Zeitverlauf. Punkte über null liegen über der Basis.</string>
+	<key>Difference to baseline pace</key>
+	<string>Differenz zum Basistempo</string>
+	<key>Difference to baseline pace in kWh</key>
+	<string>Differenz zum Basistempo in kWh</string>
+	<key>Difference to baseline pace, in kWh</key>
+	<string>Differenz zum Basistempo, in kWh</string>
+	<key>Digit capacity</key>
+	<string>Zählerkapazität</string>
+	<key>Discard</key>
+	<string>Verwerfen</string>
+	<key>Discard these records?</key>
+	<string>Diese Einträge verwerfen?</string>
+	<key>Done</key>
+	<string>Erledigt</string>
+	<key>Each reading you log adds a point here.</key>
+	<string>Jeder erfasste Zählerstand fügt hier einen Punkt hinzu.</string>
+	<key>Edit</key>
+	<string>Bearbeiten</string>
+	<key>Edit event</key>
+	<string>Ereignis bearbeiten</string>
+	<key>Edit tariff</key>
+	<string>Tarif bearbeiten</string>
+	<key>Energy Status</key>
+	<string>Energiestatus</string>
+	<key>Energy Tracker</key>
+	<string>Energy Tracker</string>
+	<key>Enter a number, for example 12345.6.</key>
+	<string>Gib eine Zahl ein, zum Beispiel 12345,6.</string>
+	<key>Enter a value greater than 0 kWh.</key>
+	<string>Gib einen Wert über 0 kWh ein.</string>
+	<key>Enter the candidate's price per kWh and base fee.</key>
+	<string>Gib Arbeitspreis und Grundgebühr des anderen Tarifs ein.</string>
+	<key>Enter the capacity in kWh, for example 100000.</key>
+	<string>Gib die Kapazität in kWh ein, zum Beispiel 100000.</string>
+	<key>Enter the price per kWh and the base fee as numbers.</key>
+	<string>Gib Arbeitspreis und Grundgebühr als Zahlen ein.</string>
+	<key>Enter the threshold as a number of 0 or more.</key>
+	<string>Gib die Schwelle als Zahl ab 0 ein.</string>
+	<key>Enter the yearly target as a number greater than 0.</key>
+	<string>Gib das Jahresziel als Zahl über 0 ein.</string>
+	<key>Event</key>
+	<string>Ereignis</string>
+	<key>Event saved</key>
+	<string>Ereignis gespeichert</string>
+	<key>Event saved.</key>
+	<string>Ereignis gespeichert.</string>
+	<key>Events</key>
+	<string>Ereignisse</string>
+	<key>Export all data</key>
+	<string>Alle Daten exportieren</string>
+	<key>Export current data first</key>
+	<string>Zuerst aktuelle Daten exportieren</string>
+	<key>For example 100000 kWh for a meter with five digits before the decimal point.</key>
+	<string>Zum Beispiel 100000 kWh bei einem Zähler mit fünf Stellen vor dem Komma.</string>
+	<key>For example: away 2 weeks, sauna 3h.</key>
+	<string>Zum Beispiel: 2 Wochen verreist, Sauna 3 Std.</string>
+	<key>From %@ · minimum term %lld months</key>
+	<string>Ab %1$@ · Mindestlaufzeit %2$lld Monate</string>
+	<key>Gap</key>
+	<string>Lücke</string>
+	<key>Gap end</key>
+	<string>Lückenende</string>
+	<key>Gap start</key>
+	<string>Lückenbeginn</string>
+	<key>Get Energy Status</key>
+	<string>Energiestatus abfragen</string>
+	<key>History</key>
+	<string>Verlauf</string>
+	<key>How much electricity do you expect to use in a year?</key>
+	<string>Wie viel Strom erwartest du im Jahr zu verbrauchen?</string>
+	<key>How this is calculated</key>
+	<string>So wird gerechnet</string>
+	<key>Import</key>
+	<string>Importieren</string>
+	<key>Import finished.</key>
+	<string>Import abgeschlossen.</string>
+	<key>Import from export file</key>
+	<string>Aus Exportdatei importieren</string>
+	<key>Importing…</key>
+	<string>Wird importiert …</string>
+	<key>Its change history is kept.</key>
+	<string>Sein Änderungsverlauf bleibt erhalten.</string>
+	<key>Keep</key>
+	<string>Behalten</string>
+	<key>Keep one tariff</key>
+	<string>Einen Tarif behalten</string>
+	<key>Keep selected, delete the other</key>
+	<string>Ausgewählten behalten, anderen löschen</string>
+	<key>Last reading %lld days ago</key>
+	<string>Letzter Zählerstand vor %lld Tagen</string>
+	<key>Last reading %lld days ago — status is less certain</key>
+	<string>Letzter Zählerstand vor %lld Tagen – der Status ist weniger sicher</string>
+	<key>Last reading %lld days ago; you count a status as less certain after %lld days.</key>
+	<string>Letzter Zählerstand vor %1$lld Tagen; du wertest einen Status nach %2$lld Tagen als weniger sicher.</string>
+	<key>Last reading today</key>
+	<string>Letzter Zählerstand heute</string>
+	<key>Last reading yesterday</key>
+	<string>Letzter Zählerstand gestern</string>
+	<key>Last: %@ · %@</key>
+	<string>Zuletzt: %1$@ · %2$@</string>
+	<key>Later</key>
+	<string>Später</string>
+	<key>Less certain</key>
+	<string>Weniger sicher</string>
+	<key>Less certain after</key>
+	<string>Weniger sicher nach</string>
+	<key>Light</key>
+	<string>Hell</string>
+	<key>Log ${kwh} kWh</key>
+	<string>${kwh} kWh erfassen</string>
+	<key>Log Event</key>
+	<string>Ereignis erfassen</string>
+	<key>Log Meter Reading</key>
+	<string>Zählerstand erfassen</string>
+	<key>Log Reading</key>
+	<string>Zählerstand erfassen</string>
+	<key>Log a reading</key>
+	<string>Zählerstand erfassen</string>
+	<key>Log at least two readings to compare tariffs.</key>
+	<string>Erfasse mindestens zwei Zählerstände, um Tarife zu vergleichen.</string>
+	<key>Log event</key>
+	<string>Ereignis erfassen</string>
+	<key>Log event ${text}</key>
+	<string>Ereignis ${text} erfassen</string>
+	<key>Log reading</key>
+	<string>Zählerstand erfassen</string>
+	<key>Log your first reading to get started</key>
+	<string>Erfasse deinen ersten Zählerstand, um loszulegen</string>
+	<key>Looking for your data in iCloud…</key>
+	<string>Deine Daten werden in iCloud gesucht …</string>
+	<key>Lower reading</key>
+	<string>Niedrigerer Zählerstand</string>
+	<key>Lower than the reading before</key>
+	<string>Niedriger als der Zählerstand davor</string>
+	<key>Meter capacity</key>
+	<string>Zählerkapazität</string>
+	<key>Meter reading</key>
+	<string>Zählerstand</string>
+	<key>Meter replaced or reset</key>
+	<string>Zähler getauscht oder zurückgesetzt</string>
+	<key>Meter rolled over</key>
+	<string>Zähler übergelaufen</string>
+	<key>Meter rolled over (digits wrapped)</key>
+	<string>Zähler übergelaufen (Ziffern umgesprungen)</string>
+	<key>Meter was replaced or reset</key>
+	<string>Zähler wurde getauscht oder zurückgesetzt</string>
+	<key>Minimum term</key>
+	<string>Mindestlaufzeit</string>
+	<key>Minimum term changed from %@ to %@ months</key>
+	<string>Mindestlaufzeit geändert von %1$@ auf %2$@ Monate</string>
+	<key>Minimum term ends</key>
+	<string>Mindestlaufzeit endet</string>
+	<key>Money</key>
+	<string>Geld</string>
+	<key>Move to</key>
+	<string>Verschieben nach</string>
+	<key>Name</key>
+	<string>Name</string>
+	<key>Names need 1 to 200 characters.</key>
+	<string>Namen brauchen 1 bis 200 Zeichen.</string>
+	<key>Needs a decision</key>
+	<string>Braucht eine Entscheidung</string>
+	<key>New device</key>
+	<string>Neues Gerät</string>
+	<key>New power point</key>
+	<string>Neue Steckdose</string>
+	<key>New room</key>
+	<string>Neuer Raum</string>
+	<key>Next</key>
+	<string>Weiter</string>
+	<key>No events yet. Log one when something unusual happens, like being away or a guest staying over.</key>
+	<string>Noch keine Ereignisse. Erfasse eines, wenn etwas Ungewöhnliches passiert, etwa eine Reise oder Besuch über Nacht.</string>
+	<key>No history yet</key>
+	<string>Noch kein Verlauf</string>
+	<key>No matching events.</key>
+	<string>Keine passenden Ereignisse.</string>
+	<key>No matching readings.</key>
+	<string>Keine passenden Zählerstände.</string>
+	<key>No reading between %@ and %@, so this stretch is shown as a gap.</key>
+	<string>Kein Zählerstand zwischen %1$@ und %2$@, darum wird dieser Abschnitt als Lücke gezeigt.</string>
+	<key>No readings yet.</key>
+	<string>Noch keine Zählerstände.</string>
+	<key>No rooms yet. Rooms, power points and devices are labels for events.</key>
+	<string>Noch keine Räume. Räume, Steckdosen und Geräte sind Etiketten für Ereignisse.</string>
+	<key>None</key>
+	<string>Keins</string>
+	<key>Not worth switching</key>
+	<string>Wechsel lohnt sich nicht</string>
+	<key>Nothing to decide</key>
+	<string>Nichts zu entscheiden</string>
+	<key>Notifications are turned off for Energy Tracker in the Settings app.</key>
+	<string>Mitteilungen für Energy Tracker sind in der Einstellungen-App ausgeschaltet.</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Open Log Reading</key>
+	<string>Zählerstand-Erfassung öffnen</string>
+	<key>Opens Energy Tracker ready to log a meter reading.</key>
+	<string>Öffnet Energy Tracker direkt zum Erfassen eines Zählerstands.</string>
+	<key>Opens Energy Tracker ready to log a reading.</key>
+	<string>Öffnet Energy Tracker direkt zum Erfassen eines Zählerstands.</string>
+	<key>Original value</key>
+	<string>Ursprünglicher Wert</string>
+	<key>Pace</key>
+	<string>Tempo</string>
+	<key>Per year</key>
+	<string>Pro Jahr</string>
+	<key>Period</key>
+	<string>Zeitraum</string>
+	<key>Power points</key>
+	<string>Steckdosen</string>
+	<key>Price per kWh</key>
+	<string>Arbeitspreis</string>
+	<key>Price per kWh changed from %@ to %@</key>
+	<string>Arbeitspreis geändert von %1$@ auf %2$@</string>
+	<key>Privacy policy</key>
+	<string>Datenschutzerklärung</string>
+	<key>Privacy: your data stays on your Apple devices and in your private iCloud database. Energy Tracker has no server, no account, no analytics and no tracking.</key>
+	<string>Datenschutz: Deine Daten bleiben auf deinen Apple-Geräten und in deiner privaten iCloud-Datenbank. Energy Tracker hat keinen Server, kein Konto, keine Analyse und kein Tracking.</string>
+	<key>Problems</key>
+	<string>Probleme</string>
+	<key>Range</key>
+	<string>Zeitraum</string>
+	<key>Read at</key>
+	<string>Abgelesen am</string>
+	<key>Read your meter every day or two. Energy Tracker tells you whether this year's use is on track.</key>
+	<string>Lies deinen Zähler alle ein bis zwei Tage ab. Energy Tracker sagt dir, ob dein Verbrauch in diesem Jahr im Plan liegt.</string>
+	<key>Reading</key>
+	<string>Zählerstand</string>
+	<key>Reading not found</key>
+	<string>Zählerstand nicht gefunden</string>
+	<key>Readings</key>
+	<string>Zählerstände</string>
+	<key>Readings cannot be deleted. Correct the value instead.</key>
+	<string>Zählerstände lassen sich nicht löschen. Korrigiere stattdessen den Wert.</string>
+	<key>Recent events</key>
+	<string>Letzte Ereignisse</string>
+	<key>Regression decisions</key>
+	<string>Entscheidungen zu niedrigeren Ständen</string>
+	<key>Reminders</key>
+	<string>Erinnerungen</string>
+	<key>Rename</key>
+	<string>Umbenennen</string>
+	<key>Replace all data</key>
+	<string>Alle Daten ersetzen</string>
+	<key>Replace all data?</key>
+	<string>Alle Daten ersetzen?</string>
+	<key>Restore</key>
+	<string>Wiederherstellen</string>
+	<key>Right on baseline pace so far</key>
+	<string>Bisher genau im Basistempo</string>
+	<key>Rooms</key>
+	<string>Räume</string>
+	<key>Rooms &amp; Devices</key>
+	<string>Räume &amp; Geräte</string>
+	<key>Save</key>
+	<string>Sichern</string>
+	<key>Save rollover</key>
+	<string>Überlauf sichern</string>
+	<key>Saved</key>
+	<string>Gesichert</string>
+	<key>Saved %@.</key>
+	<string>%@ gesichert.</string>
+	<key>Saved %@. %@</key>
+	<string>%1$@ gesichert. %2$@</string>
+	<key>Saved · %@</key>
+	<string>Gesichert · %@</string>
+	<key>Saved. This reading is lower than the previous one — open Energy Tracker to classify it.</key>
+	<string>Gesichert. Dieser Zählerstand ist niedriger als der vorherige – öffne Energy Tracker, um ihn einzuordnen.</string>
+	<key>Saves a Main Meter reading with the current time and tells you the new status.</key>
+	<string>Sichert einen Zählerstand mit der aktuellen Uhrzeit und nennt dir den neuen Status.</string>
+	<key>Saves a short note about something that affects consumption, such as being away.</key>
+	<string>Sichert eine kurze Notiz zu etwas, das den Verbrauch beeinflusst, etwa eine Abwesenheit.</string>
+	<key>Scaled to the period</key>
+	<string>Auf den Zeitraum umgerechnet</string>
+	<key>Segment</key>
+	<string>Abschnitt</string>
+	<key>Set your yearly target to see your status</key>
+	<string>Lege dein Jahresziel fest, um deinen Status zu sehen</string>
+	<key>Settings</key>
+	<string>Einstellungen</string>
+	<key>Show archived</key>
+	<string>Archivierte zeigen</string>
+	<key>Shows how the status is calculated</key>
+	<string>Zeigt, wie der Status berechnet wird</string>
+	<key>Skip</key>
+	<string>Überspringen</string>
+	<key>Smart plug readings (kept, not shown)</key>
+	<string>Messwerte smarter Steckdosen (gespeichert, nicht angezeigt)</string>
+	<key>Start date changed from %@ to %@</key>
+	<string>Beginn geändert von %1$@ auf %2$@</string>
+	<key>Start fresh</key>
+	<string>Neu beginnen</string>
+	<key>Status snapshots</key>
+	<string>Status-Momentaufnahmen</string>
+	<key>Support</key>
+	<string>Support</string>
+	<key>Switching bonus (optional)</key>
+	<string>Wechselbonus (optional)</string>
+	<key>Synced with iCloud</key>
+	<string>Mit iCloud synchronisiert</string>
+	<key>System</key>
+	<string>System</string>
+	<key>Tag</key>
+	<string>Etikett</string>
+	<key>Tariff</key>
+	<string>Tarif</string>
+	<key>Tariff check every</key>
+	<string>Tarifcheck alle</string>
+	<key>Tariff check — add your current tariff first.</key>
+	<string>Tarifcheck – füge zuerst deinen aktuellen Tarif hinzu.</string>
+	<key>Tariff check — nothing due until %@</key>
+	<string>Tarifcheck – nichts fällig bis %@</string>
+	<key>Tariff not found</key>
+	<string>Tarif nicht gefunden</string>
+	<key>Tariff reminders on this iPad</key>
+	<string>Tariferinnerungen auf diesem iPad</string>
+	<key>Tariff reminders on this iPhone</key>
+	<string>Tariferinnerungen auf diesem iPhone</string>
+	<key>Tariff saved</key>
+	<string>Tarif gesichert</string>
+	<key>Tariffs</key>
+	<string>Tarife</string>
+	<key>Tells you in one sentence whether your electricity use is on track.</key>
+	<string>Sagt dir in einem Satz, ob dein Stromverbrauch im Plan liegt.</string>
+	<key>That value is too large for a meter reading.</key>
+	<string>Dieser Wert ist zu groß für einen Zählerstand.</string>
+	<key>The base fee must be 0 or more.</key>
+	<string>Die Grundgebühr muss 0 oder mehr betragen.</string>
+	<key>The capacity must be larger than the previous reading.</key>
+	<string>Die Kapazität muss größer sein als der vorherige Zählerstand.</string>
+	<key>The contract period must be between 1 and 1,200 months.</key>
+	<string>Die Mindestlaufzeit muss zwischen 1 und 1.200 Monaten liegen.</string>
+	<key>The difference is larger than the threshold for this period, so the status is trending.</key>
+	<string>Die Differenz ist größer als die Schwelle für diesen Zeitraum, darum ist der Status „Steigend“.</string>
+	<key>The difference is not larger than the threshold for this period, so the status is within range.</key>
+	<string>Die Differenz ist nicht größer als die Schwelle für diesen Zeitraum, darum ist der Status „Im Rahmen“.</string>
+	<key>The file contains</key>
+	<string>Die Datei enthält</string>
+	<key>The file could not be read.</key>
+	<string>Die Datei konnte nicht gelesen werden.</string>
+	<key>The file is larger than 250 MB.</key>
+	<string>Die Datei ist größer als 250 MB.</string>
+	<key>The minimum term is not an end date. The tariff applies until the next tariff starts.</key>
+	<string>Die Mindestlaufzeit ist kein Enddatum. Der Tarif gilt, bis der nächste Tarif beginnt.</string>
+	<key>The original value stays visible in the reading's history.</key>
+	<string>Der ursprüngliche Wert bleibt im Verlauf des Zählerstands sichtbar.</string>
+	<key>The price per kWh must be greater than 0.</key>
+	<string>Der Arbeitspreis muss größer als 0 sein.</string>
+	<key>The start date must be between 1900 and 2200.</key>
+	<string>Der Beginn muss zwischen 1900 und 2200 liegen.</string>
+	<key>The value shown on the meter.</key>
+	<string>Der Wert, den der Zähler anzeigt.</string>
+	<key>This contract already started. Change its prices anyway?</key>
+	<string>Dieser Vertrag hat schon begonnen. Preise trotzdem ändern?</string>
+	<key>This deletes all current data on all your devices signed in to this Apple Account and replaces it with the file.</key>
+	<string>Damit werden alle aktuellen Daten auf allen deinen Geräten mit diesem Apple Account gelöscht und durch die Datei ersetzt.</string>
+	<key>This file can't be imported. Nothing was changed.</key>
+	<string>Diese Datei kann nicht importiert werden. Nichts wurde geändert.</string>
+	<key>This item no longer exists.</key>
+	<string>Dieses Element gibt es nicht mehr.</string>
+	<key>This reading is lower than the one before (%@ → %@ kWh). What happened?</key>
+	<string>Dieser Zählerstand ist niedriger als der davor (%1$@ → %2$@ kWh). Was ist passiert?</string>
+	<key>This reading was classified differently on another device. It is now: %@.</key>
+	<string>Dieser Zählerstand wurde auf einem anderen Gerät anders eingeordnet. Jetzt gilt: %@.</string>
+	<key>This setting is per device, so you can get the reminder on one device only instead of on all of them. You get one reminder at 10:00 on the day the tariff check is due.</key>
+	<string>Diese Einstellung gilt pro Gerät, damit die Erinnerung nur auf einem Gerät erscheint statt auf allen. Du bekommst eine Erinnerung um 10:00 Uhr am Tag, an dem der Tarifcheck fällig ist.</string>
+	<key>Threshold</key>
+	<string>Schwelle</string>
+	<key>Time to check your tariff</key>
+	<string>Zeit für einen Tarifcheck</string>
+	<key>Time to check your tariff — your minimum term ends on %@</key>
+	<string>Zeit für einen Tarifcheck – deine Mindestlaufzeit endet am %@</string>
+	<key>To be deleted</key>
+	<string>Wird gelöscht</string>
+	<key>Today</key>
+	<string>Heute</string>
+	<key>Trend</key>
+	<string>Trend</string>
+	<key>Trend history</key>
+	<string>Trendverlauf</string>
+	<key>Trending</key>
+	<string>Steigend</string>
+	<key>Trending threshold</key>
+	<string>Schwelle für „Steigend“</string>
+	<key>Two tariffs start on %@ — keep one</key>
+	<string>Zwei Tarife beginnen am %@ – behalte einen</string>
+	<key>Typical values</key>
+	<string>Typische Werte</string>
+	<key>Usage was above baseline pace in the two weeks around this event.</key>
+	<string>In den zwei Wochen um dieses Ereignis lag der Verbrauch über dem Basistempo.</string>
+	<key>Usage was below baseline pace in the two weeks around this event.</key>
+	<string>In den zwei Wochen um dieses Ereignis lag der Verbrauch unter dem Basistempo.</string>
+	<key>Use a 3-letter currency code such as EUR.</key>
+	<string>Verwende einen Währungscode aus 3 Buchstaben wie EUR.</string>
+	<key>Use at most 2 decimal places.</key>
+	<string>Verwende höchstens 2 Nachkommastellen.</string>
+	<key>Used only to tag events. Consumption is never split by room or device.</key>
+	<string>Nur zum Etikettieren von Ereignissen. Der Verbrauch wird nie nach Raum oder Gerät aufgeteilt.</string>
+	<key>Used so far</key>
+	<string>Bisher verbraucht</string>
+	<key>Value</key>
+	<string>Wert</string>
+	<key>Version</key>
+	<string>Version</string>
+	<key>View</key>
+	<string>Ansicht</string>
+	<key>What does the meter show, in kWh?</key>
+	<string>Was zeigt der Zähler an, in kWh?</string>
+	<key>What happened?</key>
+	<string>Was ist passiert?</string>
+	<key>When</key>
+	<string>Wann</string>
+	<key>Whether this year's electricity use is on track.</key>
+	<string>Ob dein Stromverbrauch in diesem Jahr im Plan liegt.</string>
+	<key>Which currency do your tariffs use?</key>
+	<string>In welcher Währung rechnen deine Tarife?</string>
+	<key>With bonus</key>
+	<string>Mit Bonus</string>
+	<key>Within range</key>
+	<string>Im Rahmen</string>
+	<key>Without bonus effect</key>
+	<string>Ohne Bonuseffekt</string>
+	<key>Worth switching</key>
+	<string>Wechsel lohnt sich</string>
+	<key>Yearly target</key>
+	<string>Jahresziel</string>
+	<key>You used less than the baseline for this period, so the status is below baseline.</key>
+	<string>Du hast in diesem Zeitraum weniger als die Basis verbraucht, darum ist der Status „Unter der Basis“.</string>
+	<key>Your last annual bill is the best guide. You can change this at any time.</key>
+	<string>Deine letzte Jahresabrechnung ist der beste Anhaltspunkt. Du kannst den Wert jederzeit ändern.</string>
+	<key>Your minimum term ends on %@.</key>
+	<string>Deine Mindestlaufzeit endet am %@.</string>
+	<key>Your pattern</key>
+	<string>Dein Muster</string>
+	<key>costs %@ more / year</key>
+	<string>kostet %@ mehr / Jahr</string>
+	<key>iCloud</key>
+	<string>iCloud</string>
+	<key>iCloud is restricted on this device.</key>
+	<string>iCloud ist auf diesem Gerät eingeschränkt.</string>
+	<key>iCloud is temporarily unavailable.</key>
+	<string>iCloud ist vorübergehend nicht verfügbar.</string>
+	<key>iCloud status could not be determined.</key>
+	<string>Der iCloud-Status ließ sich nicht ermitteln.</string>
+	<key>iCloud sync is not set up in this build.</key>
+	<string>iCloud-Synchronisierung ist in diesem Build nicht eingerichtet.</string>
+	<key>iCloud sync off — data stays on %@. Reason: %@</key>
+	<string>iCloud-Synchronisierung aus – Daten bleiben auf %1$@. Grund: %2$@</string>
+	<key>kWh</key>
+	<string>kWh</string>
+	<key>kWh/year</key>
+	<string>kWh/Jahr</string>
+	<key>month</key>
+	<string>Monat</string>
+	<key>not signed in to iCloud.</key>
+	<string>nicht bei iCloud angemeldet.</string>
+	<key>reset</key>
+	<string>Zurückgesetzt</string>
+	<key>rollover</key>
+	<string>Überlauf</string>
+	<key>saved</key>
+	<string>gesichert</string>
+	<key>saves %@ / year</key>
+	<string>spart %@ / Jahr</string>
+	<key>saves nothing</key>
+	<string>spart nichts</string>
+	<key>this iPad</key>
+	<string>diesem iPad</string>
+	<key>this iPhone</key>
+	<string>diesem iPhone</string>
+	<key>·</key>
+	<string>·</string>
+	<key>≈ %@ kWh</key>
+	<string>≈ %@ kWh</string>
+</dict>
+</plist>

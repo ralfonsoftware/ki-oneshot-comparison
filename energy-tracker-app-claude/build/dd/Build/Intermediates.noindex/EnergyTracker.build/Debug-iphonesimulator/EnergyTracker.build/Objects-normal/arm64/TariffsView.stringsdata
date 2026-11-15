@@ -1,0 +1,568 @@
+{
+  "source": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Views/TariffsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Current tariff",
+        "location": {
+          "startingColumn": 17,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "History",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 68
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add tariff",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add your current tariff to compare.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add tariff",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 63
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tariff check — nothing due until %@",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 96
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tariff check — add your current tariff first.",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 100
+        }
+      },
+      {
+        "comment": "",
+        "key": "Time to check your tariff — your minimum term ends on %@",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 89
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 90
+        }
+      },
+      {
+        "comment": "",
+        "key": "From %@ · minimum term %lld months",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 119
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ / kWh",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 113
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ / month",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 116
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tariff",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 162
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete this tariff?",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 164
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tariff not found",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 175
+        }
+      },
+      {
+        "comment": "",
+        "key": "Changes",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 147
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld months",
+        "location": {
+          "startingColumn": 77,
+          "startingLine": 143
+        }
+      },
+      {
+        "comment": "",
+        "key": "Price per kWh",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 139
+        }
+      },
+      {
+        "comment": "",
+        "key": "Base fee per month",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 140
+        }
+      },
+      {
+        "comment": "",
+        "key": "Currency",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 141
+        }
+      },
+      {
+        "comment": "",
+        "key": "Contract start",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 142
+        }
+      },
+      {
+        "comment": "",
+        "key": "Minimum term",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 143
+        }
+      },
+      {
+        "comment": "",
+        "key": "Minimum term ends",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 144
+        }
+      },
+      {
+        "comment": "",
+        "key": "Base fee changed from %@ to %@",
+        "location": {
+          "startingColumn": 66,
+          "startingLine": 183
+        }
+      },
+      {
+        "comment": "",
+        "key": "Price per kWh changed from %@ to %@",
+        "location": {
+          "startingColumn": 63,
+          "startingLine": 184
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start date changed from %@ to %@",
+        "location": {
+          "startingColumn": 69,
+          "startingLine": 185
+        }
+      },
+      {
+        "comment": "",
+        "key": "Minimum term changed from %@ to %@ months",
+        "location": {
+          "startingColumn": 72,
+          "startingLine": 186
+        }
+      },
+      {
+        "comment": "",
+        "key": "Currency changed from %@ to %@",
+        "location": {
+          "startingColumn": 60,
+          "startingLine": 187
+        }
+      },
+      {
+        "comment": "",
+        "key": "Edit",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 158
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete tariff",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 159
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 165
+        }
+      },
+      {
+        "comment": "",
+        "key": "Its change history is kept.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 172
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add tariff",
+        "location": {
+          "startingColumn": 66,
+          "startingLine": 231
+        }
+      },
+      {
+        "comment": "",
+        "key": "Edit tariff",
+        "location": {
+          "startingColumn": 100,
+          "startingLine": 231
+        }
+      },
+      {
+        "comment": "",
+        "key": "This contract already started. Change its prices anyway?",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 239
+        }
+      },
+      {
+        "comment": "",
+        "key": "month",
+        "location": {
+          "startingColumn": 124,
+          "startingLine": 215
+        }
+      },
+      {
+        "comment": "",
+        "key": "Price per kWh",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 214
+        }
+      },
+      {
+        "comment": "",
+        "key": "Base fee",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 215
+        }
+      },
+      {
+        "comment": "",
+        "key": "Currency",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 216
+        }
+      },
+      {
+        "comment": "",
+        "key": "Contract start",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 221
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld months",
+        "location": {
+          "startingColumn": 81,
+          "startingLine": 223
+        }
+      },
+      {
+        "comment": "",
+        "key": "Minimum term",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 223
+        }
+      },
+      {
+        "comment": "",
+        "key": "The minimum term is not an end date. The tariff applies until the next tariff starts.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 227
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 70,
+          "startingLine": 234
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 236
+        }
+      },
+      {
+        "comment": "",
+        "key": "Change",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 240
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tariff saved",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 291
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter the price per kWh and the base fee as numbers.",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 270
+        }
+      },
+      {
+        "comment": "",
+        "key": "Keep one tariff",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 327
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete the other tariff?",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 332
+        }
+      },
+      {
+        "comment": "",
+        "key": "Two tariffs start on %@ — keep one",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 324
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 70,
+          "startingLine": 330
+        }
+      },
+      {
+        "comment": "",
+        "key": "Keep selected, delete the other",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 333
+        }
+      },
+      {
+        "comment": "",
+        "key": "month",
+        "location": {
+          "startingColumn": 91,
+          "startingLine": 359
+        }
+      },
+      {
+        "comment": "",
+        "key": "Price per kWh",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 358
+        }
+      },
+      {
+        "comment": "",
+        "key": "Base fee",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 359
+        }
+      },
+      {
+        "comment": "",
+        "key": "Switching bonus (optional)",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 360
+        }
+      },
+      {
+        "comment": "",
+        "key": "Compare a candidate tariff",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 362
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter the candidate's price per kWh and base fee.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 386
+        }
+      },
+      {
+        "comment": "",
+        "key": "Log at least two readings to compare tariffs.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 390
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add your current tariff to compare.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 394
+        }
+      },
+      {
+        "comment": "",
+        "key": "Based on an older reading — the result is less certain.",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 381
+        }
+      },
+      {
+        "comment": "",
+        "key": "At your pace of %@ kWh a year, your current tariff costs %@.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 407
+        }
+      },
+      {
+        "comment": "",
+        "key": "With bonus",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 420
+        }
+      },
+      {
+        "comment": "",
+        "key": "Without bonus effect",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 421
+        }
+      },
+      {
+        "comment": "",
+        "key": "Worth switching",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 435
+        }
+      },
+      {
+        "comment": "",
+        "key": "Not worth switching",
+        "location": {
+          "startingColumn": 84,
+          "startingLine": 435
+        }
+      },
+      {
+        "comment": "",
+        "key": "saves %@ / year",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 447
+        }
+      },
+      {
+        "comment": "",
+        "key": "costs %@ more / year",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 448
+        }
+      },
+      {
+        "comment": "",
+        "key": "saves nothing",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 449
+        }
+      }
+    ]
+  },
+  "version": 1
+}

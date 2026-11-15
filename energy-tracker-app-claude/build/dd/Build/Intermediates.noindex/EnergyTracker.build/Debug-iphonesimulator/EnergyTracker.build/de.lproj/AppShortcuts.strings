@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>${applicationName} status</key>
+	<string>${applicationName}-Status</string>
+	<key>Add a note to ${applicationName}</key>
+	<string>Notiz zu ${applicationName} hinzufügen</string>
+	<key>Get my ${applicationName} status</key>
+	<string>Meinen ${applicationName}-Status abfragen</string>
+	<key>Is my electricity on track in ${applicationName}</key>
+	<string>Liegt mein Strom in ${applicationName} im Plan</string>
+	<key>Log a meter reading in ${applicationName}</key>
+	<string>Zählerstand in ${applicationName} erfassen</string>
+	<key>Log an event in ${applicationName}</key>
+	<string>Ereignis in ${applicationName} erfassen</string>
+	<key>Log meter reading with ${applicationName}</key>
+	<string>Zählerstand mit ${applicationName} erfassen</string>
+	<key>New ${applicationName} reading</key>
+	<string>Neuer ${applicationName}-Zählerstand</string>
+</dict>
+</plist>

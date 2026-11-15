@@ -1,0 +1,1422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="App/AppShortcuts.xcstrings" source-language="en" target-language="de" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="27.2" build-num="27B52"/>
+    </header>
+    <body>
+      <trans-unit id="Get my ${applicationName} status" xml:space="preserve">
+        <source>
+          <mrk mtype="x-set" mid="0">Get my ${applicationName} status</mrk>
+          <mrk mtype="x-set" mid="1">Is my electricity on track in ${applicationName}</mrk>
+          <mrk mtype="x-set" mid="2">${applicationName} status</mrk>
+        </source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Log a meter reading in ${applicationName}" xml:space="preserve">
+        <source>
+          <mrk mtype="x-set" mid="0">Log a meter reading in ${applicationName}</mrk>
+          <mrk mtype="x-set" mid="1">Log meter reading with ${applicationName}</mrk>
+          <mrk mtype="x-set" mid="2">New ${applicationName} reading</mrk>
+        </source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Log an event in ${applicationName}" xml:space="preserve">
+        <source>
+          <mrk mtype="x-set" mid="0">Log an event in ${applicationName}</mrk>
+          <mrk mtype="x-set" mid="1">Add a note to ${applicationName}</mrk>
+        </source>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="App/InfoPlist.xcstrings" source-language="en" target-language="de" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="27.2" build-num="27B52"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Energy Tracker</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>EnergyTracker</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Shared/InfoPlist.xcstrings" source-language="en" target-language="de" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="27.2" build-num="27B52"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Energy Tracker</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>EnergyTrackerWidgets</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Shared/Localizable.xcstrings" source-language="en" target-language="de" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="27.2" build-num="27B52"/>
+    </header>
+    <body>
+      <trans-unit id="%@" xml:space="preserve">
+        <source>%@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%@ / kWh" xml:space="preserve">
+        <source>%@ / kWh</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%@ / month" xml:space="preserve">
+        <source>%@ / month</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%@ from before the restore arrived from another device." xml:space="preserve">
+        <source>%@ from before the restore arrived from another device.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%@ kWh" xml:space="preserve">
+        <source>%@ kWh</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%@ kWh above baseline pace so far" xml:space="preserve">
+        <source>%@ kWh above baseline pace so far</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%@ kWh above baseline pace so far, inside your margin" xml:space="preserve">
+        <source>%@ kWh above baseline pace so far, inside your margin</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%@ kWh under baseline pace so far" xml:space="preserve">
+        <source>%@ kWh under baseline pace so far</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%@ – %@" xml:space="preserve">
+        <source>%1$@ – %2$@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%@ – %@ · %@ days" xml:space="preserve">
+        <source>%1$@ – %2$@ · %3$@ days</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%@ — %@ kWh above baseline pace." xml:space="preserve">
+        <source>%1$@ — %2$@ kWh above baseline pace.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%@ — %@ kWh under baseline pace." xml:space="preserve">
+        <source>%1$@ — %2$@ kWh under baseline pace.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%@ — right on baseline pace." xml:space="preserve">
+        <source>%@ — right on baseline pace.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%@ → %@ kWh" xml:space="preserve">
+        <source>%1$@ → %2$@ kWh</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%@, %@ kWh" xml:space="preserve">
+        <source>%1$@, %2$@ kWh</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld days" xml:space="preserve">
+        <source>%lld days</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld events" xml:space="preserve">
+        <source>%lld events</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld exact duplicate readings were merged." xml:space="preserve">
+        <source>%lld exact duplicate readings were merged.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld months" xml:space="preserve">
+        <source>%lld months</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld people" xml:space="preserve">
+        <source>%lld people</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld readings" xml:space="preserve">
+        <source>%lld readings</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld readings need a decision" xml:space="preserve">
+        <source>%lld readings need a decision</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld records" xml:space="preserve">
+        <source>%lld records</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="1 event" xml:space="preserve">
+        <source>1 event</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="1 exact duplicate reading was merged." xml:space="preserve">
+        <source>1 exact duplicate reading was merged.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="1 month" xml:space="preserve">
+        <source>1 month</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="1 person" xml:space="preserve">
+        <source>1 person</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="1 reading" xml:space="preserve">
+        <source>1 reading</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="1 reading needs a decision" xml:space="preserve">
+        <source>1 reading needs a decision</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="1 record" xml:space="preserve">
+        <source>1 record</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="1 year" xml:space="preserve">
+        <source>1 year</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="3 months" xml:space="preserve">
+        <source>3 months</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="About" xml:space="preserve">
+        <source>About</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Actions for %@" xml:space="preserve">
+        <source>Actions for %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add device" xml:space="preserve">
+        <source>Add device</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add power point" xml:space="preserve">
+        <source>Add power point</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add room" xml:space="preserve">
+        <source>Add room</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add rooms, power points and devices in Settings → Rooms &amp; Devices." xml:space="preserve">
+        <source>Add rooms, power points and devices in Settings → Rooms &amp; Devices.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add tariff" xml:space="preserve">
+        <source>Add tariff</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add your current tariff to compare." xml:space="preserve">
+        <source>Add your current tariff to compare.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="All" xml:space="preserve">
+        <source>All</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Already saved" xml:space="preserve">
+        <source>Already saved</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Already saved." xml:space="preserve">
+        <source>Already saved.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="An archived item cannot get new items." xml:space="preserve">
+        <source>An archived item cannot get new items.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Another tariff already starts on %@." xml:space="preserve">
+        <source>Another tariff already starts on %@.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Appearance" xml:space="preserve">
+        <source>Appearance</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Archive" xml:space="preserve">
+        <source>Archive</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Archived" xml:space="preserve">
+        <source>Archived</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="At what value do the digits wrap?" xml:space="preserve">
+        <source>At what value do the digits wrap?</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="At your pace of %@ kWh a year, your current tariff costs %@." xml:space="preserve">
+        <source>At your pace of %1$@ kWh a year, your current tariff costs %2$@.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Base fee" xml:space="preserve">
+        <source>Base fee</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Base fee changed from %@ to %@" xml:space="preserve">
+        <source>Base fee changed from %1$@ to %2$@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Base fee per month" xml:space="preserve">
+        <source>Base fee per month</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Based on an older reading — the result is less certain." xml:space="preserve">
+        <source>Based on an older reading — the result is less certain.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Baseline for the same period" xml:space="preserve">
+        <source>Baseline for the same period</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Baseline pace" xml:space="preserve">
+        <source>Baseline pace</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Below baseline" xml:space="preserve">
+        <source>Below baseline</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Build" xml:space="preserve">
+        <source>Build</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Change" xml:space="preserve">
+        <source>Change</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Change classification" xml:space="preserve">
+        <source>Change classification</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Changes" xml:space="preserve">
+        <source>Changes</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Changes apply from now on. Stored history is never recalculated. Leave the yearly target empty to hide the status." xml:space="preserve">
+        <source>Changes apply from now on. Stored history is never recalculated. Leave the yearly target empty to hide the status.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Checking iCloud…" xml:space="preserve">
+        <source>Checking iCloud…</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Checking the file…" xml:space="preserve">
+        <source>Checking the file…</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Choose" xml:space="preserve">
+        <source>Choose</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Choose a JSON export file from Energy Tracker or from the old web app. Nothing changes until you confirm." xml:space="preserve">
+        <source>Choose a JSON export file from Energy Tracker or from the old web app. Nothing changes until you confirm.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Choose another file" xml:space="preserve">
+        <source>Choose another file</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Choose export file" xml:space="preserve">
+        <source>Choose export file</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Classified as" xml:space="preserve">
+        <source>Classified as</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Compare" xml:space="preserve">
+        <source>Compare</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Compare a candidate tariff" xml:space="preserve">
+        <source>Compare a candidate tariff</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Confidence" xml:space="preserve">
+        <source>Confidence</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Contract start" xml:space="preserve">
+        <source>Contract start</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Correct reading" xml:space="preserve">
+        <source>Correct reading</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Correct value" xml:space="preserve">
+        <source>Correct value</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Corrected from %@ on %@" xml:space="preserve">
+        <source>Corrected from %1$@ on %2$@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Corrected · %@" xml:space="preserve">
+        <source>Corrected · %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Corrections" xml:space="preserve">
+        <source>Corrections</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Could not save: %@" xml:space="preserve">
+        <source>Could not save: %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Currency" xml:space="preserve">
+        <source>Currency</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Currency changed from %@ to %@" xml:space="preserve">
+        <source>Currency changed from %1$@ to %2$@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Current tariff" xml:space="preserve">
+        <source>Current tariff</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Current value" xml:space="preserve">
+        <source>Current value</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Currently classified as: %@." xml:space="preserve">
+        <source>Currently classified as: %@.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Dark" xml:space="preserve">
+        <source>Dark</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Data" xml:space="preserve">
+        <source>Data</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Date" xml:space="preserve">
+        <source>Date</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Decide" xml:space="preserve">
+        <source>Decide</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Decide about the lower reading to see your status" xml:space="preserve">
+        <source>Decide about the lower reading to see your status</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Decide now" xml:space="preserve">
+        <source>Decide now</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Delete" xml:space="preserve">
+        <source>Delete</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Delete event" xml:space="preserve">
+        <source>Delete event</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Delete tariff" xml:space="preserve">
+        <source>Delete tariff</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Delete the other tariff?" xml:space="preserve">
+        <source>Delete the other tariff?</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Delete this event?" xml:space="preserve">
+        <source>Delete this event?</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Delete this tariff?" xml:space="preserve">
+        <source>Delete this tariff?</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Describe the event in 1 to 500 characters." xml:space="preserve">
+        <source>Describe the event in 1 to 500 characters.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Devices" xml:space="preserve">
+        <source>Devices</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Difference" xml:space="preserve">
+        <source>Difference</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Difference between your consumption and the baseline pace over time. Points above zero use more than the baseline." xml:space="preserve">
+        <source>Difference between your consumption and the baseline pace over time. Points above zero use more than the baseline.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Difference to baseline pace" xml:space="preserve">
+        <source>Difference to baseline pace</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Difference to baseline pace in kWh" xml:space="preserve">
+        <source>Difference to baseline pace in kWh</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Difference to baseline pace, in kWh" xml:space="preserve">
+        <source>Difference to baseline pace, in kWh</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Digit capacity" xml:space="preserve">
+        <source>Digit capacity</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Discard" xml:space="preserve">
+        <source>Discard</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Discard these records?" xml:space="preserve">
+        <source>Discard these records?</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Done" xml:space="preserve">
+        <source>Done</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Each reading you log adds a point here." xml:space="preserve">
+        <source>Each reading you log adds a point here.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Edit" xml:space="preserve">
+        <source>Edit</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Edit event" xml:space="preserve">
+        <source>Edit event</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Edit tariff" xml:space="preserve">
+        <source>Edit tariff</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Energy Status" xml:space="preserve">
+        <source>Energy Status</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Energy Tracker" xml:space="preserve">
+        <source>Energy Tracker</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enter a number, for example 12345.6." xml:space="preserve">
+        <source>Enter a number, for example 12345.6.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enter a value greater than 0 kWh." xml:space="preserve">
+        <source>Enter a value greater than 0 kWh.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enter the candidate's price per kWh and base fee." xml:space="preserve">
+        <source>Enter the candidate's price per kWh and base fee.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enter the capacity in kWh, for example 100000." xml:space="preserve">
+        <source>Enter the capacity in kWh, for example 100000.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enter the price per kWh and the base fee as numbers." xml:space="preserve">
+        <source>Enter the price per kWh and the base fee as numbers.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enter the threshold as a number of 0 or more." xml:space="preserve">
+        <source>Enter the threshold as a number of 0 or more.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enter the yearly target as a number greater than 0." xml:space="preserve">
+        <source>Enter the yearly target as a number greater than 0.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Event" xml:space="preserve">
+        <source>Event</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Event saved" xml:space="preserve">
+        <source>Event saved</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Event saved." xml:space="preserve">
+        <source>Event saved.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Events" xml:space="preserve">
+        <source>Events</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Export all data" xml:space="preserve">
+        <source>Export all data</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Export current data first" xml:space="preserve">
+        <source>Export current data first</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="For example 100000 kWh for a meter with five digits before the decimal point." xml:space="preserve">
+        <source>For example 100000 kWh for a meter with five digits before the decimal point.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="For example: away 2 weeks, sauna 3h." xml:space="preserve">
+        <source>For example: away 2 weeks, sauna 3h.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="From %@ · minimum term %lld months" xml:space="preserve">
+        <source>From %1$@ · minimum term %2$lld months</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Gap" xml:space="preserve">
+        <source>Gap</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Gap end" xml:space="preserve">
+        <source>Gap end</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Gap start" xml:space="preserve">
+        <source>Gap start</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Get Energy Status" xml:space="preserve">
+        <source>Get Energy Status</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="History" xml:space="preserve">
+        <source>History</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="How much electricity do you expect to use in a year?" xml:space="preserve">
+        <source>How much electricity do you expect to use in a year?</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="How this is calculated" xml:space="preserve">
+        <source>How this is calculated</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Import" xml:space="preserve">
+        <source>Import</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Import finished." xml:space="preserve">
+        <source>Import finished.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Import from export file" xml:space="preserve">
+        <source>Import from export file</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Importing…" xml:space="preserve">
+        <source>Importing…</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Its change history is kept." xml:space="preserve">
+        <source>Its change history is kept.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Keep" xml:space="preserve">
+        <source>Keep</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Keep one tariff" xml:space="preserve">
+        <source>Keep one tariff</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Keep selected, delete the other" xml:space="preserve">
+        <source>Keep selected, delete the other</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Last reading %lld days ago" xml:space="preserve">
+        <source>Last reading %lld days ago</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Last reading %lld days ago — status is less certain" xml:space="preserve">
+        <source>Last reading %lld days ago — status is less certain</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Last reading %lld days ago; you count a status as less certain after %lld days." xml:space="preserve">
+        <source>Last reading %1$lld days ago; you count a status as less certain after %2$lld days.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Last reading today" xml:space="preserve">
+        <source>Last reading today</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Last reading yesterday" xml:space="preserve">
+        <source>Last reading yesterday</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Last: %@ · %@" xml:space="preserve">
+        <source>Last: %1$@ · %2$@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Later" xml:space="preserve">
+        <source>Later</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Less certain" xml:space="preserve">
+        <source>Less certain</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Less certain after" xml:space="preserve">
+        <source>Less certain after</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Light" xml:space="preserve">
+        <source>Light</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Log ${kwh} kWh" xml:space="preserve">
+        <source>Log ${kwh} kWh</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Log Event" xml:space="preserve">
+        <source>Log Event</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Log Meter Reading" xml:space="preserve">
+        <source>Log Meter Reading</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Log Reading" xml:space="preserve">
+        <source>Log Reading</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Log a reading" xml:space="preserve">
+        <source>Log a reading</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Log at least two readings to compare tariffs." xml:space="preserve">
+        <source>Log at least two readings to compare tariffs.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Log event" xml:space="preserve">
+        <source>Log event</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Log event ${text}" xml:space="preserve">
+        <source>Log event ${text}</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Log reading" xml:space="preserve">
+        <source>Log reading</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Log your first reading to get started" xml:space="preserve">
+        <source>Log your first reading to get started</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Looking for your data in iCloud…" xml:space="preserve">
+        <source>Looking for your data in iCloud…</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Lower reading" xml:space="preserve">
+        <source>Lower reading</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Lower than the reading before" xml:space="preserve">
+        <source>Lower than the reading before</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Meter capacity" xml:space="preserve">
+        <source>Meter capacity</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Meter reading" xml:space="preserve">
+        <source>Meter reading</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Meter replaced or reset" xml:space="preserve">
+        <source>Meter replaced or reset</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Meter rolled over" xml:space="preserve">
+        <source>Meter rolled over</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Meter rolled over (digits wrapped)" xml:space="preserve">
+        <source>Meter rolled over (digits wrapped)</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Meter was replaced or reset" xml:space="preserve">
+        <source>Meter was replaced or reset</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Minimum term" xml:space="preserve">
+        <source>Minimum term</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Minimum term changed from %@ to %@ months" xml:space="preserve">
+        <source>Minimum term changed from %1$@ to %2$@ months</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Minimum term ends" xml:space="preserve">
+        <source>Minimum term ends</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Money" xml:space="preserve">
+        <source>Money</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Move to" xml:space="preserve">
+        <source>Move to</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Name" xml:space="preserve">
+        <source>Name</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Names need 1 to 200 characters." xml:space="preserve">
+        <source>Names need 1 to 200 characters.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Needs a decision" xml:space="preserve">
+        <source>Needs a decision</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New device" xml:space="preserve">
+        <source>New device</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New power point" xml:space="preserve">
+        <source>New power point</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New room" xml:space="preserve">
+        <source>New room</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Next" xml:space="preserve">
+        <source>Next</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No events yet. Log one when something unusual happens, like being away or a guest staying over." xml:space="preserve">
+        <source>No events yet. Log one when something unusual happens, like being away or a guest staying over.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No history yet" xml:space="preserve">
+        <source>No history yet</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No matching events." xml:space="preserve">
+        <source>No matching events.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No matching readings." xml:space="preserve">
+        <source>No matching readings.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No reading between %@ and %@, so this stretch is shown as a gap." xml:space="preserve">
+        <source>No reading between %1$@ and %2$@, so this stretch is shown as a gap.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No readings yet." xml:space="preserve">
+        <source>No readings yet.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No rooms yet. Rooms, power points and devices are labels for events." xml:space="preserve">
+        <source>No rooms yet. Rooms, power points and devices are labels for events.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="None" xml:space="preserve">
+        <source>None</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Not worth switching" xml:space="preserve">
+        <source>Not worth switching</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Nothing to decide" xml:space="preserve">
+        <source>Nothing to decide</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Notifications are turned off for Energy Tracker in the Settings app." xml:space="preserve">
+        <source>Notifications are turned off for Energy Tracker in the Settings app.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="OK" xml:space="preserve">
+        <source>OK</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open Log Reading" xml:space="preserve">
+        <source>Open Log Reading</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Opens Energy Tracker ready to log a meter reading." xml:space="preserve">
+        <source>Opens Energy Tracker ready to log a meter reading.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Opens Energy Tracker ready to log a reading." xml:space="preserve">
+        <source>Opens Energy Tracker ready to log a reading.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Original value" xml:space="preserve">
+        <source>Original value</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Pace" xml:space="preserve">
+        <source>Pace</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Per year" xml:space="preserve">
+        <source>Per year</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Period" xml:space="preserve">
+        <source>Period</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Power points" xml:space="preserve">
+        <source>Power points</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Price per kWh" xml:space="preserve">
+        <source>Price per kWh</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Price per kWh changed from %@ to %@" xml:space="preserve">
+        <source>Price per kWh changed from %1$@ to %2$@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Privacy policy" xml:space="preserve">
+        <source>Privacy policy</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Privacy: your data stays on your Apple devices and in your private iCloud database. Energy Tracker has no server, no account, no analytics and no tracking." xml:space="preserve">
+        <source>Privacy: your data stays on your Apple devices and in your private iCloud database. Energy Tracker has no server, no account, no analytics and no tracking.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Problems" xml:space="preserve">
+        <source>Problems</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Range" xml:space="preserve">
+        <source>Range</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Read at" xml:space="preserve">
+        <source>Read at</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Read your meter every day or two. Energy Tracker tells you whether this year's use is on track." xml:space="preserve">
+        <source>Read your meter every day or two. Energy Tracker tells you whether this year's use is on track.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Reading" xml:space="preserve">
+        <source>Reading</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Reading not found" xml:space="preserve">
+        <source>Reading not found</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Readings" xml:space="preserve">
+        <source>Readings</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Readings cannot be deleted. Correct the value instead." xml:space="preserve">
+        <source>Readings cannot be deleted. Correct the value instead.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Recent events" xml:space="preserve">
+        <source>Recent events</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Regression decisions" xml:space="preserve">
+        <source>Regression decisions</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Reminders" xml:space="preserve">
+        <source>Reminders</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rename" xml:space="preserve">
+        <source>Rename</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Replace all data" xml:space="preserve">
+        <source>Replace all data</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Replace all data?" xml:space="preserve">
+        <source>Replace all data?</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Restore" xml:space="preserve">
+        <source>Restore</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Right on baseline pace so far" xml:space="preserve">
+        <source>Right on baseline pace so far</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rooms" xml:space="preserve">
+        <source>Rooms</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rooms &amp; Devices" xml:space="preserve">
+        <source>Rooms &amp; Devices</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Save" xml:space="preserve">
+        <source>Save</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Save rollover" xml:space="preserve">
+        <source>Save rollover</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Saved" xml:space="preserve">
+        <source>Saved</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Saved %@." xml:space="preserve">
+        <source>Saved %@.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Saved %@. %@" xml:space="preserve">
+        <source>Saved %1$@. %2$@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Saved · %@" xml:space="preserve">
+        <source>Saved · %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Saved. This reading is lower than the previous one — open Energy Tracker to classify it." xml:space="preserve">
+        <source>Saved. This reading is lower than the previous one — open Energy Tracker to classify it.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Saves a Main Meter reading with the current time and tells you the new status." xml:space="preserve">
+        <source>Saves a Main Meter reading with the current time and tells you the new status.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Saves a short note about something that affects consumption, such as being away." xml:space="preserve">
+        <source>Saves a short note about something that affects consumption, such as being away.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Scaled to the period" xml:space="preserve">
+        <source>Scaled to the period</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Segment" xml:space="preserve">
+        <source>Segment</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Set your yearly target to see your status" xml:space="preserve">
+        <source>Set your yearly target to see your status</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Settings" xml:space="preserve">
+        <source>Settings</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show archived" xml:space="preserve">
+        <source>Show archived</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Shows how the status is calculated" xml:space="preserve">
+        <source>Shows how the status is calculated</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Skip" xml:space="preserve">
+        <source>Skip</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Smart plug readings (kept, not shown)" xml:space="preserve">
+        <source>Smart plug readings (kept, not shown)</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Start date changed from %@ to %@" xml:space="preserve">
+        <source>Start date changed from %1$@ to %2$@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Start fresh" xml:space="preserve">
+        <source>Start fresh</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Status snapshots" xml:space="preserve">
+        <source>Status snapshots</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Support" xml:space="preserve">
+        <source>Support</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Switching bonus (optional)" xml:space="preserve">
+        <source>Switching bonus (optional)</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Synced with iCloud" xml:space="preserve">
+        <source>Synced with iCloud</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="System" xml:space="preserve">
+        <source>System</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tag" xml:space="preserve">
+        <source>Tag</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tariff" xml:space="preserve">
+        <source>Tariff</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tariff check every" xml:space="preserve">
+        <source>Tariff check every</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tariff check — add your current tariff first." xml:space="preserve">
+        <source>Tariff check — add your current tariff first.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tariff check — nothing due until %@" xml:space="preserve">
+        <source>Tariff check — nothing due until %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tariff not found" xml:space="preserve">
+        <source>Tariff not found</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tariff reminders on this iPad" xml:space="preserve">
+        <source>Tariff reminders on this iPad</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tariff reminders on this iPhone" xml:space="preserve">
+        <source>Tariff reminders on this iPhone</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tariff saved" xml:space="preserve">
+        <source>Tariff saved</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tariffs" xml:space="preserve">
+        <source>Tariffs</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tells you in one sentence whether your electricity use is on track." xml:space="preserve">
+        <source>Tells you in one sentence whether your electricity use is on track.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="That value is too large for a meter reading." xml:space="preserve">
+        <source>That value is too large for a meter reading.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The base fee must be 0 or more." xml:space="preserve">
+        <source>The base fee must be 0 or more.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The capacity must be larger than the previous reading." xml:space="preserve">
+        <source>The capacity must be larger than the previous reading.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The contract period must be between 1 and 1,200 months." xml:space="preserve">
+        <source>The contract period must be between 1 and 1,200 months.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The difference is larger than the threshold for this period, so the status is trending." xml:space="preserve">
+        <source>The difference is larger than the threshold for this period, so the status is trending.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The difference is not larger than the threshold for this period, so the status is within range." xml:space="preserve">
+        <source>The difference is not larger than the threshold for this period, so the status is within range.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The file contains" xml:space="preserve">
+        <source>The file contains</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The file could not be read." xml:space="preserve">
+        <source>The file could not be read.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The file is larger than 250 MB." xml:space="preserve">
+        <source>The file is larger than 250 MB.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The minimum term is not an end date. The tariff applies until the next tariff starts." xml:space="preserve">
+        <source>The minimum term is not an end date. The tariff applies until the next tariff starts.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The original value stays visible in the reading's history." xml:space="preserve">
+        <source>The original value stays visible in the reading's history.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The price per kWh must be greater than 0." xml:space="preserve">
+        <source>The price per kWh must be greater than 0.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The start date must be between 1900 and 2200." xml:space="preserve">
+        <source>The start date must be between 1900 and 2200.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The value shown on the meter." xml:space="preserve">
+        <source>The value shown on the meter.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="This contract already started. Change its prices anyway?" xml:space="preserve">
+        <source>This contract already started. Change its prices anyway?</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="This deletes all current data on all your devices signed in to this Apple Account and replaces it with the file." xml:space="preserve">
+        <source>This deletes all current data on all your devices signed in to this Apple Account and replaces it with the file.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="This file can't be imported. Nothing was changed." xml:space="preserve">
+        <source>This file can't be imported. Nothing was changed.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="This item no longer exists." xml:space="preserve">
+        <source>This item no longer exists.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="This reading is lower than the one before (%@ → %@ kWh). What happened?" xml:space="preserve">
+        <source>This reading is lower than the one before (%1$@ → %2$@ kWh). What happened?</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="This reading was classified differently on another device. It is now: %@." xml:space="preserve">
+        <source>This reading was classified differently on another device. It is now: %@.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="This setting is per device, so you can get the reminder on one device only instead of on all of them. You get one reminder at 10:00 on the day the tariff check is due." xml:space="preserve">
+        <source>This setting is per device, so you can get the reminder on one device only instead of on all of them. You get one reminder at 10:00 on the day the tariff check is due.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Threshold" xml:space="preserve">
+        <source>Threshold</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Time to check your tariff" xml:space="preserve">
+        <source>Time to check your tariff</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Time to check your tariff — your minimum term ends on %@" xml:space="preserve">
+        <source>Time to check your tariff — your minimum term ends on %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="To be deleted" xml:space="preserve">
+        <source>To be deleted</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Today" xml:space="preserve">
+        <source>Today</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Trend" xml:space="preserve">
+        <source>Trend</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Trend history" xml:space="preserve">
+        <source>Trend history</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Trending" xml:space="preserve">
+        <source>Trending</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Trending threshold" xml:space="preserve">
+        <source>Trending threshold</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Two tariffs start on %@ — keep one" xml:space="preserve">
+        <source>Two tariffs start on %@ — keep one</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Typical values" xml:space="preserve">
+        <source>Typical values</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Usage was above baseline pace in the two weeks around this event." xml:space="preserve">
+        <source>Usage was above baseline pace in the two weeks around this event.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Usage was below baseline pace in the two weeks around this event." xml:space="preserve">
+        <source>Usage was below baseline pace in the two weeks around this event.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Use a 3-letter currency code such as EUR." xml:space="preserve">
+        <source>Use a 3-letter currency code such as EUR.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Use at most 2 decimal places." xml:space="preserve">
+        <source>Use at most 2 decimal places.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Used only to tag events. Consumption is never split by room or device." xml:space="preserve">
+        <source>Used only to tag events. Consumption is never split by room or device.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Used so far" xml:space="preserve">
+        <source>Used so far</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Value" xml:space="preserve">
+        <source>Value</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Version" xml:space="preserve">
+        <source>Version</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="View" xml:space="preserve">
+        <source>View</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="What does the meter show, in kWh?" xml:space="preserve">
+        <source>What does the meter show, in kWh?</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="What happened?" xml:space="preserve">
+        <source>What happened?</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="When" xml:space="preserve">
+        <source>When</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Whether this year's electricity use is on track." xml:space="preserve">
+        <source>Whether this year's electricity use is on track.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Which currency do your tariffs use?" xml:space="preserve">
+        <source>Which currency do your tariffs use?</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="With bonus" xml:space="preserve">
+        <source>With bonus</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Within range" xml:space="preserve">
+        <source>Within range</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Without bonus effect" xml:space="preserve">
+        <source>Without bonus effect</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Worth switching" xml:space="preserve">
+        <source>Worth switching</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Yearly target" xml:space="preserve">
+        <source>Yearly target</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="You used less than the baseline for this period, so the status is below baseline." xml:space="preserve">
+        <source>You used less than the baseline for this period, so the status is below baseline.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your last annual bill is the best guide. You can change this at any time." xml:space="preserve">
+        <source>Your last annual bill is the best guide. You can change this at any time.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your minimum term ends on %@." xml:space="preserve">
+        <source>Your minimum term ends on %@.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your pattern" xml:space="preserve">
+        <source>Your pattern</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="costs %@ more / year" xml:space="preserve">
+        <source>costs %@ more / year</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="iCloud" xml:space="preserve">
+        <source>iCloud</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="iCloud is restricted on this device." xml:space="preserve">
+        <source>iCloud is restricted on this device.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="iCloud is temporarily unavailable." xml:space="preserve">
+        <source>iCloud is temporarily unavailable.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="iCloud status could not be determined." xml:space="preserve">
+        <source>iCloud status could not be determined.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="iCloud sync is not set up in this build." xml:space="preserve">
+        <source>iCloud sync is not set up in this build.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="iCloud sync off — data stays on %@. Reason: %@" xml:space="preserve">
+        <source>iCloud sync off — data stays on %1$@. Reason: %2$@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="kWh" xml:space="preserve">
+        <source>kWh</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="kWh/year" xml:space="preserve">
+        <source>kWh/year</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="month" xml:space="preserve">
+        <source>month</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="not signed in to iCloud." xml:space="preserve">
+        <source>not signed in to iCloud.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="reset" xml:space="preserve">
+        <source>reset</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rollover" xml:space="preserve">
+        <source>rollover</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="saved" xml:space="preserve">
+        <source>saved</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="saves %@ / year" xml:space="preserve">
+        <source>saves %@ / year</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="saves nothing" xml:space="preserve">
+        <source>saves nothing</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="this iPad" xml:space="preserve">
+        <source>this iPad</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="this iPhone" xml:space="preserve">
+        <source>this iPhone</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="·" xml:space="preserve">
+        <source>·</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="≈ %@ kWh" xml:space="preserve">
+        <source>≈ %@ kWh</source>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

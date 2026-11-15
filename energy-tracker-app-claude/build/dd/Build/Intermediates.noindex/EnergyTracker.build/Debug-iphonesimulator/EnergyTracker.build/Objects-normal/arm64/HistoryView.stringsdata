@@ -1,0 +1,432 @@
+{
+  "source": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Views/HistoryView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Trend",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 11
+        }
+      },
+      {
+        "comment": "",
+        "key": "Readings",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 12
+        }
+      },
+      {
+        "comment": "",
+        "key": "Events",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 13
+        }
+      },
+      {
+        "comment": "",
+        "key": "View",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "1 month",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 85
+        }
+      },
+      {
+        "comment": "",
+        "key": "3 months",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 86
+        }
+      },
+      {
+        "comment": "",
+        "key": "1 year",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 87
+        }
+      },
+      {
+        "comment": "",
+        "key": "All",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 88
+        }
+      },
+      {
+        "comment": "",
+        "key": "Difference to baseline pace, in kWh",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 121
+        }
+      },
+      {
+        "comment": "",
+        "key": "Range",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 108
+        }
+      },
+      {
+        "comment": "",
+        "key": "No history yet",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 115
+        }
+      },
+      {
+        "comment": "",
+        "key": "Each reading you log adds a point here.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 117
+        }
+      },
+      {
+        "comment": "",
+        "key": "No reading between %@ and %@, so this stretch is shown as a gap.",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 127
+        }
+      },
+      {
+        "comment": "",
+        "key": "kWh",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 185
+        }
+      },
+      {
+        "comment": "",
+        "key": "Baseline pace",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 171
+        }
+      },
+      {
+        "comment": "",
+        "key": "Gap start",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 165
+        }
+      },
+      {
+        "comment": "",
+        "key": "Gap end",
+        "location": {
+          "startingColumn": 84,
+          "startingLine": 165
+        }
+      },
+      {
+        "comment": "",
+        "key": "Gap",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 168
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@, %@ kWh",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 182
+        }
+      },
+      {
+        "comment": "",
+        "key": "Date",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 175
+        }
+      },
+      {
+        "comment": "",
+        "key": "Difference",
+        "location": {
+          "startingColumn": 63,
+          "startingLine": 175
+        }
+      },
+      {
+        "comment": "",
+        "key": "Segment",
+        "location": {
+          "startingColumn": 107,
+          "startingLine": 175
+        }
+      },
+      {
+        "comment": "",
+        "key": "Date",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 178
+        }
+      },
+      {
+        "comment": "",
+        "key": "Difference",
+        "location": {
+          "startingColumn": 64,
+          "startingLine": 178
+        }
+      },
+      {
+        "comment": "",
+        "key": "Date",
+        "location": {
+          "startingColumn": 74,
+          "startingLine": 198
+        }
+      },
+      {
+        "comment": "",
+        "key": "Difference to baseline pace in kWh",
+        "location": {
+          "startingColumn": 74,
+          "startingLine": 202
+        }
+      },
+      {
+        "comment": "",
+        "key": "Difference to baseline pace",
+        "location": {
+          "startingColumn": 69,
+          "startingLine": 205
+        }
+      },
+      {
+        "comment": "",
+        "key": "Trend history",
+        "location": {
+          "startingColumn": 59,
+          "startingLine": 208
+        }
+      },
+      {
+        "comment": "",
+        "key": "Difference between your consumption and the baseline pace over time. Points above zero use more than the baseline.",
+        "location": {
+          "startingColumn": 104,
+          "startingLine": 208
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ kWh",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 203
+        }
+      },
+      {
+        "comment": "",
+        "key": "No readings yet.",
+        "location": {
+          "startingColumn": 57,
+          "startingLine": 230
+        }
+      },
+      {
+        "comment": "",
+        "key": "No matching readings.",
+        "location": {
+          "startingColumn": 97,
+          "startingLine": 230
+        }
+      },
+      {
+        "comment": "",
+        "key": "Corrected from %@ on %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 265
+        }
+      },
+      {
+        "comment": "",
+        "key": "Needs a decision",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 270
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reading",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 331
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reading not found",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 334
+        }
+      },
+      {
+        "comment": "",
+        "key": "Lower than the reading before",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 300
+        }
+      },
+      {
+        "comment": "",
+        "key": "Corrections",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 315
+        }
+      },
+      {
+        "comment": "",
+        "key": "Value",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 291
+        }
+      },
+      {
+        "comment": "",
+        "key": "Read at",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 292
+        }
+      },
+      {
+        "comment": "",
+        "key": "Original value",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 294
+        }
+      },
+      {
+        "comment": "",
+        "key": "Correct value",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 296
+        }
+      },
+      {
+        "comment": "",
+        "key": "Meter replaced or reset",
+        "location": {
+          "startingColumn": 100,
+          "startingLine": 302
+        }
+      },
+      {
+        "comment": "",
+        "key": "Meter rolled over",
+        "location": {
+          "startingColumn": 147,
+          "startingLine": 302
+        }
+      },
+      {
+        "comment": "",
+        "key": "Classified as",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 302
+        }
+      },
+      {
+        "comment": "",
+        "key": "Digit capacity",
+        "location": {
+          "startingColumn": 48,
+          "startingLine": 304
+        }
+      },
+      {
+        "comment": "",
+        "key": "Change classification",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 306
+        }
+      },
+      {
+        "comment": "",
+        "key": "Needs a decision",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 308
+        }
+      },
+      {
+        "comment": "",
+        "key": "Decide now",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 310
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ → %@ kWh",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 318
+        }
+      },
+      {
+        "comment": "",
+        "key": "Readings cannot be deleted. Correct the value instead.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 326
+        }
+      },
+      {
+        "comment": "",
+        "key": "No events yet. Log one when something unusual happens, like being away or a guest staying over.",
+        "location": {
+          "startingColumn": 57,
+          "startingLine": 353
+        }
+      },
+      {
+        "comment": "",
+        "key": "No matching events.",
+        "location": {
+          "startingColumn": 176,
+          "startingLine": 353
+        }
+      }
+    ]
+  },
+  "version": 1
+}

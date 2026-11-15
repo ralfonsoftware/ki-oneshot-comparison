@@ -1,0 +1,96 @@
+{
+  "source": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Services/SystemServices.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "not signed in to iCloud.",
+        "location": {
+          "startingColumn": 82,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "iCloud is restricted on this device.",
+        "location": {
+          "startingColumn": 83,
+          "startingLine": 78
+        }
+      },
+      {
+        "comment": "",
+        "key": "iCloud is temporarily unavailable.",
+        "location": {
+          "startingColumn": 95,
+          "startingLine": 79
+        }
+      },
+      {
+        "comment": "",
+        "key": "iCloud status could not be determined.",
+        "location": {
+          "startingColumn": 90,
+          "startingLine": 80
+        }
+      },
+      {
+        "comment": "",
+        "key": "iCloud status could not be determined.",
+        "location": {
+          "startingColumn": 83,
+          "startingLine": 81
+        }
+      },
+      {
+        "comment": "",
+        "key": "iCloud sync is not set up in this build.",
+        "location": {
+          "startingColumn": 65,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "this iPad",
+        "location": {
+          "startingColumn": 86,
+          "startingLine": 92
+        }
+      },
+      {
+        "comment": "",
+        "key": "this iPhone",
+        "location": {
+          "startingColumn": 119,
+          "startingLine": 92
+        }
+      },
+      {
+        "comment": "",
+        "key": "iCloud sync off — data stays on %@. Reason: %@",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 93
+        }
+      },
+      {
+        "comment": "",
+        "key": "Time to check your tariff",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 137
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your minimum term ends on %@.",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 138
+        }
+      }
+    ]
+  },
+  "version": 1
+}

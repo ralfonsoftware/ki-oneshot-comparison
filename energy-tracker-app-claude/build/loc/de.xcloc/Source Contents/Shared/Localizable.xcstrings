@@ -1,0 +1,1160 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "·" : {
+
+    },
+    "%@" : {
+
+    },
+    "%@ – %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ – %2$@"
+          }
+        }
+      }
+    },
+    "%@ – %@ · %@ days" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ – %2$@ · %3$@ days"
+          }
+        }
+      }
+    },
+    "%@ — %@ kWh above baseline pace." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ — %2$@ kWh above baseline pace."
+          }
+        }
+      }
+    },
+    "%@ — %@ kWh under baseline pace." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ — %2$@ kWh under baseline pace."
+          }
+        }
+      }
+    },
+    "%@ — right on baseline pace." : {
+
+    },
+    "%@ / kWh" : {
+
+    },
+    "%@ / month" : {
+
+    },
+    "%@ → %@ kWh" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ → %2$@ kWh"
+          }
+        }
+      }
+    },
+    "%@ from before the restore arrived from another device." : {
+
+    },
+    "%@ kWh" : {
+
+    },
+    "%@ kWh above baseline pace so far" : {
+
+    },
+    "%@ kWh above baseline pace so far, inside your margin" : {
+
+    },
+    "%@ kWh under baseline pace so far" : {
+
+    },
+    "%@, %@ kWh" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@, %2$@ kWh"
+          }
+        }
+      }
+    },
+    "%lld days" : {
+
+    },
+    "%lld events" : {
+
+    },
+    "%lld exact duplicate readings were merged." : {
+
+    },
+    "%lld months" : {
+
+    },
+    "%lld people" : {
+
+    },
+    "%lld readings" : {
+
+    },
+    "%lld readings need a decision" : {
+
+    },
+    "%lld records" : {
+
+    },
+    "≈ %@ kWh" : {
+
+    },
+    "1 event" : {
+
+    },
+    "1 exact duplicate reading was merged." : {
+
+    },
+    "1 month" : {
+
+    },
+    "1 person" : {
+
+    },
+    "1 reading" : {
+
+    },
+    "1 reading needs a decision" : {
+
+    },
+    "1 record" : {
+
+    },
+    "1 year" : {
+
+    },
+    "3 months" : {
+
+    },
+    "About" : {
+
+    },
+    "Actions for %@" : {
+
+    },
+    "Add device" : {
+
+    },
+    "Add power point" : {
+
+    },
+    "Add room" : {
+
+    },
+    "Add rooms, power points and devices in Settings → Rooms & Devices." : {
+
+    },
+    "Add tariff" : {
+
+    },
+    "Add your current tariff to compare." : {
+
+    },
+    "All" : {
+
+    },
+    "Already saved" : {
+
+    },
+    "Already saved." : {
+
+    },
+    "An archived item cannot get new items." : {
+
+    },
+    "Another tariff already starts on %@." : {
+
+    },
+    "Appearance" : {
+
+    },
+    "Archive" : {
+
+    },
+    "Archived" : {
+
+    },
+    "At what value do the digits wrap?" : {
+
+    },
+    "At your pace of %@ kWh a year, your current tariff costs %@." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "At your pace of %1$@ kWh a year, your current tariff costs %2$@."
+          }
+        }
+      }
+    },
+    "Base fee" : {
+
+    },
+    "Base fee changed from %@ to %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Base fee changed from %1$@ to %2$@"
+          }
+        }
+      }
+    },
+    "Base fee per month" : {
+
+    },
+    "Based on an older reading — the result is less certain." : {
+
+    },
+    "Baseline for the same period" : {
+
+    },
+    "Baseline pace" : {
+
+    },
+    "Below baseline" : {
+
+    },
+    "Build" : {
+
+    },
+    "Cancel" : {
+
+    },
+    "Change" : {
+
+    },
+    "Change classification" : {
+
+    },
+    "Changes" : {
+
+    },
+    "Changes apply from now on. Stored history is never recalculated. Leave the yearly target empty to hide the status." : {
+
+    },
+    "Checking iCloud…" : {
+
+    },
+    "Checking the file…" : {
+
+    },
+    "Choose" : {
+
+    },
+    "Choose a JSON export file from Energy Tracker or from the old web app. Nothing changes until you confirm." : {
+
+    },
+    "Choose another file" : {
+
+    },
+    "Choose export file" : {
+
+    },
+    "Classified as" : {
+
+    },
+    "Compare" : {
+
+    },
+    "Compare a candidate tariff" : {
+
+    },
+    "Confidence" : {
+
+    },
+    "Contract start" : {
+
+    },
+    "Correct reading" : {
+
+    },
+    "Correct value" : {
+
+    },
+    "Corrected · %@" : {
+
+    },
+    "Corrected from %@ on %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Corrected from %1$@ on %2$@"
+          }
+        }
+      }
+    },
+    "Corrections" : {
+
+    },
+    "costs %@ more / year" : {
+
+    },
+    "Could not save: %@" : {
+
+    },
+    "Currency" : {
+
+    },
+    "Currency changed from %@ to %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Currency changed from %1$@ to %2$@"
+          }
+        }
+      }
+    },
+    "Current tariff" : {
+
+    },
+    "Current value" : {
+
+    },
+    "Currently classified as: %@." : {
+
+    },
+    "Dark" : {
+
+    },
+    "Data" : {
+
+    },
+    "Date" : {
+
+    },
+    "Decide" : {
+
+    },
+    "Decide about the lower reading to see your status" : {
+
+    },
+    "Decide now" : {
+
+    },
+    "Delete" : {
+
+    },
+    "Delete event" : {
+
+    },
+    "Delete tariff" : {
+
+    },
+    "Delete the other tariff?" : {
+
+    },
+    "Delete this event?" : {
+
+    },
+    "Delete this tariff?" : {
+
+    },
+    "Describe the event in 1 to 500 characters." : {
+
+    },
+    "Devices" : {
+
+    },
+    "Difference" : {
+
+    },
+    "Difference between your consumption and the baseline pace over time. Points above zero use more than the baseline." : {
+
+    },
+    "Difference to baseline pace" : {
+
+    },
+    "Difference to baseline pace in kWh" : {
+
+    },
+    "Difference to baseline pace, in kWh" : {
+
+    },
+    "Digit capacity" : {
+
+    },
+    "Discard" : {
+
+    },
+    "Discard these records?" : {
+
+    },
+    "Done" : {
+
+    },
+    "Each reading you log adds a point here." : {
+
+    },
+    "Edit" : {
+
+    },
+    "Edit event" : {
+
+    },
+    "Edit tariff" : {
+
+    },
+    "Energy Status" : {
+
+    },
+    "Energy Tracker" : {
+
+    },
+    "Enter a number, for example 12345.6." : {
+
+    },
+    "Enter a value greater than 0 kWh." : {
+
+    },
+    "Enter the candidate's price per kWh and base fee." : {
+
+    },
+    "Enter the capacity in kWh, for example 100000." : {
+
+    },
+    "Enter the price per kWh and the base fee as numbers." : {
+
+    },
+    "Enter the threshold as a number of 0 or more." : {
+
+    },
+    "Enter the yearly target as a number greater than 0." : {
+
+    },
+    "Event" : {
+
+    },
+    "Event saved" : {
+
+    },
+    "Event saved." : {
+
+    },
+    "Events" : {
+
+    },
+    "Export all data" : {
+
+    },
+    "Export current data first" : {
+
+    },
+    "For example 100000 kWh for a meter with five digits before the decimal point." : {
+
+    },
+    "For example: away 2 weeks, sauna 3h." : {
+
+    },
+    "From %@ · minimum term %lld months" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "From %1$@ · minimum term %2$lld months"
+          }
+        }
+      }
+    },
+    "Gap" : {
+
+    },
+    "Gap end" : {
+
+    },
+    "Gap start" : {
+
+    },
+    "Get Energy Status" : {
+
+    },
+    "History" : {
+
+    },
+    "How much electricity do you expect to use in a year?" : {
+
+    },
+    "How this is calculated" : {
+
+    },
+    "iCloud" : {
+
+    },
+    "iCloud is restricted on this device." : {
+
+    },
+    "iCloud is temporarily unavailable." : {
+
+    },
+    "iCloud status could not be determined." : {
+
+    },
+    "iCloud sync is not set up in this build." : {
+
+    },
+    "iCloud sync off — data stays on %@. Reason: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "iCloud sync off — data stays on %1$@. Reason: %2$@"
+          }
+        }
+      }
+    },
+    "Import" : {
+
+    },
+    "Import finished." : {
+
+    },
+    "Import from export file" : {
+
+    },
+    "Importing…" : {
+
+    },
+    "Its change history is kept." : {
+
+    },
+    "Keep" : {
+
+    },
+    "Keep one tariff" : {
+
+    },
+    "Keep selected, delete the other" : {
+
+    },
+    "kWh" : {
+
+    },
+    "kWh/year" : {
+
+    },
+    "Last reading %lld days ago" : {
+
+    },
+    "Last reading %lld days ago — status is less certain" : {
+
+    },
+    "Last reading %lld days ago; you count a status as less certain after %lld days." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Last reading %1$lld days ago; you count a status as less certain after %2$lld days."
+          }
+        }
+      }
+    },
+    "Last reading today" : {
+
+    },
+    "Last reading yesterday" : {
+
+    },
+    "Last: %@ · %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Last: %1$@ · %2$@"
+          }
+        }
+      }
+    },
+    "Later" : {
+
+    },
+    "Less certain" : {
+
+    },
+    "Less certain after" : {
+
+    },
+    "Light" : {
+
+    },
+    "Log ${kwh} kWh" : {
+
+    },
+    "Log a reading" : {
+
+    },
+    "Log at least two readings to compare tariffs." : {
+
+    },
+    "Log event" : {
+
+    },
+    "Log Event" : {
+
+    },
+    "Log event ${text}" : {
+
+    },
+    "Log Meter Reading" : {
+
+    },
+    "Log reading" : {
+
+    },
+    "Log Reading" : {
+
+    },
+    "Log your first reading to get started" : {
+
+    },
+    "Looking for your data in iCloud…" : {
+
+    },
+    "Lower reading" : {
+
+    },
+    "Lower than the reading before" : {
+
+    },
+    "Meter capacity" : {
+
+    },
+    "Meter reading" : {
+
+    },
+    "Meter replaced or reset" : {
+
+    },
+    "Meter rolled over" : {
+
+    },
+    "Meter rolled over (digits wrapped)" : {
+
+    },
+    "Meter was replaced or reset" : {
+
+    },
+    "Minimum term" : {
+
+    },
+    "Minimum term changed from %@ to %@ months" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Minimum term changed from %1$@ to %2$@ months"
+          }
+        }
+      }
+    },
+    "Minimum term ends" : {
+
+    },
+    "Money" : {
+
+    },
+    "month" : {
+
+    },
+    "Move to" : {
+
+    },
+    "Name" : {
+
+    },
+    "Names need 1 to 200 characters." : {
+
+    },
+    "Needs a decision" : {
+
+    },
+    "New device" : {
+
+    },
+    "New power point" : {
+
+    },
+    "New room" : {
+
+    },
+    "Next" : {
+
+    },
+    "No events yet. Log one when something unusual happens, like being away or a guest staying over." : {
+
+    },
+    "No history yet" : {
+
+    },
+    "No matching events." : {
+
+    },
+    "No matching readings." : {
+
+    },
+    "No reading between %@ and %@, so this stretch is shown as a gap." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No reading between %1$@ and %2$@, so this stretch is shown as a gap."
+          }
+        }
+      }
+    },
+    "No readings yet." : {
+
+    },
+    "No rooms yet. Rooms, power points and devices are labels for events." : {
+
+    },
+    "None" : {
+
+    },
+    "not signed in to iCloud." : {
+
+    },
+    "Not worth switching" : {
+
+    },
+    "Nothing to decide" : {
+
+    },
+    "Notifications are turned off for Energy Tracker in the Settings app." : {
+
+    },
+    "OK" : {
+
+    },
+    "Open Log Reading" : {
+
+    },
+    "Opens Energy Tracker ready to log a meter reading." : {
+
+    },
+    "Opens Energy Tracker ready to log a reading." : {
+
+    },
+    "Original value" : {
+
+    },
+    "Pace" : {
+
+    },
+    "Per year" : {
+
+    },
+    "Period" : {
+
+    },
+    "Power points" : {
+
+    },
+    "Price per kWh" : {
+
+    },
+    "Price per kWh changed from %@ to %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Price per kWh changed from %1$@ to %2$@"
+          }
+        }
+      }
+    },
+    "Privacy policy" : {
+
+    },
+    "Privacy: your data stays on your Apple devices and in your private iCloud database. Energy Tracker has no server, no account, no analytics and no tracking." : {
+
+    },
+    "Problems" : {
+
+    },
+    "Range" : {
+
+    },
+    "Read at" : {
+
+    },
+    "Read your meter every day or two. Energy Tracker tells you whether this year's use is on track." : {
+
+    },
+    "Reading" : {
+
+    },
+    "Reading not found" : {
+
+    },
+    "Readings" : {
+
+    },
+    "Readings cannot be deleted. Correct the value instead." : {
+
+    },
+    "Recent events" : {
+
+    },
+    "Regression decisions" : {
+
+    },
+    "Reminders" : {
+
+    },
+    "Rename" : {
+
+    },
+    "Replace all data" : {
+
+    },
+    "Replace all data?" : {
+
+    },
+    "reset" : {
+
+    },
+    "Restore" : {
+
+    },
+    "Right on baseline pace so far" : {
+
+    },
+    "rollover" : {
+
+    },
+    "Rooms" : {
+
+    },
+    "Rooms & Devices" : {
+
+    },
+    "Save" : {
+
+    },
+    "Save rollover" : {
+
+    },
+    "saved" : {
+
+    },
+    "Saved" : {
+
+    },
+    "Saved · %@" : {
+
+    },
+    "Saved %@." : {
+
+    },
+    "Saved %@. %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Saved %1$@. %2$@"
+          }
+        }
+      }
+    },
+    "Saved. This reading is lower than the previous one — open Energy Tracker to classify it." : {
+
+    },
+    "saves %@ / year" : {
+
+    },
+    "Saves a Main Meter reading with the current time and tells you the new status." : {
+
+    },
+    "Saves a short note about something that affects consumption, such as being away." : {
+
+    },
+    "saves nothing" : {
+
+    },
+    "Scaled to the period" : {
+
+    },
+    "Segment" : {
+
+    },
+    "Set your yearly target to see your status" : {
+
+    },
+    "Settings" : {
+
+    },
+    "Show archived" : {
+
+    },
+    "Shows how the status is calculated" : {
+
+    },
+    "Skip" : {
+
+    },
+    "Smart plug readings (kept, not shown)" : {
+
+    },
+    "Start date changed from %@ to %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Start date changed from %1$@ to %2$@"
+          }
+        }
+      }
+    },
+    "Start fresh" : {
+
+    },
+    "Status snapshots" : {
+
+    },
+    "Support" : {
+
+    },
+    "Switching bonus (optional)" : {
+
+    },
+    "Synced with iCloud" : {
+
+    },
+    "System" : {
+
+    },
+    "Tag" : {
+
+    },
+    "Tariff" : {
+
+    },
+    "Tariff check — add your current tariff first." : {
+
+    },
+    "Tariff check — nothing due until %@" : {
+
+    },
+    "Tariff check every" : {
+
+    },
+    "Tariff not found" : {
+
+    },
+    "Tariff reminders on this iPad" : {
+
+    },
+    "Tariff reminders on this iPhone" : {
+
+    },
+    "Tariff saved" : {
+
+    },
+    "Tariffs" : {
+
+    },
+    "Tells you in one sentence whether your electricity use is on track." : {
+
+    },
+    "That value is too large for a meter reading." : {
+
+    },
+    "The base fee must be 0 or more." : {
+
+    },
+    "The capacity must be larger than the previous reading." : {
+
+    },
+    "The contract period must be between 1 and 1,200 months." : {
+
+    },
+    "The difference is larger than the threshold for this period, so the status is trending." : {
+
+    },
+    "The difference is not larger than the threshold for this period, so the status is within range." : {
+
+    },
+    "The file contains" : {
+
+    },
+    "The file could not be read." : {
+
+    },
+    "The file is larger than 250 MB." : {
+
+    },
+    "The minimum term is not an end date. The tariff applies until the next tariff starts." : {
+
+    },
+    "The original value stays visible in the reading's history." : {
+
+    },
+    "The price per kWh must be greater than 0." : {
+
+    },
+    "The start date must be between 1900 and 2200." : {
+
+    },
+    "The value shown on the meter." : {
+
+    },
+    "This contract already started. Change its prices anyway?" : {
+
+    },
+    "This deletes all current data on all your devices signed in to this Apple Account and replaces it with the file." : {
+
+    },
+    "This file can't be imported. Nothing was changed." : {
+
+    },
+    "this iPad" : {
+
+    },
+    "this iPhone" : {
+
+    },
+    "This item no longer exists." : {
+
+    },
+    "This reading is lower than the one before (%@ → %@ kWh). What happened?" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "This reading is lower than the one before (%1$@ → %2$@ kWh). What happened?"
+          }
+        }
+      }
+    },
+    "This reading was classified differently on another device. It is now: %@." : {
+
+    },
+    "This setting is per device, so you can get the reminder on one device only instead of on all of them. You get one reminder at 10:00 on the day the tariff check is due." : {
+
+    },
+    "Threshold" : {
+
+    },
+    "Time to check your tariff" : {
+
+    },
+    "Time to check your tariff — your minimum term ends on %@" : {
+
+    },
+    "To be deleted" : {
+
+    },
+    "Today" : {
+
+    },
+    "Trend" : {
+
+    },
+    "Trend history" : {
+
+    },
+    "Trending" : {
+
+    },
+    "Trending threshold" : {
+
+    },
+    "Two tariffs start on %@ — keep one" : {
+
+    },
+    "Typical values" : {
+
+    },
+    "Usage was above baseline pace in the two weeks around this event." : {
+
+    },
+    "Usage was below baseline pace in the two weeks around this event." : {
+
+    },
+    "Use a 3-letter currency code such as EUR." : {
+
+    },
+    "Use at most 2 decimal places." : {
+
+    },
+    "Used only to tag events. Consumption is never split by room or device." : {
+
+    },
+    "Used so far" : {
+
+    },
+    "Value" : {
+
+    },
+    "Version" : {
+
+    },
+    "View" : {
+
+    },
+    "What does the meter show, in kWh?" : {
+
+    },
+    "What happened?" : {
+
+    },
+    "When" : {
+
+    },
+    "Whether this year's electricity use is on track." : {
+
+    },
+    "Which currency do your tariffs use?" : {
+
+    },
+    "With bonus" : {
+
+    },
+    "Within range" : {
+
+    },
+    "Without bonus effect" : {
+
+    },
+    "Worth switching" : {
+
+    },
+    "Yearly target" : {
+
+    },
+    "You used less than the baseline for this period, so the status is below baseline." : {
+
+    },
+    "Your last annual bill is the best guide. You can change this at any time." : {
+
+    },
+    "Your minimum term ends on %@." : {
+
+    },
+    "Your pattern" : {
+
+    }
+  },
+  "version" : "1.0"
+}

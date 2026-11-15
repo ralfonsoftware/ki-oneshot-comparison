@@ -1,0 +1,40 @@
+{
+  "source": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/AppModel.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Today",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 13
+        }
+      },
+      {
+        "comment": "",
+        "key": "History",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 14
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tariffs",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 15
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 16
+        }
+      }
+    ]
+  },
+  "version": 1
+}

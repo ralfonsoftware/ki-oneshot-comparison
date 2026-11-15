@@ -1,0 +1,24 @@
+{
+  "source": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Views/RootView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Energy Tracker",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 74
+        }
+      },
+      {
+        "comment": "",
+        "key": "Looking for your data in iCloud…",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 129
+        }
+      }
+    ]
+  },
+  "version": 1
+}

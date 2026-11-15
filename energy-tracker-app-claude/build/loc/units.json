@@ -1,0 +1,1727 @@
+[
+[
+"App/AppShortcuts.xcstrings",
+"Get my ${applicationName} status",
+"\n          "
+],
+[
+"App/AppShortcuts.xcstrings",
+"Log a meter reading in ${applicationName}",
+"\n          "
+],
+[
+"App/AppShortcuts.xcstrings",
+"Log an event in ${applicationName}",
+"\n          "
+],
+[
+"App/InfoPlist.xcstrings",
+"CFBundleDisplayName",
+"Energy Tracker"
+],
+[
+"App/InfoPlist.xcstrings",
+"CFBundleName",
+"EnergyTracker"
+],
+[
+"Shared/InfoPlist.xcstrings",
+"CFBundleDisplayName",
+"Energy Tracker"
+],
+[
+"Shared/InfoPlist.xcstrings",
+"CFBundleName",
+"EnergyTrackerWidgets"
+],
+[
+"Shared/Localizable.xcstrings",
+"%@",
+"%@"
+],
+[
+"Shared/Localizable.xcstrings",
+"%@ / kWh",
+"%@ / kWh"
+],
+[
+"Shared/Localizable.xcstrings",
+"%@ / month",
+"%@ / month"
+],
+[
+"Shared/Localizable.xcstrings",
+"%@ from before the restore arrived from another device.",
+"%@ from before the restore arrived from another device."
+],
+[
+"Shared/Localizable.xcstrings",
+"%@ kWh",
+"%@ kWh"
+],
+[
+"Shared/Localizable.xcstrings",
+"%@ kWh above baseline pace so far",
+"%@ kWh above baseline pace so far"
+],
+[
+"Shared/Localizable.xcstrings",
+"%@ kWh above baseline pace so far, inside your margin",
+"%@ kWh above baseline pace so far, inside your margin"
+],
+[
+"Shared/Localizable.xcstrings",
+"%@ kWh under baseline pace so far",
+"%@ kWh under baseline pace so far"
+],
+[
+"Shared/Localizable.xcstrings",
+"%@ – %@",
+"%1$@ – %2$@"
+],
+[
+"Shared/Localizable.xcstrings",
+"%@ – %@ · %@ days",
+"%1$@ – %2$@ · %3$@ days"
+],
+[
+"Shared/Localizable.xcstrings",
+"%@ — %@ kWh above baseline pace.",
+"%1$@ — %2$@ kWh above baseline pace."
+],
+[
+"Shared/Localizable.xcstrings",
+"%@ — %@ kWh under baseline pace.",
+"%1$@ — %2$@ kWh under baseline pace."
+],
+[
+"Shared/Localizable.xcstrings",
+"%@ — right on baseline pace.",
+"%@ — right on baseline pace."
+],
+[
+"Shared/Localizable.xcstrings",
+"%@ → %@ kWh",
+"%1$@ → %2$@ kWh"
+],
+[
+"Shared/Localizable.xcstrings",
+"%@, %@ kWh",
+"%1$@, %2$@ kWh"
+],
+[
+"Shared/Localizable.xcstrings",
+"%lld days",
+"%lld days"
+],
+[
+"Shared/Localizable.xcstrings",
+"%lld events",
+"%lld events"
+],
+[
+"Shared/Localizable.xcstrings",
+"%lld exact duplicate readings were merged.",
+"%lld exact duplicate readings were merged."
+],
+[
+"Shared/Localizable.xcstrings",
+"%lld months",
+"%lld months"
+],
+[
+"Shared/Localizable.xcstrings",
+"%lld people",
+"%lld people"
+],
+[
+"Shared/Localizable.xcstrings",
+"%lld readings",
+"%lld readings"
+],
+[
+"Shared/Localizable.xcstrings",
+"%lld readings need a decision",
+"%lld readings need a decision"
+],
+[
+"Shared/Localizable.xcstrings",
+"%lld records",
+"%lld records"
+],
+[
+"Shared/Localizable.xcstrings",
+"1 event",
+"1 event"
+],
+[
+"Shared/Localizable.xcstrings",
+"1 exact duplicate reading was merged.",
+"1 exact duplicate reading was merged."
+],
+[
+"Shared/Localizable.xcstrings",
+"1 month",
+"1 month"
+],
+[
+"Shared/Localizable.xcstrings",
+"1 person",
+"1 person"
+],
+[
+"Shared/Localizable.xcstrings",
+"1 reading",
+"1 reading"
+],
+[
+"Shared/Localizable.xcstrings",
+"1 reading needs a decision",
+"1 reading needs a decision"
+],
+[
+"Shared/Localizable.xcstrings",
+"1 record",
+"1 record"
+],
+[
+"Shared/Localizable.xcstrings",
+"1 year",
+"1 year"
+],
+[
+"Shared/Localizable.xcstrings",
+"3 months",
+"3 months"
+],
+[
+"Shared/Localizable.xcstrings",
+"About",
+"About"
+],
+[
+"Shared/Localizable.xcstrings",
+"Actions for %@",
+"Actions for %@"
+],
+[
+"Shared/Localizable.xcstrings",
+"Add device",
+"Add device"
+],
+[
+"Shared/Localizable.xcstrings",
+"Add power point",
+"Add power point"
+],
+[
+"Shared/Localizable.xcstrings",
+"Add room",
+"Add room"
+],
+[
+"Shared/Localizable.xcstrings",
+"Add rooms, power points and devices in Settings → Rooms & Devices.",
+"Add rooms, power points and devices in Settings → Rooms & Devices."
+],
+[
+"Shared/Localizable.xcstrings",
+"Add tariff",
+"Add tariff"
+],
+[
+"Shared/Localizable.xcstrings",
+"Add your current tariff to compare.",
+"Add your current tariff to compare."
+],
+[
+"Shared/Localizable.xcstrings",
+"All",
+"All"
+],
+[
+"Shared/Localizable.xcstrings",
+"Already saved",
+"Already saved"
+],
+[
+"Shared/Localizable.xcstrings",
+"Already saved.",
+"Already saved."
+],
+[
+"Shared/Localizable.xcstrings",
+"An archived item cannot get new items.",
+"An archived item cannot get new items."
+],
+[
+"Shared/Localizable.xcstrings",
+"Another tariff already starts on %@.",
+"Another tariff already starts on %@."
+],
+[
+"Shared/Localizable.xcstrings",
+"Appearance",
+"Appearance"
+],
+[
+"Shared/Localizable.xcstrings",
+"Archive",
+"Archive"
+],
+[
+"Shared/Localizable.xcstrings",
+"Archived",
+"Archived"
+],
+[
+"Shared/Localizable.xcstrings",
+"At what value do the digits wrap?",
+"At what value do the digits wrap?"
+],
+[
+"Shared/Localizable.xcstrings",
+"At your pace of %@ kWh a year, your current tariff costs %@.",
+"At your pace of %1$@ kWh a year, your current tariff costs %2$@."
+],
+[
+"Shared/Localizable.xcstrings",
+"Base fee",
+"Base fee"
+],
+[
+"Shared/Localizable.xcstrings",
+"Base fee changed from %@ to %@",
+"Base fee changed from %1$@ to %2$@"
+],
+[
+"Shared/Localizable.xcstrings",
+"Base fee per month",
+"Base fee per month"
+],
+[
+"Shared/Localizable.xcstrings",
+"Based on an older reading — the result is less certain.",
+"Based on an older reading — the result is less certain."
+],
+[
+"Shared/Localizable.xcstrings",
+"Baseline for the same period",
+"Baseline for the same period"
+],
+[
+"Shared/Localizable.xcstrings",
+"Baseline pace",
+"Baseline pace"
+],
+[
+"Shared/Localizable.xcstrings",
+"Below baseline",
+"Below baseline"
+],
+[
+"Shared/Localizable.xcstrings",
+"Build",
+"Build"
+],
+[
+"Shared/Localizable.xcstrings",
+"Cancel",
+"Cancel"
+],
+[
+"Shared/Localizable.xcstrings",
+"Change",
+"Change"
+],
+[
+"Shared/Localizable.xcstrings",
+"Change classification",
+"Change classification"
+],
+[
+"Shared/Localizable.xcstrings",
+"Changes",
+"Changes"
+],
+[
+"Shared/Localizable.xcstrings",
+"Changes apply from now on. Stored history is never recalculated. Leave the yearly target empty to hide the status.",
+"Changes apply from now on. Stored history is never recalculated. Leave the yearly target empty to hide the status."
+],
+[
+"Shared/Localizable.xcstrings",
+"Checking iCloud…",
+"Checking iCloud…"
+],
+[
+"Shared/Localizable.xcstrings",
+"Checking the file…",
+"Checking the file…"
+],
+[
+"Shared/Localizable.xcstrings",
+"Choose",
+"Choose"
+],
+[
+"Shared/Localizable.xcstrings",
+"Choose a JSON export file from Energy Tracker or from the old web app. Nothing changes until you confirm.",
+"Choose a JSON export file from Energy Tracker or from the old web app. Nothing changes until you confirm."
+],
+[
+"Shared/Localizable.xcstrings",
+"Choose another file",
+"Choose another file"
+],
+[
+"Shared/Localizable.xcstrings",
+"Choose export file",
+"Choose export file"
+],
+[
+"Shared/Localizable.xcstrings",
+"Classified as",
+"Classified as"
+],
+[
+"Shared/Localizable.xcstrings",
+"Compare",
+"Compare"
+],
+[
+"Shared/Localizable.xcstrings",
+"Compare a candidate tariff",
+"Compare a candidate tariff"
+],
+[
+"Shared/Localizable.xcstrings",
+"Confidence",
+"Confidence"
+],
+[
+"Shared/Localizable.xcstrings",
+"Contract start",
+"Contract start"
+],
+[
+"Shared/Localizable.xcstrings",
+"Correct reading",
+"Correct reading"
+],
+[
+"Shared/Localizable.xcstrings",
+"Correct value",
+"Correct value"
+],
+[
+"Shared/Localizable.xcstrings",
+"Corrected from %@ on %@",
+"Corrected from %1$@ on %2$@"
+],
+[
+"Shared/Localizable.xcstrings",
+"Corrected · %@",
+"Corrected · %@"
+],
+[
+"Shared/Localizable.xcstrings",
+"Corrections",
+"Corrections"
+],
+[
+"Shared/Localizable.xcstrings",
+"Could not save: %@",
+"Could not save: %@"
+],
+[
+"Shared/Localizable.xcstrings",
+"Currency",
+"Currency"
+],
+[
+"Shared/Localizable.xcstrings",
+"Currency changed from %@ to %@",
+"Currency changed from %1$@ to %2$@"
+],
+[
+"Shared/Localizable.xcstrings",
+"Current tariff",
+"Current tariff"
+],
+[
+"Shared/Localizable.xcstrings",
+"Current value",
+"Current value"
+],
+[
+"Shared/Localizable.xcstrings",
+"Currently classified as: %@.",
+"Currently classified as: %@."
+],
+[
+"Shared/Localizable.xcstrings",
+"Dark",
+"Dark"
+],
+[
+"Shared/Localizable.xcstrings",
+"Data",
+"Data"
+],
+[
+"Shared/Localizable.xcstrings",
+"Date",
+"Date"
+],
+[
+"Shared/Localizable.xcstrings",
+"Decide",
+"Decide"
+],
+[
+"Shared/Localizable.xcstrings",
+"Decide about the lower reading to see your status",
+"Decide about the lower reading to see your status"
+],
+[
+"Shared/Localizable.xcstrings",
+"Decide now",
+"Decide now"
+],
+[
+"Shared/Localizable.xcstrings",
+"Delete",
+"Delete"
+],
+[
+"Shared/Localizable.xcstrings",
+"Delete event",
+"Delete event"
+],
+[
+"Shared/Localizable.xcstrings",
+"Delete tariff",
+"Delete tariff"
+],
+[
+"Shared/Localizable.xcstrings",
+"Delete the other tariff?",
+"Delete the other tariff?"
+],
+[
+"Shared/Localizable.xcstrings",
+"Delete this event?",
+"Delete this event?"
+],
+[
+"Shared/Localizable.xcstrings",
+"Delete this tariff?",
+"Delete this tariff?"
+],
+[
+"Shared/Localizable.xcstrings",
+"Describe the event in 1 to 500 characters.",
+"Describe the event in 1 to 500 characters."
+],
+[
+"Shared/Localizable.xcstrings",
+"Devices",
+"Devices"
+],
+[
+"Shared/Localizable.xcstrings",
+"Difference",
+"Difference"
+],
+[
+"Shared/Localizable.xcstrings",
+"Difference between your consumption and the baseline pace over time. Points above zero use more than the baseline.",
+"Difference between your consumption and the baseline pace over time. Points above zero use more than the baseline."
+],
+[
+"Shared/Localizable.xcstrings",
+"Difference to baseline pace",
+"Difference to baseline pace"
+],
+[
+"Shared/Localizable.xcstrings",
+"Difference to baseline pace in kWh",
+"Difference to baseline pace in kWh"
+],
+[
+"Shared/Localizable.xcstrings",
+"Difference to baseline pace, in kWh",
+"Difference to baseline pace, in kWh"
+],
+[
+"Shared/Localizable.xcstrings",
+"Digit capacity",
+"Digit capacity"
+],
+[
+"Shared/Localizable.xcstrings",
+"Discard",
+"Discard"
+],
+[
+"Shared/Localizable.xcstrings",
+"Discard these records?",
+"Discard these records?"
+],
+[
+"Shared/Localizable.xcstrings",
+"Done",
+"Done"
+],
+[
+"Shared/Localizable.xcstrings",
+"Each reading you log adds a point here.",
+"Each reading you log adds a point here."
+],
+[
+"Shared/Localizable.xcstrings",
+"Edit",
+"Edit"
+],
+[
+"Shared/Localizable.xcstrings",
+"Edit event",
+"Edit event"
+],
+[
+"Shared/Localizable.xcstrings",
+"Edit tariff",
+"Edit tariff"
+],
+[
+"Shared/Localizable.xcstrings",
+"Energy Status",
+"Energy Status"
+],
+[
+"Shared/Localizable.xcstrings",
+"Energy Tracker",
+"Energy Tracker"
+],
+[
+"Shared/Localizable.xcstrings",
+"Enter a number, for example 12345.6.",
+"Enter a number, for example 12345.6."
+],
+[
+"Shared/Localizable.xcstrings",
+"Enter a value greater than 0 kWh.",
+"Enter a value greater than 0 kWh."
+],
+[
+"Shared/Localizable.xcstrings",
+"Enter the candidate's price per kWh and base fee.",
+"Enter the candidate's price per kWh and base fee."
+],
+[
+"Shared/Localizable.xcstrings",
+"Enter the capacity in kWh, for example 100000.",
+"Enter the capacity in kWh, for example 100000."
+],
+[
+"Shared/Localizable.xcstrings",
+"Enter the price per kWh and the base fee as numbers.",
+"Enter the price per kWh and the base fee as numbers."
+],
+[
+"Shared/Localizable.xcstrings",
+"Enter the threshold as a number of 0 or more.",
+"Enter the threshold as a number of 0 or more."
+],
+[
+"Shared/Localizable.xcstrings",
+"Enter the yearly target as a number greater than 0.",
+"Enter the yearly target as a number greater than 0."
+],
+[
+"Shared/Localizable.xcstrings",
+"Event",
+"Event"
+],
+[
+"Shared/Localizable.xcstrings",
+"Event saved",
+"Event saved"
+],
+[
+"Shared/Localizable.xcstrings",
+"Event saved.",
+"Event saved."
+],
+[
+"Shared/Localizable.xcstrings",
+"Events",
+"Events"
+],
+[
+"Shared/Localizable.xcstrings",
+"Export all data",
+"Export all data"
+],
+[
+"Shared/Localizable.xcstrings",
+"Export current data first",
+"Export current data first"
+],
+[
+"Shared/Localizable.xcstrings",
+"For example 100000 kWh for a meter with five digits before the decimal point.",
+"For example 100000 kWh for a meter with five digits before the decimal point."
+],
+[
+"Shared/Localizable.xcstrings",
+"For example: away 2 weeks, sauna 3h.",
+"For example: away 2 weeks, sauna 3h."
+],
+[
+"Shared/Localizable.xcstrings",
+"From %@ · minimum term %lld months",
+"From %1$@ · minimum term %2$lld months"
+],
+[
+"Shared/Localizable.xcstrings",
+"Gap",
+"Gap"
+],
+[
+"Shared/Localizable.xcstrings",
+"Gap end",
+"Gap end"
+],
+[
+"Shared/Localizable.xcstrings",
+"Gap start",
+"Gap start"
+],
+[
+"Shared/Localizable.xcstrings",
+"Get Energy Status",
+"Get Energy Status"
+],
+[
+"Shared/Localizable.xcstrings",
+"History",
+"History"
+],
+[
+"Shared/Localizable.xcstrings",
+"How much electricity do you expect to use in a year?",
+"How much electricity do you expect to use in a year?"
+],
+[
+"Shared/Localizable.xcstrings",
+"How this is calculated",
+"How this is calculated"
+],
+[
+"Shared/Localizable.xcstrings",
+"Import",
+"Import"
+],
+[
+"Shared/Localizable.xcstrings",
+"Import finished.",
+"Import finished."
+],
+[
+"Shared/Localizable.xcstrings",
+"Import from export file",
+"Import from export file"
+],
+[
+"Shared/Localizable.xcstrings",
+"Importing…",
+"Importing…"
+],
+[
+"Shared/Localizable.xcstrings",
+"Its change history is kept.",
+"Its change history is kept."
+],
+[
+"Shared/Localizable.xcstrings",
+"Keep",
+"Keep"
+],
+[
+"Shared/Localizable.xcstrings",
+"Keep one tariff",
+"Keep one tariff"
+],
+[
+"Shared/Localizable.xcstrings",
+"Keep selected, delete the other",
+"Keep selected, delete the other"
+],
+[
+"Shared/Localizable.xcstrings",
+"Last reading %lld days ago",
+"Last reading %lld days ago"
+],
+[
+"Shared/Localizable.xcstrings",
+"Last reading %lld days ago — status is less certain",
+"Last reading %lld days ago — status is less certain"
+],
+[
+"Shared/Localizable.xcstrings",
+"Last reading %lld days ago; you count a status as less certain after %lld days.",
+"Last reading %1$lld days ago; you count a status as less certain after %2$lld days."
+],
+[
+"Shared/Localizable.xcstrings",
+"Last reading today",
+"Last reading today"
+],
+[
+"Shared/Localizable.xcstrings",
+"Last reading yesterday",
+"Last reading yesterday"
+],
+[
+"Shared/Localizable.xcstrings",
+"Last: %@ · %@",
+"Last: %1$@ · %2$@"
+],
+[
+"Shared/Localizable.xcstrings",
+"Later",
+"Later"
+],
+[
+"Shared/Localizable.xcstrings",
+"Less certain",
+"Less certain"
+],
+[
+"Shared/Localizable.xcstrings",
+"Less certain after",
+"Less certain after"
+],
+[
+"Shared/Localizable.xcstrings",
+"Light",
+"Light"
+],
+[
+"Shared/Localizable.xcstrings",
+"Log ${kwh} kWh",
+"Log ${kwh} kWh"
+],
+[
+"Shared/Localizable.xcstrings",
+"Log Event",
+"Log Event"
+],
+[
+"Shared/Localizable.xcstrings",
+"Log Meter Reading",
+"Log Meter Reading"
+],
+[
+"Shared/Localizable.xcstrings",
+"Log Reading",
+"Log Reading"
+],
+[
+"Shared/Localizable.xcstrings",
+"Log a reading",
+"Log a reading"
+],
+[
+"Shared/Localizable.xcstrings",
+"Log at least two readings to compare tariffs.",
+"Log at least two readings to compare tariffs."
+],
+[
+"Shared/Localizable.xcstrings",
+"Log event",
+"Log event"
+],
+[
+"Shared/Localizable.xcstrings",
+"Log event ${text}",
+"Log event ${text}"
+],
+[
+"Shared/Localizable.xcstrings",
+"Log reading",
+"Log reading"
+],
+[
+"Shared/Localizable.xcstrings",
+"Log your first reading to get started",
+"Log your first reading to get started"
+],
+[
+"Shared/Localizable.xcstrings",
+"Looking for your data in iCloud…",
+"Looking for your data in iCloud…"
+],
+[
+"Shared/Localizable.xcstrings",
+"Lower reading",
+"Lower reading"
+],
+[
+"Shared/Localizable.xcstrings",
+"Lower than the reading before",
+"Lower than the reading before"
+],
+[
+"Shared/Localizable.xcstrings",
+"Meter capacity",
+"Meter capacity"
+],
+[
+"Shared/Localizable.xcstrings",
+"Meter reading",
+"Meter reading"
+],
+[
+"Shared/Localizable.xcstrings",
+"Meter replaced or reset",
+"Meter replaced or reset"
+],
+[
+"Shared/Localizable.xcstrings",
+"Meter rolled over",
+"Meter rolled over"
+],
+[
+"Shared/Localizable.xcstrings",
+"Meter rolled over (digits wrapped)",
+"Meter rolled over (digits wrapped)"
+],
+[
+"Shared/Localizable.xcstrings",
+"Meter was replaced or reset",
+"Meter was replaced or reset"
+],
+[
+"Shared/Localizable.xcstrings",
+"Minimum term",
+"Minimum term"
+],
+[
+"Shared/Localizable.xcstrings",
+"Minimum term changed from %@ to %@ months",
+"Minimum term changed from %1$@ to %2$@ months"
+],
+[
+"Shared/Localizable.xcstrings",
+"Minimum term ends",
+"Minimum term ends"
+],
+[
+"Shared/Localizable.xcstrings",
+"Money",
+"Money"
+],
+[
+"Shared/Localizable.xcstrings",
+"Move to",
+"Move to"
+],
+[
+"Shared/Localizable.xcstrings",
+"Name",
+"Name"
+],
+[
+"Shared/Localizable.xcstrings",
+"Names need 1 to 200 characters.",
+"Names need 1 to 200 characters."
+],
+[
+"Shared/Localizable.xcstrings",
+"Needs a decision",
+"Needs a decision"
+],
+[
+"Shared/Localizable.xcstrings",
+"New device",
+"New device"
+],
+[
+"Shared/Localizable.xcstrings",
+"New power point",
+"New power point"
+],
+[
+"Shared/Localizable.xcstrings",
+"New room",
+"New room"
+],
+[
+"Shared/Localizable.xcstrings",
+"Next",
+"Next"
+],
+[
+"Shared/Localizable.xcstrings",
+"No events yet. Log one when something unusual happens, like being away or a guest staying over.",
+"No events yet. Log one when something unusual happens, like being away or a guest staying over."
+],
+[
+"Shared/Localizable.xcstrings",
+"No history yet",
+"No history yet"
+],
+[
+"Shared/Localizable.xcstrings",
+"No matching events.",
+"No matching events."
+],
+[
+"Shared/Localizable.xcstrings",
+"No matching readings.",
+"No matching readings."
+],
+[
+"Shared/Localizable.xcstrings",
+"No reading between %@ and %@, so this stretch is shown as a gap.",
+"No reading between %1$@ and %2$@, so this stretch is shown as a gap."
+],
+[
+"Shared/Localizable.xcstrings",
+"No readings yet.",
+"No readings yet."
+],
+[
+"Shared/Localizable.xcstrings",
+"No rooms yet. Rooms, power points and devices are labels for events.",
+"No rooms yet. Rooms, power points and devices are labels for events."
+],
+[
+"Shared/Localizable.xcstrings",
+"None",
+"None"
+],
+[
+"Shared/Localizable.xcstrings",
+"Not worth switching",
+"Not worth switching"
+],
+[
+"Shared/Localizable.xcstrings",
+"Nothing to decide",
+"Nothing to decide"
+],
+[
+"Shared/Localizable.xcstrings",
+"Notifications are turned off for Energy Tracker in the Settings app.",
+"Notifications are turned off for Energy Tracker in the Settings app."
+],
+[
+"Shared/Localizable.xcstrings",
+"OK",
+"OK"
+],
+[
+"Shared/Localizable.xcstrings",
+"Open Log Reading",
+"Open Log Reading"
+],
+[
+"Shared/Localizable.xcstrings",
+"Opens Energy Tracker ready to log a meter reading.",
+"Opens Energy Tracker ready to log a meter reading."
+],
+[
+"Shared/Localizable.xcstrings",
+"Opens Energy Tracker ready to log a reading.",
+"Opens Energy Tracker ready to log a reading."
+],
+[
+"Shared/Localizable.xcstrings",
+"Original value",
+"Original value"
+],
+[
+"Shared/Localizable.xcstrings",
+"Pace",
+"Pace"
+],
+[
+"Shared/Localizable.xcstrings",
+"Per year",
+"Per year"
+],
+[
+"Shared/Localizable.xcstrings",
+"Period",
+"Period"
+],
+[
+"Shared/Localizable.xcstrings",
+"Power points",
+"Power points"
+],
+[
+"Shared/Localizable.xcstrings",
+"Price per kWh",
+"Price per kWh"
+],
+[
+"Shared/Localizable.xcstrings",
+"Price per kWh changed from %@ to %@",
+"Price per kWh changed from %1$@ to %2$@"
+],
+[
+"Shared/Localizable.xcstrings",
+"Privacy policy",
+"Privacy policy"
+],
+[
+"Shared/Localizable.xcstrings",
+"Privacy: your data stays on your Apple devices and in your private iCloud database. Energy Tracker has no server, no account, no analytics and no tracking.",
+"Privacy: your data stays on your Apple devices and in your private iCloud database. Energy Tracker has no server, no account, no analytics and no tracking."
+],
+[
+"Shared/Localizable.xcstrings",
+"Problems",
+"Problems"
+],
+[
+"Shared/Localizable.xcstrings",
+"Range",
+"Range"
+],
+[
+"Shared/Localizable.xcstrings",
+"Read at",
+"Read at"
+],
+[
+"Shared/Localizable.xcstrings",
+"Read your meter every day or two. Energy Tracker tells you whether this year's use is on track.",
+"Read your meter every day or two. Energy Tracker tells you whether this year's use is on track."
+],
+[
+"Shared/Localizable.xcstrings",
+"Reading",
+"Reading"
+],
+[
+"Shared/Localizable.xcstrings",
+"Reading not found",
+"Reading not found"
+],
+[
+"Shared/Localizable.xcstrings",
+"Readings",
+"Readings"
+],
+[
+"Shared/Localizable.xcstrings",
+"Readings cannot be deleted. Correct the value instead.",
+"Readings cannot be deleted. Correct the value instead."
+],
+[
+"Shared/Localizable.xcstrings",
+"Recent events",
+"Recent events"
+],
+[
+"Shared/Localizable.xcstrings",
+"Regression decisions",
+"Regression decisions"
+],
+[
+"Shared/Localizable.xcstrings",
+"Reminders",
+"Reminders"
+],
+[
+"Shared/Localizable.xcstrings",
+"Rename",
+"Rename"
+],
+[
+"Shared/Localizable.xcstrings",
+"Replace all data",
+"Replace all data"
+],
+[
+"Shared/Localizable.xcstrings",
+"Replace all data?",
+"Replace all data?"
+],
+[
+"Shared/Localizable.xcstrings",
+"Restore",
+"Restore"
+],
+[
+"Shared/Localizable.xcstrings",
+"Right on baseline pace so far",
+"Right on baseline pace so far"
+],
+[
+"Shared/Localizable.xcstrings",
+"Rooms",
+"Rooms"
+],
+[
+"Shared/Localizable.xcstrings",
+"Rooms & Devices",
+"Rooms & Devices"
+],
+[
+"Shared/Localizable.xcstrings",
+"Save",
+"Save"
+],
+[
+"Shared/Localizable.xcstrings",
+"Save rollover",
+"Save rollover"
+],
+[
+"Shared/Localizable.xcstrings",
+"Saved",
+"Saved"
+],
+[
+"Shared/Localizable.xcstrings",
+"Saved %@.",
+"Saved %@."
+],
+[
+"Shared/Localizable.xcstrings",
+"Saved %@. %@",
+"Saved %1$@. %2$@"
+],
+[
+"Shared/Localizable.xcstrings",
+"Saved · %@",
+"Saved · %@"
+],
+[
+"Shared/Localizable.xcstrings",
+"Saved. This reading is lower than the previous one — open Energy Tracker to classify it.",
+"Saved. This reading is lower than the previous one — open Energy Tracker to classify it."
+],
+[
+"Shared/Localizable.xcstrings",
+"Saves a Main Meter reading with the current time and tells you the new status.",
+"Saves a Main Meter reading with the current time and tells you the new status."
+],
+[
+"Shared/Localizable.xcstrings",
+"Saves a short note about something that affects consumption, such as being away.",
+"Saves a short note about something that affects consumption, such as being away."
+],
+[
+"Shared/Localizable.xcstrings",
+"Scaled to the period",
+"Scaled to the period"
+],
+[
+"Shared/Localizable.xcstrings",
+"Segment",
+"Segment"
+],
+[
+"Shared/Localizable.xcstrings",
+"Set your yearly target to see your status",
+"Set your yearly target to see your status"
+],
+[
+"Shared/Localizable.xcstrings",
+"Settings",
+"Settings"
+],
+[
+"Shared/Localizable.xcstrings",
+"Show archived",
+"Show archived"
+],
+[
+"Shared/Localizable.xcstrings",
+"Shows how the status is calculated",
+"Shows how the status is calculated"
+],
+[
+"Shared/Localizable.xcstrings",
+"Skip",
+"Skip"
+],
+[
+"Shared/Localizable.xcstrings",
+"Smart plug readings (kept, not shown)",
+"Smart plug readings (kept, not shown)"
+],
+[
+"Shared/Localizable.xcstrings",
+"Start date changed from %@ to %@",
+"Start date changed from %1$@ to %2$@"
+],
+[
+"Shared/Localizable.xcstrings",
+"Start fresh",
+"Start fresh"
+],
+[
+"Shared/Localizable.xcstrings",
+"Status snapshots",
+"Status snapshots"
+],
+[
+"Shared/Localizable.xcstrings",
+"Support",
+"Support"
+],
+[
+"Shared/Localizable.xcstrings",
+"Switching bonus (optional)",
+"Switching bonus (optional)"
+],
+[
+"Shared/Localizable.xcstrings",
+"Synced with iCloud",
+"Synced with iCloud"
+],
+[
+"Shared/Localizable.xcstrings",
+"System",
+"System"
+],
+[
+"Shared/Localizable.xcstrings",
+"Tag",
+"Tag"
+],
+[
+"Shared/Localizable.xcstrings",
+"Tariff",
+"Tariff"
+],
+[
+"Shared/Localizable.xcstrings",
+"Tariff check every",
+"Tariff check every"
+],
+[
+"Shared/Localizable.xcstrings",
+"Tariff check — add your current tariff first.",
+"Tariff check — add your current tariff first."
+],
+[
+"Shared/Localizable.xcstrings",
+"Tariff check — nothing due until %@",
+"Tariff check — nothing due until %@"
+],
+[
+"Shared/Localizable.xcstrings",
+"Tariff not found",
+"Tariff not found"
+],
+[
+"Shared/Localizable.xcstrings",
+"Tariff reminders on this iPad",
+"Tariff reminders on this iPad"
+],
+[
+"Shared/Localizable.xcstrings",
+"Tariff reminders on this iPhone",
+"Tariff reminders on this iPhone"
+],
+[
+"Shared/Localizable.xcstrings",
+"Tariff saved",
+"Tariff saved"
+],
+[
+"Shared/Localizable.xcstrings",
+"Tariffs",
+"Tariffs"
+],
+[
+"Shared/Localizable.xcstrings",
+"Tells you in one sentence whether your electricity use is on track.",
+"Tells you in one sentence whether your electricity use is on track."
+],
+[
+"Shared/Localizable.xcstrings",
+"That value is too large for a meter reading.",
+"That value is too large for a meter reading."
+],
+[
+"Shared/Localizable.xcstrings",
+"The base fee must be 0 or more.",
+"The base fee must be 0 or more."
+],
+[
+"Shared/Localizable.xcstrings",
+"The capacity must be larger than the previous reading.",
+"The capacity must be larger than the previous reading."
+],
+[
+"Shared/Localizable.xcstrings",
+"The contract period must be between 1 and 1,200 months.",
+"The contract period must be between 1 and 1,200 months."
+],
+[
+"Shared/Localizable.xcstrings",
+"The difference is larger than the threshold for this period, so the status is trending.",
+"The difference is larger than the threshold for this period, so the status is trending."
+],
+[
+"Shared/Localizable.xcstrings",
+"The difference is not larger than the threshold for this period, so the status is within range.",
+"The difference is not larger than the threshold for this period, so the status is within range."
+],
+[
+"Shared/Localizable.xcstrings",
+"The file contains",
+"The file contains"
+],
+[
+"Shared/Localizable.xcstrings",
+"The file could not be read.",
+"The file could not be read."
+],
+[
+"Shared/Localizable.xcstrings",
+"The file is larger than 250 MB.",
+"The file is larger than 250 MB."
+],
+[
+"Shared/Localizable.xcstrings",
+"The minimum term is not an end date. The tariff applies until the next tariff starts.",
+"The minimum term is not an end date. The tariff applies until the next tariff starts."
+],
+[
+"Shared/Localizable.xcstrings",
+"The original value stays visible in the reading's history.",
+"The original value stays visible in the reading's history."
+],
+[
+"Shared/Localizable.xcstrings",
+"The price per kWh must be greater than 0.",
+"The price per kWh must be greater than 0."
+],
+[
+"Shared/Localizable.xcstrings",
+"The start date must be between 1900 and 2200.",
+"The start date must be between 1900 and 2200."
+],
+[
+"Shared/Localizable.xcstrings",
+"The value shown on the meter.",
+"The value shown on the meter."
+],
+[
+"Shared/Localizable.xcstrings",
+"This contract already started. Change its prices anyway?",
+"This contract already started. Change its prices anyway?"
+],
+[
+"Shared/Localizable.xcstrings",
+"This deletes all current data on all your devices signed in to this Apple Account and replaces it with the file.",
+"This deletes all current data on all your devices signed in to this Apple Account and replaces it with the file."
+],
+[
+"Shared/Localizable.xcstrings",
+"This file can't be imported. Nothing was changed.",
+"This file can't be imported. Nothing was changed."
+],
+[
+"Shared/Localizable.xcstrings",
+"This item no longer exists.",
+"This item no longer exists."
+],
+[
+"Shared/Localizable.xcstrings",
+"This reading is lower than the one before (%@ → %@ kWh). What happened?",
+"This reading is lower than the one before (%1$@ → %2$@ kWh). What happened?"
+],
+[
+"Shared/Localizable.xcstrings",
+"This reading was classified differently on another device. It is now: %@.",
+"This reading was classified differently on another device. It is now: %@."
+],
+[
+"Shared/Localizable.xcstrings",
+"This setting is per device, so you can get the reminder on one device only instead of on all of them. You get one reminder at 10:00 on the day the tariff check is due.",
+"This setting is per device, so you can get the reminder on one device only instead of on all of them. You get one reminder at 10:00 on the day the tariff check is due."
+],
+[
+"Shared/Localizable.xcstrings",
+"Threshold",
+"Threshold"
+],
+[
+"Shared/Localizable.xcstrings",
+"Time to check your tariff",
+"Time to check your tariff"
+],
+[
+"Shared/Localizable.xcstrings",
+"Time to check your tariff — your minimum term ends on %@",
+"Time to check your tariff — your minimum term ends on %@"
+],
+[
+"Shared/Localizable.xcstrings",
+"To be deleted",
+"To be deleted"
+],
+[
+"Shared/Localizable.xcstrings",
+"Today",
+"Today"
+],
+[
+"Shared/Localizable.xcstrings",
+"Trend",
+"Trend"
+],
+[
+"Shared/Localizable.xcstrings",
+"Trend history",
+"Trend history"
+],
+[
+"Shared/Localizable.xcstrings",
+"Trending",
+"Trending"
+],
+[
+"Shared/Localizable.xcstrings",
+"Trending threshold",
+"Trending threshold"
+],
+[
+"Shared/Localizable.xcstrings",
+"Two tariffs start on %@ — keep one",
+"Two tariffs start on %@ — keep one"
+],
+[
+"Shared/Localizable.xcstrings",
+"Typical values",
+"Typical values"
+],
+[
+"Shared/Localizable.xcstrings",
+"Usage was above baseline pace in the two weeks around this event.",
+"Usage was above baseline pace in the two weeks around this event."
+],
+[
+"Shared/Localizable.xcstrings",
+"Usage was below baseline pace in the two weeks around this event.",
+"Usage was below baseline pace in the two weeks around this event."
+],
+[
+"Shared/Localizable.xcstrings",
+"Use a 3-letter currency code such as EUR.",
+"Use a 3-letter currency code such as EUR."
+],
+[
+"Shared/Localizable.xcstrings",
+"Use at most 2 decimal places.",
+"Use at most 2 decimal places."
+],
+[
+"Shared/Localizable.xcstrings",
+"Used only to tag events. Consumption is never split by room or device.",
+"Used only to tag events. Consumption is never split by room or device."
+],
+[
+"Shared/Localizable.xcstrings",
+"Used so far",
+"Used so far"
+],
+[
+"Shared/Localizable.xcstrings",
+"Value",
+"Value"
+],
+[
+"Shared/Localizable.xcstrings",
+"Version",
+"Version"
+],
+[
+"Shared/Localizable.xcstrings",
+"View",
+"View"
+],
+[
+"Shared/Localizable.xcstrings",
+"What does the meter show, in kWh?",
+"What does the meter show, in kWh?"
+],
+[
+"Shared/Localizable.xcstrings",
+"What happened?",
+"What happened?"
+],
+[
+"Shared/Localizable.xcstrings",
+"When",
+"When"
+],
+[
+"Shared/Localizable.xcstrings",
+"Whether this year's electricity use is on track.",
+"Whether this year's electricity use is on track."
+],
+[
+"Shared/Localizable.xcstrings",
+"Which currency do your tariffs use?",
+"Which currency do your tariffs use?"
+],
+[
+"Shared/Localizable.xcstrings",
+"With bonus",
+"With bonus"
+],
+[
+"Shared/Localizable.xcstrings",
+"Within range",
+"Within range"
+],
+[
+"Shared/Localizable.xcstrings",
+"Without bonus effect",
+"Without bonus effect"
+],
+[
+"Shared/Localizable.xcstrings",
+"Worth switching",
+"Worth switching"
+],
+[
+"Shared/Localizable.xcstrings",
+"Yearly target",
+"Yearly target"
+],
+[
+"Shared/Localizable.xcstrings",
+"You used less than the baseline for this period, so the status is below baseline.",
+"You used less than the baseline for this period, so the status is below baseline."
+],
+[
+"Shared/Localizable.xcstrings",
+"Your last annual bill is the best guide. You can change this at any time.",
+"Your last annual bill is the best guide. You can change this at any time."
+],
+[
+"Shared/Localizable.xcstrings",
+"Your minimum term ends on %@.",
+"Your minimum term ends on %@."
+],
+[
+"Shared/Localizable.xcstrings",
+"Your pattern",
+"Your pattern"
+],
+[
+"Shared/Localizable.xcstrings",
+"costs %@ more / year",
+"costs %@ more / year"
+],
+[
+"Shared/Localizable.xcstrings",
+"iCloud",
+"iCloud"
+],
+[
+"Shared/Localizable.xcstrings",
+"iCloud is restricted on this device.",
+"iCloud is restricted on this device."
+],
+[
+"Shared/Localizable.xcstrings",
+"iCloud is temporarily unavailable.",
+"iCloud is temporarily unavailable."
+],
+[
+"Shared/Localizable.xcstrings",
+"iCloud status could not be determined.",
+"iCloud status could not be determined."
+],
+[
+"Shared/Localizable.xcstrings",
+"iCloud sync is not set up in this build.",
+"iCloud sync is not set up in this build."
+],
+[
+"Shared/Localizable.xcstrings",
+"iCloud sync off — data stays on %@. Reason: %@",
+"iCloud sync off — data stays on %1$@. Reason: %2$@"
+],
+[
+"Shared/Localizable.xcstrings",
+"kWh",
+"kWh"
+],
+[
+"Shared/Localizable.xcstrings",
+"kWh/year",
+"kWh/year"
+],
+[
+"Shared/Localizable.xcstrings",
+"month",
+"month"
+],
+[
+"Shared/Localizable.xcstrings",
+"not signed in to iCloud.",
+"not signed in to iCloud."
+],
+[
+"Shared/Localizable.xcstrings",
+"reset",
+"reset"
+],
+[
+"Shared/Localizable.xcstrings",
+"rollover",
+"rollover"
+],
+[
+"Shared/Localizable.xcstrings",
+"saved",
+"saved"
+],
+[
+"Shared/Localizable.xcstrings",
+"saves %@ / year",
+"saves %@ / year"
+],
+[
+"Shared/Localizable.xcstrings",
+"saves nothing",
+"saves nothing"
+],
+[
+"Shared/Localizable.xcstrings",
+"this iPad",
+"this iPad"
+],
+[
+"Shared/Localizable.xcstrings",
+"this iPhone",
+"this iPhone"
+],
+[
+"Shared/Localizable.xcstrings",
+"·",
+"·"
+],
+[
+"Shared/Localizable.xcstrings",
+"≈ %@ kWh",
+"≈ %@ kWh"
+]
+]

@@ -1,0 +1,2 @@
+// Debug: CloudKit Development environment, test data only (§10).
+#include "Shared.xcconfig"

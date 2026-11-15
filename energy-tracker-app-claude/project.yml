@@ -1,0 +1,152 @@
+name: EnergyTracker
+options:
+  bundleIdPrefix: de.ralfonsoftware
+  deploymentTarget:
+    iOS: "26.0"
+  developmentLanguage: en
+  createIntermediateGroups: true
+  groupSortPosition: top
+configs:
+  Debug: debug
+  Personal: release
+  Release: release
+configFiles:
+  Debug: Config/Debug.xcconfig
+  Personal: Config/Personal.xcconfig
+  Release: Config/Release.xcconfig
+settings:
+  base:
+    SWIFT_VERSION: "5.0"
+    MARKETING_VERSION: "1.0.0"
+    CURRENT_PROJECT_VERSION: "1"
+    TARGETED_DEVICE_FAMILY: "1,2"
+    IPHONEOS_DEPLOYMENT_TARGET: "26.0"
+    LOCALIZATION_PREFERS_STRING_CATALOGS: YES
+    SWIFT_EMIT_LOC_STRINGS: YES
+    STRING_CATALOG_GENERATE_SYMBOLS: NO
+    ENABLE_USER_SCRIPT_SANDBOXING: YES
+    DEAD_CODE_STRIPPING: YES
+packages:
+  EnergyCore:
+    path: EnergyCore
+targets:
+  EnergyTracker:
+    type: application
+    platform: iOS
+    sources:
+      - path: App
+      - path: Shared
+    dependencies:
+      - package: EnergyCore
+      - target: EnergyTrackerWidgets
+        embed: true
+    info:
+      path: App/Info.plist
+      properties:
+        CFBundleDisplayName: Energy Tracker
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+        CFBundleDevelopmentRegion: en
+        CFBundleLocalizations: [en, de]
+        CFBundleAllowMixedLocalizations: false
+        ITSAppUsesNonExemptEncryption: false
+        LSRequiresIPhoneOS: true
+        UILaunchScreen: {}
+        UIApplicationSceneManifest:
+          UIApplicationSupportsMultipleScenes: true
+        UISupportedInterfaceOrientations: [UIInterfaceOrientationPortrait, UIInterfaceOrientationLandscapeLeft, UIInterfaceOrientationLandscapeRight]
+        UISupportedInterfaceOrientations~ipad: [UIInterfaceOrientationPortrait, UIInterfaceOrientationPortraitUpsideDown, UIInterfaceOrientationLandscapeLeft, UIInterfaceOrientationLandscapeRight]
+        UIBackgroundModes: [remote-notification]
+        CFBundleURLTypes:
+          - CFBundleURLName: de.ralfonsoftware.EnergyTracker
+            CFBundleURLSchemes: [energytracker]
+        ETAppGroupIdentifier: $(ET_APP_GROUP)
+        ETCloudKitContainerIdentifier: $(ET_CLOUDKIT_CONTAINER)
+        ETSupportURL: $(ET_SUPPORT_URL)
+        ETPrivacyPolicyURL: $(ET_PRIVACY_POLICY_URL)
+        NSSupportsLiveActivities: false
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: $(ET_BUNDLE_ID)
+        PRODUCT_NAME: EnergyTracker
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
+        CODE_SIGN_STYLE: Automatic
+        ENABLE_PREVIEWS: YES
+      configs:
+        Debug:
+          CODE_SIGN_ENTITLEMENTS: Config/EnergyTracker-Development.entitlements
+        Personal:
+          CODE_SIGN_ENTITLEMENTS: Config/EnergyTracker-Production.entitlements
+        Release:
+          CODE_SIGN_ENTITLEMENTS: Config/EnergyTracker-Production.entitlements
+  EnergyTrackerWidgets:
+    type: app-extension
+    platform: iOS
+    sources:
+      - path: Widgets
+      - path: Shared
+    dependencies:
+      - package: EnergyCore
+      - sdk: WidgetKit.framework
+      - sdk: SwiftUI.framework
+    info:
+      path: Widgets/Info.plist
+      properties:
+        CFBundleDisplayName: Energy Tracker
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+        NSExtension:
+          NSExtensionPointIdentifier: com.apple.widgetkit-extension
+        ETAppGroupIdentifier: $(ET_APP_GROUP)
+        ETCloudKitContainerIdentifier: ""
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: $(ET_BUNDLE_ID).Widgets
+        PRODUCT_NAME: EnergyTrackerWidgets
+        ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
+        ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME: WidgetBackground
+        CODE_SIGN_STYLE: Automatic
+        CODE_SIGN_ENTITLEMENTS: Config/EnergyTrackerWidgets.entitlements
+        SKIP_INSTALL: YES
+  EnergyTrackerUITests:
+    type: bundle.ui-testing
+    platform: iOS
+    sources:
+      - path: UITests
+    dependencies:
+      - target: EnergyTracker
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: $(ET_BUNDLE_ID).UITests
+        TEST_TARGET_NAME: EnergyTracker
+        CODE_SIGN_STYLE: Automatic
+        GENERATE_INFOPLIST_FILE: YES
+schemes:
+  EnergyTracker:
+    build:
+      targets:
+        EnergyTracker: all
+        EnergyTrackerWidgets: all
+    run:
+      config: Debug
+    test:
+      config: Debug
+      targets:
+        - package: EnergyCore/EnergyCoreTests
+        - EnergyTrackerUITests
+    profile:
+      config: Release
+    analyze:
+      config: Debug
+    archive:
+      config: Release
+  EnergyTracker-Personal:
+    build:
+      targets:
+        EnergyTracker: all
+        EnergyTrackerWidgets: all
+    run:
+      config: Personal
+    archive:
+      config: Personal

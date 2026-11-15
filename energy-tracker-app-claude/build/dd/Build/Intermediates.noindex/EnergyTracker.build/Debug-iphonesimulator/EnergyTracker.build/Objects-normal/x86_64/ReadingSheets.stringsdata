@@ -1,0 +1,304 @@
+{
+  "source": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Views/ReadingSheets.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Log reading",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "Last: %@ · %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "kWh",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "Meter reading",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "Already saved",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 92
+        }
+      },
+      {
+        "comment": "",
+        "key": "Saved",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 96
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter a number, for example 12345.6.",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 86
+        }
+      },
+      {
+        "comment": "",
+        "key": "Read at",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 63
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 70
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "Saved · %@",
+        "location": {
+          "startingColumn": 57,
+          "startingLine": 112
+        }
+      },
+      {
+        "comment": "",
+        "key": "Saved",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 113
+        }
+      },
+      {
+        "comment": "",
+        "key": "Meter capacity",
+        "location": {
+          "startingColumn": 67,
+          "startingLine": 137
+        }
+      },
+      {
+        "comment": "",
+        "key": "Lower reading",
+        "location": {
+          "startingColumn": 105,
+          "startingLine": 137
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nothing to decide",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 134
+        }
+      },
+      {
+        "comment": "",
+        "key": "Later",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 141
+        }
+      },
+      {
+        "comment": "",
+        "key": "This reading is lower than the one before (%@ → %@ kWh). What happened?",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 155
+        }
+      },
+      {
+        "comment": "",
+        "key": "Currently classified as: %@.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 160
+        }
+      },
+      {
+        "comment": "",
+        "key": "Digit capacity",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 166
+        }
+      },
+      {
+        "comment": "",
+        "key": "At what value do the digits wrap?",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 168
+        }
+      },
+      {
+        "comment": "",
+        "key": "For example 100000 kWh for a meter with five digits before the decimal point.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 171
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save rollover",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 175
+        }
+      },
+      {
+        "comment": "",
+        "key": "The capacity must be larger than the previous reading.",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 206
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter the capacity in kWh, for example 100000.",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 202
+        }
+      },
+      {
+        "comment": "",
+        "key": "Meter was replaced or reset",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 183
+        }
+      },
+      {
+        "comment": "",
+        "key": "Meter rolled over (digits wrapped)",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 190
+        }
+      },
+      {
+        "comment": "",
+        "key": "Correct reading",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 265
+        }
+      },
+      {
+        "comment": "",
+        "key": "Current value",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 247
+        }
+      },
+      {
+        "comment": "",
+        "key": "Read at",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 248
+        }
+      },
+      {
+        "comment": "",
+        "key": "kWh",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 256
+        }
+      },
+      {
+        "comment": "",
+        "key": "Correct value",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 252
+        }
+      },
+      {
+        "comment": "",
+        "key": "The original value stays visible in the reading's history.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 260
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 70,
+          "startingLine": 268
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 270
+        }
+      },
+      {
+        "comment": "",
+        "key": "Corrected · %@",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 296
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter a number, for example 12345.6.",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 285
+        }
+      },
+      {
+        "comment": "",
+        "key": "saved",
+        "location": {
+          "startingColumn": 133,
+          "startingLine": 296
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,50 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Get my ${applicationName} status" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringSet" : {
+            "state" : "new",
+            "values" : [
+              "Get my ${applicationName} status",
+              "Is my electricity on track in ${applicationName}",
+              "${applicationName} status"
+            ]
+          }
+        }
+      }
+    },
+    "Log a meter reading in ${applicationName}" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringSet" : {
+            "state" : "new",
+            "values" : [
+              "Log a meter reading in ${applicationName}",
+              "Log meter reading with ${applicationName}",
+              "New ${applicationName} reading"
+            ]
+          }
+        }
+      }
+    },
+    "Log an event in ${applicationName}" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringSet" : {
+            "state" : "new",
+            "values" : [
+              "Log an event in ${applicationName}",
+              "Add a note to ${applicationName}"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

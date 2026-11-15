@@ -1,0 +1,69 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "CFBundleDisplayName" : {
+      "comment" : "Bundle display name",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Energy Tracker"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Energy Tracker"
+          }
+        }
+      }
+    },
+    "CFBundleName" : {
+      "comment" : "Bundle name",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "EnergyTracker"
+          }
+        }
+      }
+    },
+    "NSSiriUsageDescription" : {
+      "comment" : "Privacy - Siri Usage Description",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erfasse Zählerstände und Ereignisse und frage nach deinem Energiestatus."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Log meter readings and events, and ask for your energy status."
+          }
+        }
+      }
+    },
+    "NSUserNotificationsUsageDescription" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lokale Tariferinnerungen werden nur erstellt, wenn du sie auf diesem Gerät aktivierst."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Local tariff reminders are created only when you enable them on this device."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

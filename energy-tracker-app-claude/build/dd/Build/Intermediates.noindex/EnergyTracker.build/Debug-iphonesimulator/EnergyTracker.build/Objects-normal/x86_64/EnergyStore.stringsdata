@@ -1,0 +1,120 @@
+{
+  "source": "/Users/ralf/Dev/Projects/energy-tracker-app-claude/App/Services/EnergyStore.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Enter a value greater than 0 kWh.",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "That value is too large for a meter reading.",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 32
+        }
+      },
+      {
+        "comment": "",
+        "key": "Use at most 2 decimal places.",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "Another tariff already starts on %@.",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 46
+        }
+      },
+      {
+        "comment": "",
+        "key": "Names need 1 to 200 characters.",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 47
+        }
+      },
+      {
+        "comment": "",
+        "key": "Describe the event in 1 to 500 characters.",
+        "location": {
+          "startingColumn": 53,
+          "startingLine": 48
+        }
+      },
+      {
+        "comment": "",
+        "key": "An archived item cannot get new items.",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "This item no longer exists.",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "Could not save: %@",
+        "location": {
+          "startingColumn": 58,
+          "startingLine": 51
+        }
+      },
+      {
+        "comment": "",
+        "key": "The base fee must be 0 or more.",
+        "location": {
+          "startingColumn": 60,
+          "startingLine": 38
+        }
+      },
+      {
+        "comment": "",
+        "key": "The price per kWh must be greater than 0.",
+        "location": {
+          "startingColumn": 58,
+          "startingLine": 39
+        }
+      },
+      {
+        "comment": "",
+        "key": "Use a 3-letter currency code such as EUR.",
+        "location": {
+          "startingColumn": 58,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "The contract period must be between 1 and 1,200 months.",
+        "location": {
+          "startingColumn": 59,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "The start date must be between 1900 and 2200.",
+        "location": {
+          "startingColumn": 62,
+          "startingLine": 42
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,3 @@
+// Personal builds installed from Xcode: CloudKit Production environment, same real data as TestFlight (§10).
+#include "Shared.xcconfig"
+SWIFT_ACTIVE_COMPILATION_CONDITIONS = PERSONAL
